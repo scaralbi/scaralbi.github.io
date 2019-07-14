@@ -4,6 +4,13 @@ title: Notes
 description: A catalogues of notes
 ---
 
+## Genetics
+
+   *  [Bacterial Genetics]({{ site.url }}/assets/bacterial genetics.pdf)
+    
+    * [Genes and Genomes]({{ site.url }}/assets/genesandgenomes.pdf)
+
+
 # Biotechnology
 
 
@@ -11,6 +18,8 @@ description: A catalogues of notes
 
 
 # Biochemistry
+
+
 
 # Photosynthesis and cyanobacteria
 

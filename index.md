@@ -2,9 +2,6 @@
 layout: default
 ---
 
-[Projects](./projects/projects.html).
-
-
 # Hello and welcome to my webpage
 
 This is just my personal space in the web. 
