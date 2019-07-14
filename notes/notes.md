@@ -3,7 +3,6 @@ layout: default
 title: Notes
 description: A catalogues of notes
 ---
-[back to home](./)
 
 # Biotechnology
 

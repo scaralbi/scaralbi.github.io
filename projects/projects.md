@@ -3,7 +3,6 @@ layout: default
 title: Projects
 description: A list of project and ideas
 ---
-[back to home](./)
 
 # iGEM
 
