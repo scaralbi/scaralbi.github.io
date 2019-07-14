@@ -3,7 +3,7 @@ layout: default
 title: Notes
 description: A catalogues of notes
 ---
-[back to home](./)
+[back to home](./index.md)
 
 # Biotechnology
 
