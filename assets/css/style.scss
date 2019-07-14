@@ -5,8 +5,17 @@
 
 .page-header {
   padding: 1em;
-  background: #000531 url("obs.png") no-repeat center center;
+  background-image: url("obs.png") no-repeat center center;
+  background-color: #cccccc;
   background-size: cover;
   opacity:0.5;
 
 }
+
+.project-name {
+  color: blue;
+
+
+}
+
+
