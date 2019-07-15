@@ -1,8 +1,7 @@
 ---
 layout: post
 title: A flow of Information
-categories: [blog, science]
-tags: [thoughts, DNA]
+
 ---
 
 
