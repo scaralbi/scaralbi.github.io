@@ -7,4 +7,4 @@ title: Welcome
 
 Here you can see some blog entries in chronological order
 
-* [A flow of Information](./posts/projects.html)
+* [A flow of Information](./posts/2017-12-24-a-flow-of-information.html)
