@@ -1,8 +1,13 @@
+---
+layout: post
+title: A flow of Information
 
-# Life is DNA-Software driven system.
+---
 
-## Our job
 
-###is to translate it
+# A flow of Information
 
-#### into material products.
+Life is DNA-Software driven system.
+Our job
+is to translate it
+into material products.
