@@ -3,7 +3,7 @@ layout: default
 title: Notes
 description: A catalogues of notes
 ---
-## Lecture notes, practicals and other PDF documents
+*Webfill page where I dump all my lecture notes, practicals and other PDF documents that I consider worth sharing.*
 
 # Biology, Molecular Biology and Genetics
 
