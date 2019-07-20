@@ -31,7 +31,7 @@ The increased programmability provided by synthetic biology has the potential to
 
 # About me
 
-I am a 22 years old guy. At the moment I am located in the UK.
+I am a 22 years old human being. At the moment I am located in the UK.
 I was born in Italy in 1997. I lived in Torino until 2016.
 I completed my BSc in Biotechnology from Imperial College London in August 2019.
 
