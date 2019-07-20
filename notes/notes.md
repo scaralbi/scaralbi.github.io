@@ -20,6 +20,7 @@ description: A catalogues of notes
 
 * [Systems Biology]({{ site.url }}/assets/isb.pdf)
 * [Quantitative imaging of cytoskeletsal topology]({{ site.url }}/assets/quantitativeimaginf.pdf)
+* [Human Practices in Synthetic Biology]({{ site.url }}/assets/humanpractices.pdf)
 
 
 # Biochemistry
