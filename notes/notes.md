@@ -4,7 +4,7 @@ title: Notes
 description: A catalogues of notes
 ---
 
-# Genetics
+# Biology, Molecular Biology and Genetics
 
    * [Bacterial Genetics]({{ site.url }}/assets/bacterialgenetics.pdf)
    * [Genes and Genomes]({{ site.url }}/assets/genesandgenomes.pdf)
@@ -16,18 +16,17 @@ description: A catalogues of notes
 * [Plant Biotechnology]({{ site.url }}/assets/plantbiotech.pdf)
 
 
-
 # Synthetic and Systems Biology
 
-* [Quantitative imaging of cytoskeletsal topology]({{ site.url }}/assets/quantitativeimaging.pdf)
+* [Quantitative imaging of cytoskeletsal topology]({{ site.url }}/assets/quantitativeimaginf.pdf)
 
 
 # Biochemistry
 
+* [Protein Folding]({{ site.url }}/assets/proteinfolding.pdf)
+
+* [Nicotine Receptor]({{ site.url }}/assets/nAChR.pdf)
+
 
 
 # Photosynthesis and cyanobacteria
-
-
-
-
