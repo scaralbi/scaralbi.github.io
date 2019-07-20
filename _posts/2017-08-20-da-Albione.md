@@ -3,8 +3,6 @@ layout: post
 title: Da Albione
 
 ---
-# Da Albione
-
 Come in un diluvio  
 precipito tuonante  
 madido di vita.  
