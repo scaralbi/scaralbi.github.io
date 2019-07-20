@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Projects
-description: A list of project and ideas
+description: SynBio project and ideas
 ---
+*Here is an incomplete collection of projects and ideas. Mainly about synthetic biology.*
 
 # iGEM
 The International Genetically Engineered Machine competition (iGEM) is the world’s largest Synthetic Biology competition. Student teams are given a kit of biological parts from the Registry of Standard Biological Parts. Working at their own schools over the summer, they use these parts and new parts of their own design to build synthetic biological systems and operate them in living cells.
