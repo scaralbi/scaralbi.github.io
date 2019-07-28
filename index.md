@@ -9,18 +9,13 @@ It is essentially an open google drive on the internet
 I use it to store ideas, stories, projects etc...
 
 # What can you find here ?
-
-[Notes](./notes/notes.html) about the subjects I studied
-- Biotechnology
-- Synthetic and Systems Biology
-- Biochemistry
-- Photosynthesis and cyanobacteria
-- Biophysics
-
-[Projects](./projects/projects.html)
--iGEM
--BIOMOD
-
+A lot of stuff that might be irrelevant to you.
+You can find notes about subjects I have studied (Biotechnology, Biophysics, Synthetic Biology...).
+ - [Notes](./notes/notes.html) about the subjects I studied
+You can read about projects I have took part in (if you are interested in synthetic biology):
+ - [Projects](./projects/projects.html)
+I also write a lot about my life in an incoherent way. You can read some of my poetries and thoughs about all sort of stuff.
+ - [Blog](./projects.html)
 # The Mission
 
 I am fascinated by the process of photosynthesis, which enables photosynthetic organisms to perform the complex chemistry of transforming solar into chemical energy, in ambient conditions and in a self-repairing way. I believe that unravelling this biochemical process can catalyse the transition towards a greener future, where biomanufacturing of therapeutics, commodity chemicals and biofuels will take place in photosynthetic organelles.
