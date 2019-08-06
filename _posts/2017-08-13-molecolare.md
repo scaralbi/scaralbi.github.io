@@ -3,7 +3,7 @@ layout: post
 title: Navigare
 
 ---
-Spesso navigo
-in un mare
-architettonicamente
-molecolare
+Spesso navigo  
+in un mare  
+architettonicamente  
+molecolare  
