@@ -12,8 +12,6 @@ I use it to store ideas, stories, projects etc...
 A lot of stuff that might be irrelevant to you.
 You can find notes about subjects I have studied (Biotechnology, Biophysics, Synthetic Biology...).
  - [Notes](./notes/notes.html) about the subjects I studied
-You can read about projects I have took part in (if you are interested in synthetic biology):
- - [Projects](./projects/projects.html)
 I also write a lot about my life in an incoherent way. You can read some of my poetries and thoughs about all sort of stuff.
  - [Blog](./projects.html)
 # The Mission
