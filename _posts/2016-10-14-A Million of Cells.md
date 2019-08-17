@@ -1,0 +1,13 @@
+---
+layout: post
+title: A Million of Cells
+
+---
+If I am a million of cells  
+All dynamic and catalytic  
+Why do I  
+Remain still  
+on this line ?  
+It is not equilibrium   
+Is it a a cellular reality  
+Or just atomic variety ?  

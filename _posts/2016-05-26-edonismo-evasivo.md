@@ -8,7 +8,7 @@ Il teatro che parla di me
 Il sipario che scende di sera  
 è l'oblio che separa il gabbiano.  
 Ma una foglia sbiadisce col sogno  
-un pavone choude il suo scettro  
+un pavone chiude il suo scettro  
 la formica nasconde il suo volto  
 ed io muto  
 serpente ferito  
