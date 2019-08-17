@@ -28,7 +28,3 @@ description: A catalogues of notes
 
 * [Protein Folding]({{ site.url }}/assets/proteinfolding.pdf)
 * [Nicotine Receptor]({{ site.url }}/assets/nAChR.pdf)
-
-
-
-# Photosynthesis and cyanobacteria

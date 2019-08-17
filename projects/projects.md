@@ -3,7 +3,13 @@ layout: default
 title: Projects
 description: SynBio project and ideas
 ---
-*Here is an incomplete collection of projects and ideas. Mainly about synthetic biology.*
+# What is Synthetic Biology ?
+
+Synthetic biology is an emerging field of scientific research.
+It is very interdisciplinary:  biochemistry,  biology, physics, computer science, art and design and many more.
+The goal is to engineer organisms to perform desired tasks.
+This engineering of biology has many important implications.
+
 
 # iGEM
 The international Genetically Engineered Machine (iGEM) competition is the world’s largest Synthetic Biology competition. Student teams are given a kit of biological parts from the Registry of Standard Biological Parts. Working at their own schools over the summer, they use these parts and new parts of their own design to build synthetic biological systems and operate them in living cells.
@@ -23,11 +29,4 @@ Participating in iGEM gave me the opportunity to experience the life of a resear
 
 BIOMOD is an annual biomolecular design competition for students.
 Undergraduate teams compete to build the coolest stuff using the molecules of life. Previous winners have used DNA, RNA, and proteins as building blocks to create autonomous robots, molecular computers, and prototypes for nanoscale therapeutics. Students lead projects each summer and then travel to San Francisco in late October to present their work and win awards.
-
 In the summer 2019 I took part in this competition as part of the Imperial College team.
-
-# Synthetic biology of photosynthetic organisms
-
-Synthetic biology is an emerging field of scientific research. It is very interdisciplinary:  biochemistry,  biology, physics, computer science, art and design and many more.
-The goal is to engineer organisms to perform desired tasks. This engineering of biology has many important impligations.
-Photosynthetic organisms are the basis of life on Earth.
