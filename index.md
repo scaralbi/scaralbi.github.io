@@ -14,7 +14,7 @@ You can find notes about subjects I have studied (Biotechnology, Biophysics, Syn
  - [Notes](./notes/notes.html)   
 Sometimes I also write poetries and thoughts in an incoherent way. You can read some of this stuff in my blog.  
  - [Blog](./blog.html)  
- I am also very interested in the field of synthetic biology. If you are interested as well, you can check out the project page.  
+I am also very interested in the field of synthetic biology. If you are interested as well, you can check out the project page.  
   - [Projects](./projects/projects.html)  
 
 # About me
@@ -22,5 +22,5 @@ Sometimes I also write poetries and thoughts in an incoherent way. You can read 
 I am a 22 years old human being. At the moment I am located in the UK.
 I was born in Italy in 1997. I lived in Torino until 2016.
 I completed my BSc in Biotechnology from Imperial College London in August 2019.
-In October 2019 I will start a PhD at the University of Cambridge.
-see [CV]({{ site.url }}/assets/cv.pdf)
+In October 2019 I will start a PhD at the University of Cambridge.  
+See my [CV]({{ site.url }}/assets/cv.pdf)
