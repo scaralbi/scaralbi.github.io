@@ -9,7 +9,7 @@ It is essentially an open google drive on the internet.
 I use it to store ideas, stories and literally anything that I consider worth sharing.  
 
 # What can you find here ?
-## A lot of stuff that might be irrelevant to you.  
+A lot of stuff that might be irrelevant to you.  
 ### You can find notes about subjects I have studied (Biotechnology, Biophysics, Synthetic Biology...).  
  - [Notes](./notes/notes.html)   
 
@@ -26,3 +26,8 @@ I was born in Italy in 1997. I lived in Torino until 2016.
 I completed my BSc in Biotechnology from Imperial College London in August 2019.
 I am now doing a PhD in synthetic biology at the University of Cambridge.  
 See my [CV]({{ site.url }}/assets/cv.pdf)
+
+# Disclaimer
+
+The opinions expressed here are entirely my own, and often are without reference.
+If you find something offensive, please let me know by writing to me at alberto.scarampi.dcdp@gmail.com
