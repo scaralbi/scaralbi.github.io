@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Synthetic Biology
 description: SynBio project and ideas
 ---
 # What is Synthetic Biology ?
@@ -9,10 +9,10 @@ It is very interdisciplinary: biochemistry, biology, physics, computing, art and
 The idea is that every organism is defined by its DNA, which is like the software of a programme. All the information needed for an organism to operate is written in DNA code (which uses just four symbols: A, C, G, T). Like computer scientists can write various different programs that perform all sort of functions with a programming language, synthetic biologists aim to engineer the organisms by writing in genetic code.
 There are various reasons for why we want to do this. The main on, arguably, is for purely heuristic (research, understanding) purposes. This follows the famous Feynman quote "what I cannot create I do not understand". By programming organisms from scratch we hope to understand how they work.
 Another reason is to engineer organisms to perform functions that they would not perform naturally. With this approach, we can programm bacteria to identify and kill cancerous cells. Or we can make hydrogen out of algae instead of using nasty chemicals and polluting the environment.
-If you want to read more, have a look at these websites
-- [https://www.bio.org/articles/synthetic-biology-explained](what is synthetic biology - BIO)
-- [https://www.ginkgobioworks.com/](Ginkgo Bioworks website (the Apple of Synthetic Biology))
-- [https://igem.org/Main_Page](iGEM website - crazy synbio projects by undergraduate students)
+If you want to read more, have a look at these websites:
+- [https://www.bio.org/articles/synthetic-biology-explained] (What is synthetic biology - BIO)
+- [https://www.ginkgobioworks.com/] (Ginkgo Bioworks website (the Apple of Synthetic Biology))
+- [https://igem.org/Main_Page] (iGEM website - crazy synbio projects by undergraduate students)
 
 
 # SynBio and Sharing Innovation
