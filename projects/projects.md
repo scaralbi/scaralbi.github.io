@@ -4,15 +4,12 @@ title: Projects
 description: SynBio project and ideas
 ---
 # What is Synthetic Biology ?
-
-Synthetic biology is an emerging field of scientific research.
-It is very interdisciplinary:  biochemistry,  biology, physics, computer science, art and design and many more.
-The goal is to engineer organisms to perform desired tasks.
-This engineering of biology has many important implications.
+The [Royal Society](https://royalsociety.org/topics-policy/projects/synthetic-biology/) defines Synthetic Biology as "an emerging area of research that can broadly be described as the design and construction of novel artificial biological pathways, organisms or devices, or the redesign of existing natural biological systems." 
 
 # SynBio and Sharing Innovation
 
-Synthetic Biology is the field that deconstructs biological systems to understand their assembly logic. This reverse engineering of life has been hailed by the scientific community as the field capable of solving most of the challenges that we are going to face in the future, such as overpopulation, pollution and lack of natural resources. However, the public perception of it does not seem to always follow the optimistic view held by those in the field.
+Synthetic Biology is the field that deconstructs biological systems to understand their assembly logic. This reverse engineering of life has been hailed by the scientific community as the field capable of solving most of the challenges that we are going to face in the future, such as overpopulation, pollution and lack of natural resources.
+However, the public perception of it does not seem to always follow the optimistic view held by those in the field.
 The problem is that biological systems are incredibly  complex, and therefore discussion often requires  technical knowledge, which is becoming increasingly difficult to possess as disciplines become increasingly specialised.
 The traditional view of scientists is that they need to be pure and out of the context of social and political debate, with the only responsibility of scientific integrity. It should not come as a surprise then if the public perception on matters such as vaccination, OGM, homeopathy and evolution seems to follow emotional beliefs rather than scientific evidence. Tax benefits for the producers of homeopathic and “organic” products, creationism trends and the bad acceptance of OGM products are just some examples of this failure in translating scientific progress into public engagement. If scientists focused on elucidating the complexity of life are not involved in translating it in a more user-friendly manner, then the rise of irrational trends manifested by the general public could be a result of the failure of the scientific community to interact with the rest of the world.
 
