@@ -10,9 +10,11 @@ The idea is that every organism is defined by its DNA, which is like the softwar
 There are various reasons for why we want to do this. The main on, arguably, is for purely heuristic (research, understanding) purposes. This follows the famous Feynman quote "what I cannot create I do not understand". By programming organisms from scratch we hope to understand how they work.
 Another reason is to engineer organisms to perform functions that they would not perform naturally. With this approach, we can programm bacteria to identify and kill cancerous cells. Or we can make hydrogen out of algae instead of using nasty chemicals and polluting the environment.
 If you want to read more, have a look at these websites:
-- [https://www.bio.org/articles/synthetic-biology-explained] (What is synthetic biology - BIO)
-- [https://www.ginkgobioworks.com/] (Ginkgo Bioworks website (the Apple of Synthetic Biology))
-- [https://igem.org/Main_Page] (iGEM website - crazy synbio projects by undergraduate students)
+- [What is synthetic biology - BIO](https://www.bio.org/articles/synthetic-biology-explained)
+- [Ginkgo Bioworks website (the Apple of Synthetic Biology)](https://www.ginkgobioworks.com/)
+- [iGEM website - crazy synbio projects by undergraduate students](https://igem.org/Main_Page)
+
+
 
 
 # SynBio and Sharing Innovation
