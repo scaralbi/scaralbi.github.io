@@ -6,12 +6,12 @@ title: Reiziano Ipercatalettico
 
 *⌣⌣–⌣⌣– –*
 
-Io so che vi ra sti Est  A  
-do ve gli di ce sti: non vi ri bus re na tus est  A  
-⌣⌣–⌣⌣–– B  
+Io so che virasti Est    
+dove gli dicesti: non viribus renatus est.   
+Se energia presta  
 
-⌣⌣–⌣⌣–– B  
-⌣⌣–⌣⌣–– ⌣⌣–⌣⌣–– C  
-⌣⌣–⌣⌣–– C  
+penetra un' inchiesta     
+soluzione ipocrita e aliena otterrai     
+solo qui arrogherai   
 
-⌣⌣–⌣⌣–– D  
+il diritto di plasmar   
