@@ -3,3 +3,11 @@ description: Albi's webpage
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+alberto_scarampi:
+    name: Alberto Scarampi
+    email: as2945@cam.ac.uk
+    web: www.scaralbi.com
+emma_albertini:
+    name: Emma Albertini
+    email: robin@sorryapp.com
+    web: www.scaralbi.com
