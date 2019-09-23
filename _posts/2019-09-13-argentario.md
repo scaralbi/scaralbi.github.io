@@ -15,6 +15,7 @@ Al pro mon to rio giun gem mo di se ra,
 quan do il so le ca la va nel ma re.
 Lo ve dem mo dal la li nea co stie ra,
 Da cui ci tuf fam mo per an dare a nuo ta re.
+<<<<<<< HEAD
 
 
 Il ma re che il sa le di scio glie
@@ -25,6 +26,8 @@ I cor pi che nu di ri flet te va no
 i rag gi do ra ti di lava
 As sor bi va no il cal do di Eru
 co me va ra ni sen za o meo sta si
+=======
+>>>>>>> 42100998d471621818fbcfd1ccc93c41c9f20953
 
 cu ci na re del la pa sta a gli sco gli
 rac con ta re sto rie a tur ni Di viag gi e di i dee
@@ -39,6 +42,14 @@ ru mo ri di techno e cicale
 
 
 
+<<<<<<< HEAD
+=======
+I cor pi che nu di ri flet te va no
+i rag gi do ra ti di lava
+As sor bi va no il cal do di Eru
+co me va ra ni sen za o meo sta si
+
+>>>>>>> 42100998d471621818fbcfd1ccc93c41c9f20953
 Il vi no spin ge a far zin ga ra te
 i fu mi di er be a ro ma tiz za no
 a rie ra re fat te in com pa gnia
