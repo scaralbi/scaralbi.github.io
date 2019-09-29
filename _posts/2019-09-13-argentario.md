@@ -12,7 +12,7 @@ Questo viaggio viene qui riassunto.
 Al promontorio giungemmo di sera,  
 quando il sole calava nel mare.  
 Lo vedemmo dalla linea costiera,  
-che partimmo per an da re' a nuotare.  
+che partimmo per andare' a nuotare.  
 
 Il mare, velo di acqua turchese,  
 sapido gargarismava dentro le  
