@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Synthetic Biology
-description: SynBio project and ideas
+description: Synthetic Biology
 ---
 # What is Synthetic Biology ?
 The [Royal Society](https://royalsociety.org/topics-policy/projects/synthetic-biology/) defines Synthetic Biology as "an emerging area of research that can broadly be described as the design and construction of novel artificial biological pathways, organisms or devices, or the redesign of existing natural biological systems."
