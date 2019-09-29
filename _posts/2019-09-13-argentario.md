@@ -17,7 +17,7 @@ che partimmo per andare' a nuotare.
 Il mare, velo di acqua turchese,  
 sapido gargarismava dentro le  
 conche cave, che parevano' accese  
-come le pelli dorati dal sole.    
+come le pelli dorate dal sole.    
 
 Cucinammo la pasta allo scoglio   
 raccontandoci' aneddoti a turno,  
