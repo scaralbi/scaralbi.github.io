@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arrival in Cambridge
+title: My new room in Cambridge
 
 ---
 
