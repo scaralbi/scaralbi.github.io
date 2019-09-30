@@ -4,5 +4,6 @@
 @import "{{ site.theme }}";
 
 .page-header{
-   background: #000000 url(http://www.scaralbi.com/assets/figs/atpase.jpg) 100% 10% repeat;
+   background: #000000 url(http://www.scaralbi.com/assets/figs/atpase.jpg)
+   background-size: auto 100%;
 }
