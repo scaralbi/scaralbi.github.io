@@ -23,8 +23,8 @@ I use it to store ideas, stories and literally anything that I consider worth sh
   I am a 22 years old human being. At the moment I am located in the UK.
   I was born in Italy in 1997. I lived in Torino until 2016.
   I completed my BSc in Biotechnology from Imperial College London in August 2019.
-  I am now doing a PhD in synthetic biology at the University of Cambridge.
-  See my [CV]({{ site.url }}/assets/cv.pdf)  
+  I am now doing a PhD in synthetic biology at the University of Cambridge.  
+    - See my [CV]({{ site.url }}/assets/cv.pdf)  
 
 ## Disclaimer
   The opinions expressed here are entirely my own, and often are without reference.
