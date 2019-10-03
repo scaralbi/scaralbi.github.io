@@ -16,7 +16,7 @@ I use it to store ideas, stories and literally anything that I consider worth sh
   Sometimes I also write poetries and thoughts in an incoherent way. You can read some of this stuff in my blog.
    - [Blog](./blog.html)  
 
-  I am also very interested in the field of synthetic biology. If you are interested as well, you can check out the project page, where I try to explain why it is so cool in lay man terms.
+  I am also very interested in the field of synthetic biology. If you are interested as well, you can check out the project page, where I try to explain why it is so cool in lay man terms.  
     - [Projects](./projects/projects.html)  
 
 ## About me
