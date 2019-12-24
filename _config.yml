@@ -120,26 +120,22 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
 - title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+  url: /blog.html
+- title: Research
+  url: /projects/index.html
+- title: Resources
+  url: /notes/index.html
 
 navigation_footer:
 - title: Created by Alberto Scarampi
   url: https://scaralbi.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  Twitter: https://twitter.com/scaralbi
+  LinkedIn: https://www.linkedin.com/in/scaralbi
+  GitHub: https://github.com/scaralbi
+  link: https://scaralbi.com
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
