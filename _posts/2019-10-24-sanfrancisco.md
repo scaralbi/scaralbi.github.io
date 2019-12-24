@@ -10,14 +10,8 @@ of hu man quests and hid den hands.
 
 The hu man kind has ci vi lised
 all earth ly cor ners with his mind.
-The air I breathe is pres su rised
-a ligned.
-
-As soon as foot was set on land,
-the Ca li for nian warmth was felt
-by my bare feet on the hot sand,
-and
+The air I breathe is pres su rised,
+the path I chase was pre de signed.
 
 Wal king in town a long the streets,
 which croo ked climb to wards the hills,
-I
