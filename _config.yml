@@ -121,7 +121,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Blog
-  url: /blog/index.html
+  url: /_layouts/blog.html
 - title: Research
   url: /projects/index.html
 - title: Resources
