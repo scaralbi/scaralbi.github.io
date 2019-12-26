@@ -8,7 +8,7 @@ flying towards the western lands
 some thoughts arose with in my brain  
 of human quests and hidden hands.    
 
-The human kind has civilised  
+The humankind has civilised  
 all earthly corners with his mind.  
 The air I breathe is pressurised,  
 the path I chase was predesigned.  
