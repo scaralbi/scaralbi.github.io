@@ -1,17 +1,27 @@
 ---
 layout: post
-title: S.F.
+title: In and For San Francisco (city/saint)
 ---
 
-In side a tran sa tlan tic plane,
-fly ing to wards the wes tern lands
-some thoughts a rise with in my brain
-of hu man quests and hid den hands.  
+Inside a transatlantic plane,
+flying towards the western lands
+some thoughts arose with in my brain
+of human quests and hidden hands.  
 
-The hu man kind has ci vi lised
-all earth ly cor ners with his mind.
-The air I breathe is pres su rised,
-the path I chase was pre de signed.
+The human kind has civilised
+all earthly corners with his mind.
+The air I breathe is pressurised,
+the path I chase was predesigned.
 
-Wal king in town a long the streets,
-which croo ked climb to wards the hills,
+Walking in town along the streets,
+which crooked climb towards the hills,
+I wished my feet were naval fleets
+with sails as soft as daffodils.
+
+But dreams must be more cum ber some:
+To win the race against microbes,
+save pangean loops that will succumb
+with fuels to fuel new redox globes.
+
+Glory be to God, the pioneers,
+and all the genetic engineers.
