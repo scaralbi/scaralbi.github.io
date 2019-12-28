@@ -97,8 +97,8 @@ logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Albi's Webpage" # Site description and default description, also used in jekyll-seo-tag
 url: "https://scaralbi.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/scaralbi/alembic"
-email: "as2945@cam.ac.uk"
+#repo: "https://github.com/scaralbi/alembic"
+#email: "as2945@cam.ac.uk"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # google_analytics_anonymize_ip: ''
@@ -132,11 +132,10 @@ navigation_footer:
   url: https://scaralbi.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/scaralbi
-  LinkedIn: https://www.linkedin.com/in/scaralbi
-  GitHub: https://github.com/scaralbi
-  link: https://scaralbi.com
-  RSS: /feed.xml
+#  LinkedIn: https://www.linkedin.com/in/scaralbi
+#  GitHub: https://github.com/scaralbi
+#  link: https://scaralbi.com
+#  RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
