@@ -23,5 +23,5 @@ To win the race against microbes,
 save pangean loops that will succumb  
 with fuels to fuel new redox globes.  
 
-Glory be to God, the pioneers,  
-and all the genetic engineers.  
+Glory be to God, the pioneers,    
+and all the genetic engineers.   
