@@ -1,14 +1,4 @@
-title: scaralbi
-description: Albi's Webpage
-show_downloads: true
-google_analytics: UA-148992875-1
-remote_theme: daviddarnes/alembic
-
-plugins:
-  - jekyll-remote-theme
-
-
-  # Site configuration
+# Site configuration
 # 1. Files excluded from Jekyll builds
 # 2. Installed Gems
 # 3. Gem settings
@@ -92,13 +82,13 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "scaralbi" # Site name or title, also used in jekyll-seo-tag
+title: "Alembic" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Albi's Webpage" # Site description and default description, also used in jekyll-seo-tag
-url: "https://scaralbi.com" # Site url, also used in jekyll-seo-tag
+description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-#repo: "https://github.com/scaralbi/alembic"
-#email: "as2945@cam.ac.uk"
+repo: "https://github.com/daviddarnes/alembic"
+email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # google_analytics_anonymize_ip: ''
@@ -120,22 +110,27 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Blogg
-  url: /blog/index.html
-- title: Research
-  url: /projects/index.html
-- title: Resources
-  url: /notes/index.html
+- title: Elements
+  url: /elements/
+- title: Blog
+  url: /blog/
+- title: Categories
+  url: /categories/
+- title: Search
+  url: /search/
+- title: Fork Alembic
+  url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: Created by Alberto Scarampi
-  url: https://scaralbi.com
+- title: Created by David Darnes
+  url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-#  LinkedIn: https://www.linkedin.com/in/scaralbi
-#  GitHub: https://github.com/scaralbi
-#  link: https://scaralbi.com
-#  RSS: /feed.xml
+  Twitter: https://twitter.com/DavidDarnes
+  LinkedIn: https://www.linkedin.com/in/daviddarnes
+  GitHub: https://github.com/daviddarnes
+  link: https://darn.es
+  RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
