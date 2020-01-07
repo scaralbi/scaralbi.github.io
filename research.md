@@ -1,4 +1,4 @@
-# What is Synthetic Biology ?
+# Synthetic Biology
 
 The [Royal Society](https://royalsociety.org/topics-policy/projects/synthetic-biology/) defines Synthetic Biology as "an emerging area of research that can broadly be described as the design and construction of novel artificial biological pathways, organisms or devices, or the redesign of existing natural biological systems."
 It is very interdisciplinary: biochemistry, biology, physics, computing, art and many other disciplines are included in synthetic biology.
@@ -9,11 +9,6 @@ If you want to read more, have a look at these websites:
 - [What is synthetic biology - BIO](https://www.bio.org/articles/synthetic-biology-explained)
 - [Ginkgo Bioworks website (the Apple of Synthetic Biology)](https://www.ginkgobioworks.com/)
 - [iGEM website - crazy synbio projects by undergraduate students](https://igem.org/Main_Page)
-
-
-
-
-# SynBio and Sharing Innovation
 
 Synthetic Biology is the field that deconstructs biological systems to understand their assembly logic. This reverse engineering of life has been hailed by the scientific community as the field capable of solving most of the challenges that we are going to face in the future, such as overpopulation, pollution and lack of natural resources.
 However, the public perception of it does not seem to always follow the optimistic view held by those in the field.
@@ -37,9 +32,10 @@ We developed an experimental protocol to optimise the chemical conditions of the
 We then constructed a library of electrogenetic parts for use in future electrogenetic projects.  We assembled the electrogenetic library into 48 different constructs using the next-generation BASIC assembly method. With a plate reader, we then characterised the library to find orthogonality between transcription factors and promoters.
 Participating in iGEM gave me the opportunity to experience the life of a researcher, teaching me how to design the right experiments to answer scientific questions, interpret scientific data and exploit failures as inputs for new hypotheses. This fortified my determination to carry on my studies at a doctoral level.
 
-
 # BIOMOD
 
 BIOMOD is an annual biomolecular design competition for students.
 Undergraduate teams compete to build the coolest stuff using the molecules of life. Previous winners have used DNA, RNA, and proteins as building blocks to create autonomous robots, molecular computers, and prototypes for nanoscale therapeutics. Students lead projects each summer and then travel to San Francisco in late October to present their work and win awards.
 In the summer 2019 I took part in this competition as part of the Imperial College team.
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Q-2sD256jyk/0.jpg)](http://www.youtube.com/watch?v=Q-2sD256jyk)
