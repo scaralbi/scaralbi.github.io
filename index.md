@@ -1,5 +1,7 @@
-# '[Blog](blog.md)' '[Research](research.md)' '[Resource](resources.md)'
-Hello visitor ! Welcome to scaralbi's webpage.
+## Hello visitor ! Welcome to scaralbi's webpage.
 This is just my personal site on the web.
 
-## About
+## What can you find here ?
+* [Blog](blog.md)
+* [Research](research.md)
+* [Resources](resources.md)
