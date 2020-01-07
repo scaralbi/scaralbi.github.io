@@ -1,2 +1,4 @@
-# Let me test if I can write in markdown
-This is just a *try*. My friend told me it was easy...
+# [Blog](blog.md) [Research](research.md) [Resources](resources.md]
+Welcome to my website.
+
+## About
