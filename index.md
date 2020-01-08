@@ -1,3 +1,8 @@
+---
+title: scaralbi
+description: Home
+---
+
 **Hello visitor ! Welcome to scaralbi's webpage.**
 
 ## Index
@@ -29,4 +34,4 @@ Do you want to collaborate in some scientific projects?
 Do you want to ask me a question ?
 Write to me at as2945@cam.ac.uk.
 
-### <div style="text-align: right"> Alberto Scarampi©, 2020 </div>
+### Alberto Scarampi©, 2020
