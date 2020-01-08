@@ -6,3 +6,8 @@ This is just my personal site on the web.
 * [Blog](blog.md)  
 * [Research](research.md)  
 * [Resources](resources.md)  
+
+## About me
+I am a 22 years old human being living in Cambridge, UK.
+I am particularly excited about synthetic biology, cyanobacteria, and anything that aims to engineer sustainability in our biosphere.
+* [CV]({{ site.url }}/assets/cv.pdf)
