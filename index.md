@@ -3,7 +3,7 @@ title: Home
 description: the home page
 ---
 
-**Hello visitor ! Welcome to scaralbi's webpage.**
+**Hello visitor ! Welcome to scaralbi's wiki.**
 
 ## Index
 * [Blog](blog.md)

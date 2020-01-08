@@ -1,10 +1,23 @@
-# Synthetic Biology
+# Research Interest
 
+## Green Biotechnology
+I am fascinated by the process of photosynthesis, which enables photosynthetic organisms to perform the complex chemistry of transforming solar into chemical energy, in ambient conditions and in a self-repairing way. This complex network of reactions can be exploited to catalyse the transition towards a greener future, where biomanufacturing of therapeutics, commodity chemicals and biofuels will take place in photosynthetic organelles.
+
+![alt text](assets/figs/cyanoproduction.jpg)
+
+In particular, cyanobacteria hold great promises as sustainable bioproduction platforms, for their ability of photoproduction of added-value biomass and electricity.
+There is a lot of interest in expanding synthetic biology toolkits to engineer cyanobacteria for photobiomanufacturing and energy generation.
+However, exploiting cyanobacteria as reliable microfactories requires precise control of gene expression. Current biological control systems fail to provide the reversible and programmable spatiotemporal control of electrical systems used in industry. Electrogenetics is an emerging field of synthetic biology investigating electronic control of gene expression. Whereas electrogenetic control has been demonstrated to enable precise spatial patterning in E. coli, currently photosynthetic cells lack an analogous induction system.
+
+## Synthetic Biology
+My interest in synthetic biology derives from its potential to design biological processes from the bottom-up.
+I am excited by the possibility to combine electronics and synthetic biology to engineer electrogenetic control in biofactories.  
+### What is synthetic biology ?
 The [Royal Society](https://royalsociety.org/topics-policy/projects/synthetic-biology/) defines Synthetic Biology as "an emerging area of research that can broadly be described as the design and construction of novel artificial biological pathways, organisms or devices, or the redesign of existing natural biological systems."
 It is very interdisciplinary: biochemistry, biology, physics, computing, art and many other disciplines are included in synthetic biology.
 The idea is that every organism is defined by its DNA, which is like the software of a programme. All the information needed for an organism to operate is written in DNA code (which uses just four symbols: A, C, G, T). Like computer scientists can write various different programs that perform all sort of functions with a programming language, synthetic biologists aim to engineer the organisms by writing in genetic code.
 There are various reasons for why we want to do this. The main on, arguably, is for purely heuristic (research, understanding) purposes. This follows the famous Feynman quote "what I cannot create I do not understand". By programming organisms from scratch we hope to understand how they work.
-Another reason is to engineer organisms to perform functions that they would not perform naturally. With this approach, we can programm bacteria to identify and kill cancerous cells. Or we can make hydrogen out of algae instead of using nasty chemicals and polluting the environment.
+Another reason is to engineer organisms to perform functions that they would not perform naturally. With this approach, we can programme bacteria to identify and kill cancerous cells. Or we can make hydrogen out of algae instead of using nasty chemicals and polluting the environment.
 If you want to read more, have a look at these websites:
 - [What is synthetic biology - BIO](https://www.bio.org/articles/synthetic-biology-explained)
 - [Ginkgo Bioworks website (the Apple of Synthetic Biology)](https://www.ginkgobioworks.com/)
@@ -19,7 +32,7 @@ Hopefully, Synthetic Biology is characterised by a spirit of social responsibili
 The iGEM competition, the biggest and most respected synthetic biology completion around the globe, brings together thousands of passionate biorebels every year in Boston, with the aim to promote synthetic biology advancement, with regards with both the science and the discussion behind it.
 Science communication and outreaching activities can contribute to build a science culture, necessary to bridge the gap between scientists and the general public on matters of societal importance, such as bioethics.
 
-# iGEM
+## About iGEM
 The international Genetically Engineered Machine (iGEM) competition is the world’s largest Synthetic Biology competition. Student teams are given a kit of biological parts from the Registry of Standard Biological Parts. Working at their own schools over the summer, they use these parts and new parts of their own design to build synthetic biological systems and operate them in living cells.
 These student teams come from all over the world and spend the six months preceding the competition developing novel technologies in a wide range of areas from healthcare to energy and food. Every year iGEM unites more than 3,000 high school, undergrad, and postgrad students in Boston for a 4-day “jamboree” celebrating their achievements in and enthusiasm for Synthetic Biology.
 Imperial iGEM teams have consistently proven themselves on the world stage. Over the past 12 years, the teams have won with 3 Grand Prizes, 10 Gold Medals and 17 other awards.
@@ -32,7 +45,7 @@ We developed an experimental protocol to optimise the chemical conditions of the
 We then constructed a library of electrogenetic parts for use in future electrogenetic projects.  We assembled the electrogenetic library into 48 different constructs using the next-generation BASIC assembly method. With a plate reader, we then characterised the library to find orthogonality between transcription factors and promoters.
 Participating in iGEM gave me the opportunity to experience the life of a researcher, teaching me how to design the right experiments to answer scientific questions, interpret scientific data and exploit failures as inputs for new hypotheses. This fortified my determination to carry on my studies at a doctoral level.
 
-# BIOMOD
+# About BIOMOD
 
 BIOMOD is an annual biomolecular design competition for students.
 Undergraduate teams compete to build the coolest stuff using the molecules of life. Previous winners have used DNA, RNA, and proteins as building blocks to create autonomous robots, molecular computers, and prototypes for nanoscale therapeutics. Students lead projects each summer and then travel to San Francisco in late October to present their work and win awards.
