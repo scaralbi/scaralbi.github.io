@@ -11,7 +11,11 @@ However, exploiting cyanobacteria as reliable microfactories requires precise co
 
 ## Synthetic Biology
 My interest in synthetic biology derives from its potential to design biological processes from the bottom-up.
-I am excited by the possibility to combine electronics and synthetic biology to engineer electrogenetic control in biofactories.  
+I am excited by the possibility to combine electronics and synthetic biology to engineer electrogenetic control in synthetic ecosystems and biofactories.
+
+![alt text](assets/figs/spat.png)
+
+
 ### What is synthetic biology ?
 The [Royal Society](https://royalsociety.org/topics-policy/projects/synthetic-biology/) defines Synthetic Biology as "an emerging area of research that can broadly be described as the design and construction of novel artificial biological pathways, organisms or devices, or the redesign of existing natural biological systems."
 It is very interdisciplinary: biochemistry, biology, physics, computing, art and many other disciplines are included in synthetic biology.
