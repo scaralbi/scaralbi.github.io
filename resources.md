@@ -5,12 +5,12 @@ The plankton-simulator is a collection of matlab scripts simulating the dynamics
 The simulator is based on a multiscale biophysical model that incorporates species traits, consumer-resource dynamics and stochastic ecosystem assembly.
 The model hierarchically simulates features of ecosystem at different scales by defining three classes in the ecosystem using object-oriented programming in MATLAB: Species, Demes (spatially-isolated subcompartments) and Plankton (collection of Demes).
 
-![alt text](https://github.com/scaralbi/plankton-simulator/blob/master/flowchart.png)
+![alt text](https://github.com/scaralbi/plankton-simulator/blob/master/flowchart.png?raw=true)
 
 
 # [Biofilmer](https://github.com/scaralbi/biofilmer)
 The biofilmer is a repository of MATLAB scripts to quantify properties of fluorescence time-lapse microscopy biofilm images.
-![alt text](https://github.com/scaralbi/biofilmer/blob/master/imageanalysis.png)
+![alt text](https://github.com/scaralbi/biofilmer/blob/master/imageanalysis.png?raw=true)
 
 
 # Biology, Molecular Biology and Genetics
