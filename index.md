@@ -1,7 +1,7 @@
 **Hello visitor ! Welcome to scaralbi's webpage.**
 
 ## What can you find here ?
-* [Blog](blog.md)  
+* <span style="color:green">[Blog](blog.md)</span>  
 * [Research](research.md)  
 * [Resources](resources.md)
 
