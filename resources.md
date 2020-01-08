@@ -1,4 +1,17 @@
-*Here there are some of my lecture notes, practicals and other PDF documents that I consider worth sharing.*
+*Here there are some of my scripts, lecture notes, practicals and other PDF documents that I consider worth sharing.*
+
+# [Plankton Simulator](https://github.com/scaralbi/plankton-simulator)
+The plankton-simulator is a collection of matlab scripts simulating the dynamics of structured microbial communities.
+The simulator is based on a multiscale biophysical model that incorporates species traits, consumer-resource dynamics and stochastic ecosystem assembly.
+The model hierarchically simulates features of ecosystem at different scales by defining three classes in the ecosystem using object-oriented programming in MATLAB: Species, Demes (spatially-isolated subcompartments) and Plankton (collection of Demes).
+
+![alt text](https://github.com/scaralbi/plankton-simulator/blob/master/flowchart.png)
+
+
+# [Biofilmer](https://github.com/scaralbi/biofilmer)
+The biofilmer is a repository of MATLAB scripts to quantify properties of fluorescence time-lapse microscopy biofilm images.
+![alt text](https://github.com/scaralbi/biofilmer/blob/master/imageanalysis.png)
+
 
 # Biology, Molecular Biology and Genetics
 
