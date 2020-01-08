@@ -1,6 +1,6 @@
 ---
-title: scaralbi
-description: Home
+title: Home
+description: the home page
 ---
 
 **Hello visitor ! Welcome to scaralbi's webpage.**
