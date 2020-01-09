@@ -15,8 +15,8 @@ Let's go back to that past,
 but it's gone...   
 Is it not ?  
 
-The past comes back
-we can notice its signs.
-Workers strike while
-some nations collide.
-Why can we not change the future?
+The past comes back  
+we can notice its signs.  
+Workers strike while  
+some nations collide.  
+Why can we not change the future?  
