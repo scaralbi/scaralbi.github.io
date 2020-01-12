@@ -1,11 +1,9 @@
 # Research Interest
-I completed my BSc in *biotechnology* from Imperial College London in 2019. There I took part in iGEM came in contact with the amazing world *synthetic biology*.
-I conducted my final year thesis under the supervision of [Robert Endres](https://www.imperial.ac.uk/people/r.endres) and became quickly interested in the field of *systems biology*. For my thesis, I developed a novel biophysical model to simulate spatially heterogeneous microbial communities and clarify the so-called "paradox of the plankton".
-I am now doing a PhD in the the theme of "Industrial Biotechnology and Bioenergy" at the University of Cambridge. Here I evolved a passion for the *biophysics* of microbial biofilms in the group of Diana Fusco at the Cavendish Laboratories.
-I am currently doing a project in the lab of Chris Howe in the field of *bioelectrochemistry*.
+I completed my BSc in **biotechnology** from Imperial College London in 2019. There I took part in iGEM came in contact with the amazing world **synthetic biology**.
+I conducted my final year thesis under the supervision of [Robert Endres](https://www.imperial.ac.uk/people/r.endres) and became quickly interested in the field of **systems biology**. For my thesis, I developed a novel biophysical model to simulate spatially heterogeneous microbial communities and clarify the so-called "paradox of the plankton".
+I am now doing a PhD in the the theme of "Industrial Biotechnology and Bioenergy" at the University of Cambridge. Here I evolved a passion for the **biophysics** of microbial biofilms in the group of [Diana Fusco](https://www.phy.cam.ac.uk/directory/dr-diana-fusco) at the Cavendish Laboratories.
+I am currently tweaking with some **bioelectrochemistry** in cyanobacteria  in the lab of [Chris Howe](https://www.bioc.cam.ac.uk/howe).
 
-biophysics at the Cavendish
-electrobiochemistry
 
 ## Green Biotechnology
 I am fascinated by the process of photosynthesis, which enables photosynthetic organisms to perform the complex chemistry of transforming solar into chemical energy, in ambient conditions and in a self-repairing way. This complex network of reactions can be exploited to catalyse the transition towards a greener future, where biomanufacturing of therapeutics, commodity chemicals and biofuels will take place in photosynthetic organelles.
