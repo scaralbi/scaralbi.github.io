@@ -14,6 +14,20 @@ In particular, cyanobacteria hold great promises as sustainable bioproduction pl
 There is a lot of interest in expanding synthetic biology toolkits to engineer cyanobacteria for photobiomanufacturing and energy generation.
 However, exploiting cyanobacteria as reliable microfactories requires precise control of gene expression. Current biological control systems fail to provide the reversible and programmable spatiotemporal control of electrical systems used in industry. Electrogenetics is an emerging field of synthetic biology investigating electronic control of gene expression. Whereas electrogenetic control has been demonstrated to enable precise spatial patterning in E. coli, currently photosynthetic cells lack an analogous induction system.
 
+## Bio-Photo-Electrochemistry
+
+It is now a widely accepted fact that net decarbonisation of human activities in the soonest future is required to avoid the collapse of our planet into irreversible climate calamities. To this aim, efficient and sustainable ways need to be developed for energy production, which is currently responsible for almost a third of global carbon emissions,
+Harnessing the almost limitless supply of solar radiation with photosynthetic organisms using biophotovoltaic  (BPV) devices is a promising strategy in the pursuit of these goals.
+BPVs are bio-electrochemical systems (BES) that harvest electrons generated from photo-oxidation of water by photosynthetic materials to generate electrical work.
+
+![alt text](assets/figs/BPV.png)
+
+As the process is driven by cells performing oxygenic photosynthesis, BPVs offer the possibility of coupling carbon dioxide sequestration and electricity generation, in a self-sustainable way.  
+In the last decade, considerable work has been done to optimise the bioelectrochemistry of these systems, which have proven useful to understand the mechanisms of electron transfer in photosynthetic organisms.
+However, to date, these devices are not commercially viable and examples of their use outside of the academic world are limited.
+We need to encourage discussions about potential applications of biophotovoltaic devices and brainstorm ideas needed to catalyse the scaling-up of solar electricity bioconversion.
+Hopefully, in the near future, BPVs will be useful to power for low power demanding, off-grid applications.
+
 ## Synthetic Biology
 My interest in synthetic biology derives from its potential to design biological processes from the bottom-up.
 I am excited by the possibility to combine electronics and synthetic biology to engineer electrogenetic control in synthetic ecosystems and biofactories.
