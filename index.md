@@ -3,6 +3,21 @@ title: Home
 description: the home page
 ---
 
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Page 1</a></li>
+      <li><a href="#">Page 2</a></li>
+      <li><a href="#">Page 3</a></li>
+    </ul>
+  </div>
+</nav>
+
+
 **Hello visitor ! Welcome to scaralbi's wiki.**
 
 ## Index
@@ -21,7 +36,8 @@ meditatio est.
 (There is nothing over which a free man ponders
 less than death; his wisdom is, to meditate not on
 death but on life.)  
-[SPINOZA'S Ethics, Pt IV, Prop.67]  
+[SPINOZA'S Ethics, Pt IV, Prop.67]
+ 
 ![WhatisLife](assets/figs/atpase.jpg)
 
 ## Who am I ?
