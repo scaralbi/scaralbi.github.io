@@ -1,7 +1,6 @@
 ---
 title: Home
 description: the home page
-layout: default
 ---
 
 **Hello visitor ! Welcome to scaralbi's wiki.**
@@ -35,6 +34,6 @@ I am particularly excited about synthetic biology, cyanobacteria, and anything t
 This website was created under the terms of the open-source MIT license.
 Do you want to collaborate in some scientific projects?
 Do you have any question ?
-Write to me at as2945@cam.ac.uk.
+Write to me:  as2945@cam.ac.uk.
 
 ### Alberto Scarampi©, 2020
