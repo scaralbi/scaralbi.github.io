@@ -3,7 +3,7 @@ layout: post
 title: Inno alla Risonanza
 ---
 
-`D     A      Bm     F#m`       		
+`D     A      Bm     F#m`         		
 Guardo fuori e penso che   
 `G     D      G  	   A`    
 Cio’ che cerco e’ dentro me   
