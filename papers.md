@@ -1,10 +1,6 @@
-# Blog
-Here there is a list of post in chronological order. Some are poems, some are journal entries, some are uncategorised.
+# Paper
+Here there are some reviews of papers that I have read and considered interesting.
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.categories.papers %}
+    {{ post.title }}
+{% endfor %}
