@@ -9,7 +9,6 @@ description: the home page
 * [Blog](blog.md)
 * [Research](research.md)  
 * [Resources](resources.md)
-* [Papers](papers.md)
 
 
 ## What is this ?
