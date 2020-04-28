@@ -3,7 +3,7 @@ layout: post
 title: Inno alla Risonanza
 ---
 
-```D     A      Bm     F#m```<br/>        		
+`D`     `A`      `Bm`  `F#m`<br/>        		
 Guardo fuori e penso che <br/>
 ```G     D      G  	   A```<br/>  
 Cio’ che cerco e’ dentro me<br/>
