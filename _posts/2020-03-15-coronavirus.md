@@ -22,3 +22,8 @@ You can not kill what does not live
 but then how to ged rid of it?  
 Somehow some Y-shaped globulin  
 will find the way to the virion.  
+
+The steady-state will be restored  
+as this is Nature's greedy aim  
+to overshoot towards the chaos  
+and find the peace that was once lost.  
