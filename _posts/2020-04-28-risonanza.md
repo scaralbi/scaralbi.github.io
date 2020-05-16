@@ -56,3 +56,8 @@ E cio che vuoi  lo otterrai<br/>
 <br/>
 ```D   A  Bm  F#m
 G    D  G   A```
+
+<audio controls>
+  <source src="/assets/recs/innorisonanza.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
