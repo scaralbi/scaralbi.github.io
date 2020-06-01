@@ -2,7 +2,6 @@
 Here there is a list of post in chronological order. Some are poems, some are journal entries, some are uncategorised.
 
 <ul class="posts">
-  <span>Articles</span>
   {% for post in site.posts %}
     {% unless post.next %}
     <div class="line"><span>{{ post.date | date: '%Y' }}</span></div>
