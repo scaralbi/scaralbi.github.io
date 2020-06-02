@@ -9,7 +9,7 @@ Here there is a list of post in chronological order. Some are poems, some are jo
       {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
       {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
       {% if year != nyear %}
-        <div class="line"><span>{{ post.date | date: *'%Y'* }}</span></div>
+        <div class="line"><span>{{ post.date | date: '%Y' }}</span></div>
       {% endif %}
     {% endunless %}
 
