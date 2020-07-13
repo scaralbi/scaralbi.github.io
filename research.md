@@ -1,8 +1,8 @@
 # Research Interest
-I completed my BSc in **biotechnology** from Imperial College London in 2019. There I took part in iGEM came in contact with the amazing world **synthetic biology**.
-I conducted my final year thesis under the supervision of [Robert Endres](https://www.imperial.ac.uk/people/r.endres) and became quickly interested in the field of **systems biology**. For my thesis, I developed a novel biophysical model to simulate spatially heterogeneous microbial communities and clarify the so-called "paradox of the plankton".
-I am now doing a PhD in the the theme of "Industrial Biotechnology and Bioenergy" at the University of Cambridge. Here I evolved a passion for the **biophysics** of microbial biofilms in the group of [Diana Fusco](https://www.phy.cam.ac.uk/directory/dr-diana-fusco) at the Cavendish Laboratories.
-I am currently tweaking with some **bioelectrochemistry** in cyanobacteria  in the lab of [Chris Howe](https://www.bioc.cam.ac.uk/howe).
+
+During my undergraduate degree I developed a passion for synthetic and systems biology: two fields of research that aim to engineer and deconstruct living systems in order to understand their assembly logic. I am now trying to apply those principles to study how and why certain bacteria are able to sense and generate electrical signals when living in biofilms. In particular, I am curious about the molecular mechanisms and genetic components that allow cyanobacteria to produce electricity from sunlight, air and water. I am also keen about developing biophysical techniques to investigate how the evolution of electrical signalling in structured communities of cyanobacteria contributes to the emergence of collective properties.
+
+
 
 
 ## Green Biotechnology
