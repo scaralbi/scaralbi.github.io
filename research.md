@@ -32,7 +32,7 @@ Hopefully, in the near future, BPVs will be useful to power for low power demand
 My interest in synthetic biology derives from its potential to design biological processes from the bottom-up.
 I am excited by the possibility to combine electronics and synthetic biology to engineer electrogenetic control in synthetic ecosystems and biofactories.
 
-![alt text](assets/figs/spat.png)
+![alt text](assets/figs/synbiolac.png)
 
 
 ### What is synthetic biology ?
