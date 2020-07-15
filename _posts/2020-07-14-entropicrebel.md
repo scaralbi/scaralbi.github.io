@@ -2,9 +2,9 @@
 layout: post
 title: Entropic rebels
 ---
-We could sense life 
-through the meshwork of space
-by associative thinking.
+We could sense life   
+through the meshwork of space  
+by associative thinking.  
 Everything was one  
 when unfiltered by the self,
 like a string  
