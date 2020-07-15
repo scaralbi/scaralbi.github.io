@@ -6,7 +6,7 @@ We could sense life
 through the meshwork of space  
 by associative thinking.  
 Everything was one  
-when unfiltered by the self,
+when unfiltered by the self,  
 like a string  
 resonating with itself.  
 There is evil in suffering.  
