@@ -1,12 +1,12 @@
 # Research Interest
 
-During my undergraduate degree I developed a passion for synthetic and systems biology: two fields of research that aim to engineer and deconstruct living systems in order to understand their assembly logic. I am now trying to apply those principles to study how and why certain bacteria are able to sense and generate electrical signals when living in biofilms. In particular, I am curious about the molecular mechanisms and genetic components that allow cyanobacteria to produce electricity from sunlight, air and water. I am also keen about developing biophysical techniques to investigate how the evolution of electrical signalling in structured communities of cyanobacteria contributes to the emergence of collective properties.
+During my undergraduate degree I developed a passion for [synthetic](https://en.wikipedia.org/wiki/Synthetic_biology) and [systems biology](https://en.wikipedia.org/wiki/Systems_biology): two fields of research that aim to engineer and deconstruct living systems in order to understand their assembly logic. I am now trying to apply those principles to study how and why certain bacteria are able to sense and generate electrical signals when living in [biofilms](https://en.wikipedia.org/wiki/Biofilm). In particular, I am curious about the molecular mechanisms and genetic components that allow [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria) to produce electricity from sunlight, air and water (in so-called [biophotovoltaic devices](https://en.wikipedia.org/wiki/Biological_photovoltaics)). I am also keen about developing biophysical techniques to investigate how the evolution of electrical signalling in structured communities of [exoelecotrogenic](https://en.wikipedia.org/wiki/Exoelectrogen) photosynthetic bacteria contributes to the emergence of collective properties.
 
 
 
 
 ## Green Biotechnology
-I am fascinated by the process of photosynthesis, which enables photosynthetic organisms to perform the complex chemistry of transforming solar into chemical energy, in ambient conditions and in a self-repairing way. This complex network of reactions can be exploited to catalyse the transition towards a greener future, where biomanufacturing of therapeutics, commodity chemicals and biofuels will take place in photosynthetic organelles.
+I am fascinated by the reactions of [photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis), which enables photosynthetic organisms to perform the complex chemistry of transforming solar into chemical energy, in ambient conditions and in a self-repairing way. This complex network of reactions can be exploited to catalyse the transition towards a greener future, where biomanufacturing of therapeutics, commodity chemicals and biofuels will take place in photosynthetic organelles.
 
 ![alt text](assets/figs/cyanoproduction.jpg)
 
