@@ -13,29 +13,51 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 ![alt text](https://github.com/scaralbi/biofilmer/blob/master/imageanalysis.png?raw=true)
 
 
-# Biology, Molecular Biology and Genetics
 
-   * [Bacterial Genetics]({{ site.url }}/assets/bacterialgenetics.pdf)
-   * [Genes and Genomes]({{ site.url }}/assets/genesandgenomes.pdf)
+# Synthetic Biology / Biotechnology
 
-# Biotechnology
-
-* [Molecular Biology]({{ site.url }}/assets/molecularbiology.pdf)
-* [GMO Papayas]({{ site.url }}/assets/papayaogm.pdf)
-* [Plant Biotechnology]({{ site.url }}/assets/plantbiotech.pdf)
-
-
-# Synthetic and Systems Biology
-
-* [Systems Biology]({{ site.url }}/assets/isb.pdf)
-* [Quantitative imaging of cytoskeletsal topology]({{ site.url }}/assets/quantitativeimaginf.pdf)
-* [Human Practices in Synthetic Biology]({{ site.url }}/assets/humanpractices.pdf)
-
+* [Molecular Biology]({{ site.url }}/assets/pdfs/molecularbiology.pdf)
+* [GMO Papayas]({{ site.url }}/assets/pdfs/papayaogm.pdf)
+* [Plant Biotechnology]({{ site.url }}/assets/pdfs/plantbiotech.pdf)
+* [Bacterial Genetics]({{ site.url }}/assets/pdfs/bacterialgenetics.pdf)
+* [Genes and Genomes]({{ site.url }}/assets/pdfs/genesandgenomes.pdf)
+* [Genomic Manipulation]({{ site.url }}/assets/pdfs/GenomicManipulation.pdf)
+* [Molecular Biology of The Chloroplast]({{ site.url }}/assets/pdfs/Nixon1.pdf)
+* [Systems Biology]({{ site.url }}/assets/pdfs/isb.pdf)
+* [Biophysics, Robert Endres]({{ site.url }}/assets/pdfs/Lecture_biophysics.pdf)
+* [Biophysics, Robert Endres]({{ site.url }}/assets/pdfs/Lecture_biophysics.pdf)
+* [Dynamics in Gene Regulation, Robert Endres]({{ site.url }}/assets/pdfs/Lecture_dynamics.pdf)
+* [Mathematical Modelling in Biology]({{ site.url }}/assets/pdfs/Lecture_modelling.pdf)
+* [Quantitative imaging of cell topology]({{ site.url }}/assets/pdfs/quantitativeimaginf.pdf)
+* [Synthetic Biology]({{ site.url }}/assets/pdfs/SynBio.pdf)
+* [Synthetic Genomics, Tom Ellis]({{ site.url }}/assets/pdfs/Parts.pdf)
+* [Bacterial Logic Gates, Tom Ellis]({{ site.url }}/assets/pdfs/SynBio.pdf)
+* [Part Libraries in SynBio, Tom Ellis]({{ site.url }}/assets/pdfs/Parts.pdf)
+* [Optogenetics, Mark Isalan]({{ site.url }}/assets/pdfs/Parts.pdf)
+* [Advanced Synthetic Biology Applications: Pattern Formation, Mark Isalan]({{ site.url }}/assets/pdfs/Parts.pdf)
+* [Synthetic Biology IC Exam 15-16]({{ site.url }}/assets/pdfs/SynbioExam2015-16.pdf)
 
 # Biochemistry
 
-* [Protein Folding]({{ site.url }}/assets/proteinfolding.pdf)
-* [Nicotine Receptor]({{ site.url }}/assets/nAChR.pdf)
+* [Structure of the Nicotine Receptor]({{ site.url }}/assets/pdfs/nAChR.pdf)
+* [Proteins and Enzymes]({{ site.url }}/assets/pdfs/PROTEINS AND ENZYMES 1-7)
+* [Enzymology 1]({{ site.url }}/assets/pdfs/ENZYMOLOGY)
+* [Enzymology 2]({{ site.url }}/assets/pdfs/ENZYMOLOGY2)
+* [DNA Repair]({{ site.url }}/assets/pdfs/DNArepair.pdf)
+* [Bacterial Genetics]({{ site.url }}/assets/pdfs/bacterialgenetics.pdf)
+* [Tryptophan Operon in *B.subtilis*]({{ site.url }}/assets/pdfs/genesandgenomes.pdf)
+* [Bioinformatics]({{ site.url }}/assets/pdfs/Bioinformatics.pdf)
+* [Proteomics]({{ site.url }}/assets/pdfs/Proteomics.pdf)
+* [Protein Folding]({{ site.url }}/assets/pdfs/proteinfolding.pdf)
+* [Biological NMR Spectroscopy]({{ site.url }}/assets/pdfs/NMR.pdf)
+* [Cryo-EM]({{ site.url }}/assets/pdfs/CRYO-EM.pdf)
+
+# Uncategorised
+
+* [Neurobiology]({{ site.url }}/assets/pdfs/Neuro.pdf)
+* [Human Practices in Synthetic Biology]({{ site.url }}/assets/pdfs/humanpractices.pdf)
+* [Economics Thought in Italy Before WWII]({{ site.url }}/assets/pdfs/Economic thought in Italy)
+* [Ricordi d'Africa: La Seconda Battaglia di El Alamein]({{ site.url }}/assets/pdfs/ricordiafrica)
 
 # References for "Collective Dynamics of Microbial Biofilms Undergoing Signalling Waves"
 
