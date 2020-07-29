@@ -21,7 +21,7 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 * [Bacterial Genetics]({{ site.url }}/assets/pdfs/bacterialgenetics.pdf)
 * [Genes and Genomes]({{ site.url }}/assets/pdfs/genesandgenomes.pdf)
 * [Genomic Manipulation]({{ site.url }}/assets/pdfs/GenomicManipulation.pdf)
-* [Molecular Biology of The Chloroplast]({{ site.url }}/assets/pdfs/Nixon1.pdf)
+* [Molecular Biology of The Chloroplast, Peter Nixon]({{ site.url }}/assets/pdfs/Nixon1.pdf)
 * [Systems Biology]({{ site.url }}/assets/pdfs/isb.pdf)
 * [Biophysics, Robert Endres]({{ site.url }}/assets/pdfs/Lecture_biophysics.pdf)
 * [Biophysics, Robert Endres]({{ site.url }}/assets/pdfs/Lecture_biophysics.pdf)
@@ -39,6 +39,7 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 # Biochemistry
 
 * [Structure of the Nicotine Receptor]({{ site.url }}/assets/pdfs/nAChR.pdf)
+* [Neurobiology]({{ site.url }}/assets/pdfs/Neuro.pdf)
 * [Proteins and Enzymes]({{ site.url }}/assets/pdfs/PROTEINS AND ENZYMES 1-7)
 * [Enzymology 1]({{ site.url }}/assets/pdfs/ENZYMOLOGY)
 * [Enzymology 2]({{ site.url }}/assets/pdfs/ENZYMOLOGY2)
@@ -51,9 +52,9 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 * [Biological NMR Spectroscopy]({{ site.url }}/assets/pdfs/NMR.pdf)
 * [Cryo-EM]({{ site.url }}/assets/pdfs/CRYO-EM.pdf)
 
-## Uncategorised
+## Essays
 
-* [Neurobiology]({{ site.url }}/assets/pdfs/Neuro.pdf)
+* [Prospects for the Development of Cyanobacterial Biofilm Bioreactors]({{ site.url }}/assets/pdfs/prospects-development-cyanobacterial.pdf)
 * [Human Practices in Synthetic Biology]({{ site.url }}/assets/pdfs/humanpractices.pdf)
 * [Economics Thought in Italy Before WWII]({{ site.url }}/assets/pdfs/economics-italy.pdf)
 * [Ricordi d'Africa: La Seconda Battaglia di El Alamein]({{ site.url }}/assets/pdfs/ricordiafrica.pdf)
@@ -61,21 +62,21 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 # Posters
 
 ## The Paradox of The Plankton
-<object data="https://scaralbi.github.io/assets/pdfs/paradox_poster.pdf" type="application/pdf" width="700px" height="700px">
+<object data="https://scaralbi.github.io/assets/pdfs/paradox_poster.pdf" type="application/pdf" width="1000px" height="500px">
     <embed src="https://scaralbi.github.io/assets/pdfs/paradox_poster.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 ## mini iGEM IC SB 2019- SynBio Field Programmable Gate Array (FPGA)
-<object data="https://scaralbi.github.io/assets/pdfs/mini-iGEM-poster.pdf" type="application/pdf" width="700px" height="700px">
+<object data="https://scaralbi.github.io/assets/pdfs/mini-iGEM-poster.pdf" type="application/pdf" width="1000px" height="500px">
     <embed src="https://scaralbi.github.io/assets/pdfs/mini-iGEM-poster.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 ## iGEM PixCell 2018: Electronic Control of Gene Expression
-<object data="https://scaralbi.github.io/assets/pdfs/iGEMposter.pdf" type="application/pdf" width="700px" height="700px">
+<object data="https://scaralbi.github.io/assets/pdfs/iGEMposter.pdf" type="application/pdf" width="1000px" height="500px">
     <embed src="https://scaralbi.github.io/assets/pdfs/iGEMposter.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
