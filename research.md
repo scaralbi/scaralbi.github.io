@@ -20,7 +20,7 @@ It is now a widely accepted fact that net decarbonisation of human activities in
 Harnessing the almost limitless supply of solar radiation with photosynthetic organisms using biophotovoltaic  (BPV) devices is a promising strategy in the pursuit of these goals.
 BPVs are bio-electrochemical systems (BES) that harvest electrons generated from photo-oxidation of water by photosynthetic materials to generate electrical work.
 
-![alt text](assets/figs/BPV.png)
+![alt text](assets/figs/brightside.png)
 
 As the process is driven by cells performing oxygenic photosynthesis, BPVs offer the possibility of coupling carbon dioxide sequestration and electricity generation, in a self-sustainable way.  
 In the last decade, considerable work has been done to optimise the bioelectrochemistry of these systems, which have proven useful to understand the mechanisms of electron transfer in photosynthetic organisms.
