@@ -62,21 +62,21 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 # Posters
 
 ## The Paradox of The Plankton
-<object data="https://scaralbi.github.io/assets/pdfs/paradox_poster.pdf" type="application/pdf" width="700px" height="700px">
+<object data="https://scaralbi.github.io/assets/pdfs/paradox_poster.pdf" type="application/pdf" width="1000px" height="500px">
     <embed src="https://scaralbi.github.io/assets/pdfs/paradox_poster.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 ## mini iGEM IC SB 2019- SynBio Field Programmable Gate Array (FPGA)
-<object data="https://scaralbi.github.io/assets/pdfs/mini-iGEM-poster.pdf" type="application/pdf" width="700px" height="700px">
+<object data="https://scaralbi.github.io/assets/pdfs/mini-iGEM-poster.pdf" type="application/pdf" width="1000px" height="500px">
     <embed src="https://scaralbi.github.io/assets/pdfs/mini-iGEM-poster.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 ## iGEM PixCell 2018: Electronic Control of Gene Expression
-<object data="https://scaralbi.github.io/assets/pdfs/iGEMposter.pdf" type="application/pdf" width="700px" height="700px">
+<object data="https://scaralbi.github.io/assets/pdfs/iGEMposter.pdf" type="application/pdf" width="1000px" height="500px">
     <embed src="https://scaralbi.github.io/assets/pdfs/iGEMposter.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
