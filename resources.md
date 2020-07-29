@@ -1,19 +1,18 @@
 *Here there are some of my scripts, lecture notes, practicals and other PDF documents that I consider worth sharing.*
-
-# [Plankton Simulator](https://github.com/scaralbi/plankton-simulator)
+# MATLAB Scripts
+## [Plankton Simulator](https://github.com/scaralbi/plankton-simulator)
 The plankton-simulator is a collection of matlab scripts simulating the dynamics of structured microbial communities.
 The simulator is based on a multiscale biophysical model that incorporates species traits, consumer-resource dynamics and stochastic ecosystem assembly.
 The model hierarchically simulates features of ecosystem at different scales by defining three classes in the ecosystem using object-oriented programming in MATLAB: Species, Demes (spatially-isolated subcompartments) and Plankton (collection of Demes).
 
 ![alt text](https://github.com/scaralbi/plankton-simulator/blob/master/flowchart.png?raw=true)
 
-
-# [Biofilmer](https://github.com/scaralbi/biofilmer)
+## [Biofilmer](https://github.com/scaralbi/biofilmer)
 The biofilmer is a repository of MATLAB scripts to quantify properties of fluorescence time-lapse microscopy biofilm images.
 ![alt text](https://github.com/scaralbi/biofilmer/blob/master/imageanalysis.png?raw=true)
 
 
-
+# Lecture Notes
 # Synthetic Biology / Biotechnology
 
 * [Molecular Biology]({{ site.url }}/assets/pdfs/molecularbiology.pdf)
@@ -52,14 +51,38 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 * [Biological NMR Spectroscopy]({{ site.url }}/assets/pdfs/NMR.pdf)
 * [Cryo-EM]({{ site.url }}/assets/pdfs/CRYO-EM.pdf)
 
-# Uncategorised
+## Uncategorised
 
 * [Neurobiology]({{ site.url }}/assets/pdfs/Neuro.pdf)
 * [Human Practices in Synthetic Biology]({{ site.url }}/assets/pdfs/humanpractices.pdf)
-* [Economics Thought in Italy Before WWII]({{ site.url }}/assets/pdfs/Economic thought in Italy)
-* [Ricordi d'Africa: La Seconda Battaglia di El Alamein]({{ site.url }}/assets/pdfs/ricordiafrica)
+* [Economics Thought in Italy Before WWII]({{ site.url }}/assets/pdfs/economics-italy.pdf)
+* [Ricordi d'Africa: La Seconda Battaglia di El Alamein]({{ site.url }}/assets/pdfs/ricordiafrica.pdf)
 
-# References for "Collective Dynamics of Microbial Biofilms Undergoing Signalling Waves"
+# Posters
+
+## The Paradox of The Plankton
+<object data="https://scaralbi.github.io/assets/pdfs/paradox_poster.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://scaralbi.github.io/assets/pdfs/paradox_poster.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## mini iGEM IC SB 2019- SynBio Field Programmable Gate Array (FPGA)
+<object data="https://scaralbi.github.io/assets/pdfs/mini-iGEM-poster.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://scaralbi.github.io/assets/pdfs/mini-iGEM-poster.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## iGEM PixCell 2018: Electronic Control of Gene Expression
+<object data="https://scaralbi.github.io/assets/pdfs/iGEMposter.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://scaralbi.github.io/assets/pdfs/iGEMposter.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+# References Lists
+## "Collective Dynamics of Microbial Biofilms Undergoing Signalling Waves"
 
 ```
 @ARTICLE{Arnaouteli201913553,
@@ -628,7 +651,7 @@ issn={1475-2859},
 
 ```
 
-# References for "The Paradox of The Plankon: Coexistence of Structured Microbial Communities"
+## References for "The Paradox of The Plankon: Coexistence of Structured Microbial Communities"
 
 ```
 Scopus
