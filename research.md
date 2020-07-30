@@ -10,7 +10,7 @@ I am fascinated by the reactions of [photosynthesis](https://en.wikipedia.org/wi
 
 ![alt text](assets/figs/cyanoproduction.jpg)
 
-In particular, cyanobacteria hold great promises as sustainable bioproduction platforms, for their ability of photoproduction of added-value biomass and electricity.
+In particular, cyanobacteria hold great promises as sustainable bioproduction platforms, for their ability of photoproduction of added-value biomass and electricity ([Knoot et al., 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5892586/); [Wey et al., 2019](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/celc.201900997)).
 There is a lot of interest in expanding synthetic biology toolkits to engineer cyanobacteria for photobiomanufacturing and energy generation.
 However, exploiting cyanobacteria as reliable microfactories requires precise control of gene expression. Current biological control systems fail to provide the reversible and programmable spatiotemporal control of electrical systems used in industry. Electrogenetics is an emerging field of synthetic biology investigating electronic control of gene expression. Whereas electrogenetic control has been demonstrated to enable precise spatial patterning in *E. coli*, currently photosynthetic cells lack an analogous induction system.
 
@@ -18,7 +18,7 @@ However, exploiting cyanobacteria as reliable microfactories requires precise co
 
 It is now a widely accepted fact that net decarbonisation of human activities in the soonest future is required to avoid the collapse of our planet into irreversible climate calamities. To this aim, efficient and sustainable ways need to be developed for energy production, which is currently responsible for almost a third of global carbon emissions,
 Harnessing the almost limitless supply of solar radiation with photosynthetic organisms using biophotovoltaic  (BPV) devices is a promising strategy in the pursuit of these goals.
-BPVs are bio-electrochemical systems (BES) that harvest electrons generated from photo-oxidation of water by photosynthetic materials to generate electrical work ([McCormick et al. 2015](https://pubs.rsc.org/en/content/articlelanding/2015/ee/c4ee03875d#!divAbstract)).
+BPVs are [bio-electrochemical systems](https://en.wikipedia.org/wiki/Bioelectrochemical_reactor) (BES) that harvest electrons generated from photo-oxidation of water by photosynthetic materials to generate electrical work ([McCormick et al. 2015](https://pubs.rsc.org/en/content/articlelanding/2015/ee/c4ee03875d#!divAbstract)).
 
 ![alt text](assets/figs/brightside.png)
 
@@ -39,7 +39,7 @@ I am excited by the possibility to combine electronics and synthetic biology to 
 The [Royal Society](https://royalsociety.org/topics-policy/projects/synthetic-biology/) defines Synthetic Biology as "an emerging area of research that can broadly be described as the design and construction of novel artificial biological pathways, organisms or devices, or the redesign of existing natural biological systems."
 It is very interdisciplinary: biochemistry, biology, physics, computing, art and many other disciplines are included in synthetic biology.
 The idea is that every organism is defined by its DNA, which is like the software of a programme. All the information needed for an organism to operate is written in DNA code (which uses just four symbols: A, C, G, T). Like computer scientists can write various different programs that perform all sort of functions with a programming language, synthetic biologists aim to engineer the organisms by writing in genetic code.
-There are various reasons for why we want to do this. The main on, arguably, is for purely heuristic (research, understanding) purposes. This follows the famous Feynman quote "what I cannot create I do not understand". By programming organisms from scratch we hope to understand how they work.
+There are various reasons for why we want to do this. The main on, arguably, is for purely heuristic (research, understanding) purposes. This follows the famous [Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) quote "what I cannot create I do not understand". By programming organisms from scratch we hope to understand how they work.
 Another reason is to engineer organisms to perform functions that they would not perform naturally. With this approach, we can programme bacteria to identify and kill cancerous cells. Or we can make hydrogen out of algae instead of using nasty chemicals and polluting the environment.
 If you want to read more, have a look at these websites:
 - [What is synthetic biology - BIO](https://www.bio.org/articles/synthetic-biology-explained)
@@ -53,7 +53,7 @@ However, the public perception of it does not seem to always follow the optimist
 The problem is that biological systems are incredibly  complex, and therefore discussion often requires  technical knowledge, which is becoming increasingly difficult to possess as disciplines become increasingly specialised.
 The traditional view of scientists is that they need to be pure and out of the context of social and political debate, with the only responsibility of scientific integrity. It should not come as a surprise then if the public perception on matters such as vaccination, OGM, homeopathy and evolution seems to follow emotional beliefs rather than scientific evidence. Tax benefits for the producers of homeopathic and “organic” products, creationism trends and the bad acceptance of OGM products are just some examples of this failure in translating scientific progress into public engagement. If scientists focused on elucidating the complexity of life are not involved in translating it in a more user-friendly manner, then the rise of irrational trends manifested by the general public could be a result of the failure of the scientific community to interact with the rest of the world.
 
-### Synthetica, a new branch in the kingdom of Life ? Image from Alexandra Daisy Ginsberg, The Synthetic Kingdom: A Natural History of the Synthetic Future. 2009.
+### Synthetica, a new branch in the kingdom of Life ? Image from [Alexandra Daisy Ginsberg](https://www.daisyginsberg.com/), The Synthetic Kingdom: A Natural History of the Synthetic Future. 2009.
 
 ![Syntha](assets/figs/synthetica.jpeg)
 
@@ -64,8 +64,8 @@ Science communication and outreaching activities can contribute to build a scien
 ## About iGEM
 The international Genetically Engineered Machine ([iGEM](https://igem.org/Main_Page)) competition is the world’s largest Synthetic Biology competition. Student teams are given a kit of biological parts from the [Registry of Standard Biological Parts](http://parts.igem.org/Main_Page) (a sort of standardised DNA bank). Working at their own schools over the summer, they use these parts and new parts of their own design to build synthetic biological systems and operate them in living cells.
 These student teams come from all over the world and spend the six months preceding the competition developing novel technologies in a wide range of areas from healthcare to energy and food. Every year iGEM unites more than 3,000 high school, undergrad, and postgrad students in Boston for a 4-day “jamboree” celebrating their achievements in and enthusiasm for Synthetic Biology.
-Imperial iGEM teams have consistently proven themselves on the world stage. Over the past 12 years, the teams have won with 3 Grand Prizes, 10 Gold Medals and 17 other awards.
-This project design and competition format is an exceptionally motivating and effective teaching method. Most of the students that take part in the competition end up pursuing PhDs in top universities across the world. The Imperial iGEM projects have significantly contributed to published scientific knowledge in the fields of optogenetics, biosensors, biomaterials, synthetic cultures and electrogenetics. In addition, the competition is a great proving ground for startup ideas. iGEM alumni, of which there are 30,000+, include many entrepreneurs running high-growth companies. Notably, the startups [Ginkgo Bioworks](https://www.ginkgobioworks.com/), [CustoMEM/Puraffinity](https://www.puraffinity.com/), [LabGenius], [Bolt Threads](https://boltthreads.com/) and many more.
+[Imperial iGEM](https://www.imperial.ac.uk/synthetic-biology/centre/students/research-opportunities/igem-and-biomod/) teams have consistently proven themselves on the world stage. Over the past 12 years, the teams have won with 3 Grand Prizes, 10 Gold Medals and 17 other awards.
+This project design and competition format is an exceptionally motivating and effective teaching method. Most of the students that take part in the competition end up pursuing PhDs in top universities across the world. The Imperial iGEM projects have significantly contributed to published scientific knowledge in the fields of optogenetics, biosensors, biomaterials, synthetic cultures and electrogenetics. In addition, the competition is a great proving ground for startup ideas. iGEM alumni, of which there are 30,000+, include many entrepreneurs running high-growth companies. Notably, the startups [Ginkgo Bioworks](https://www.ginkgobioworks.com/), [CustoMEM/Puraffinity](https://www.puraffinity.com/), [LabGenius](https://www.labgeni.us/), [Bolt Threads](https://boltthreads.com/) and many more.
 
 ## iGEM 2018, Imperial College Team
 
