@@ -1,4 +1,10 @@
 *Here there are some of my scripts, lecture notes, practicals and other PDF documents that I consider worth sharing.*
+*[MATLAB Scripts](#matlab-scripts)
+*[Lecture Noters and Essays](#lecture-notes)
+*[Posters](#posters)
+*[References Lists](#references-lists)
+
+
 # MATLAB Scripts
 ## [Plankton Simulator](https://github.com/scaralbi/plankton-simulator)
 The plankton-simulator is a collection of matlab scripts simulating the dynamics of structured microbial communities.
@@ -13,7 +19,7 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 
 
 # Lecture Notes
-# Synthetic Biology / Biotechnology
+## Synthetic Biology / Biotechnology
 
 * [Molecular Biology]({{ site.url }}/assets/pdfs/molecularbiology.pdf)
 * [GMO Papayas]({{ site.url }}/assets/pdfs/papayaogm.pdf)
@@ -36,7 +42,7 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 * [Advanced Synthetic Biology Applications: Pattern Formation, Mark Isalan]({{ site.url }}/assets/pdfs/Parts.pdf)
 * [Synthetic Biology IC Exam 15-16]({{ site.url }}/assets/pdfs/SynbioExam2015-16.pdf)
 
-# Biochemistry
+## Biochemistry
 
 * [Structure of the Nicotine Receptor]({{ site.url }}/assets/pdfs/nAChR.pdf)
 * [Neurobiology]({{ site.url }}/assets/pdfs/Neuro.pdf)
@@ -61,21 +67,21 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 
 # Posters
 
-## The Paradox of The Plankton
+### The Paradox of The Plankton
 <object data="https://scaralbi.github.io/assets/pdfs/paradox_poster.pdf" type="application/pdf" width="1000px" height="700px">
     <embed src="https://scaralbi.github.io/assets/pdfs/paradox_poster.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-## mini iGEM IC SB 2019- SynBio Field Programmable Gate Array (FPGA)
+### mini iGEM IC SB 2019- SynBio Field Programmable Gate Array (FPGA)
 <object data="https://scaralbi.github.io/assets/pdfs/mini-iGEM-poster.pdf" type="application/pdf" width="1000px" height="700px">
     <embed src="https://scaralbi.github.io/assets/pdfs/mini-iGEM-poster.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-## iGEM PixCell 2018: Electronic Control of Gene Expression
+### iGEM PixCell 2018: Electronic Control of Gene Expression
 <object data="https://scaralbi.github.io/assets/pdfs/iGEMposter.pdf" type="application/pdf" width="1000px" height="700px">
     <embed src="https://scaralbi.github.io/assets/pdfs/iGEMposter.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
