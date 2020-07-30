@@ -18,7 +18,7 @@ However, exploiting cyanobacteria as reliable microfactories requires precise co
 
 It is now a widely accepted fact that net decarbonisation of human activities in the soonest future is required to avoid the collapse of our planet into irreversible climate calamities. To this aim, efficient and sustainable ways need to be developed for energy production, which is currently responsible for almost a third of global carbon emissions,
 Harnessing the almost limitless supply of solar radiation with photosynthetic organisms using biophotovoltaic  (BPV) devices is a promising strategy in the pursuit of these goals.
-BPVs are bio-electrochemical systems (BES) that harvest electrons generated from photo-oxidation of water by photosynthetic materials to generate electrical work.
+BPVs are bio-electrochemical systems (BES) that harvest electrons generated from photo-oxidation of water by photosynthetic materials to generate electrical work ([McCormick et al. 2015](https://pubs.rsc.org/en/content/articlelanding/2015/ee/c4ee03875d#!divAbstract)).
 
 ![alt text](assets/figs/BPV.png)
 
@@ -79,7 +79,7 @@ We developed an experimental protocol to optimise the chemical conditions of the
 We then constructed a library of electrogenetic parts for use in future electrogenetic projects.  We assembled the electrogenetic library into 48 different constructs using the next-generation [BASIC assembly](https://pubs.acs.org/doi/abs/10.1021/sb500356d) method. With a plate reader, we then characterised the library to find orthogonality between transcription factors and promoters.
 Participating in iGEM gave me the opportunity to experience the life of a researcher, teaching me how to design the right experiments to answer scientific questions, interpret scientific data and exploit failures as inputs for new hypotheses. At the end of the project, you also get to fly to Boston and present your work to the other teams. This fortified my determination to do a PhD.
 
-I wrote a journal during the iGEM experience.
+I wrote a journal during iGEM .
 * [PixCell Journal, July-October 2018](http://2018.igem.org/Team:Imperial_College/Journal)
 
 # About BIOMOD
@@ -87,8 +87,8 @@ I wrote a journal during the iGEM experience.
 [BIOMOD](http://biomod.net/) is an annual biomolecular design competition for students.
 Undergraduate teams compete to build the coolest stuff using the molecules of life. Previous winners have used DNA, RNA, and proteins as building blocks to create autonomous robots, molecular computers, and prototypes for nanoscale therapeutics. Students lead projects each summer and then travel to San Francisco in late October to present their work and win awards.
 In the summer 2019 I took part in this competition as part of the Imperial College team, [NanoDIPs](https://nanodips.github.io/website/).
-Below there is a link to the project video.
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Q-2sD256jyk/0.jpg)](http://www.youtube.com/watch?v=Q-2sD256jyk)
+While working in a biohackspace during the summer, we used designed and constructed DNA nanopores to be used for drug delivery.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-2sD256jyk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 We were the first team from Imperial College to participate. In October we flew to [UCSF](https://www.ucsf.edu/) to present the work. Our team was awarded the 1st runner up prize and many other awards ([BIOMOD 2019 results](http://biomod.net/winners/)).
-I also wrote a journal summarising the daily life during BIOMOD.
+I also wrote a journal summarising the daily life during BIOMOD.   
 * [NanoDIPs Journal, July-October 2019](https://nanodips.github.io/website/Journal/)
