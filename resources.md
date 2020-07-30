@@ -1,8 +1,8 @@
-*Here there are some of my scripts, lecture notes, practicals and other PDF documents that I consider worth sharing.*
-*[MATLAB Scripts](#matlab-scripts)  
-*[Lecture Noters and Essays](#lecture-notes)  
-*[Posters](#posters)  
-*[References Lists](#references-lists)  
+*Here there are some of my scripts, lecture notes, practicals and other PDF documents that I consider worth sharing.*  
+* [MATLAB Scripts](#matlab-scripts)  
+* [Lecture Noters and Essays](#lecture-notes)  
+* [Posters](#posters)  
+* [References Lists](#references-lists)  
 
 
 # MATLAB Scripts
