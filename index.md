@@ -36,7 +36,7 @@ I completed my BSc in biotechnology from [Imperial College London](https://www.i
 This website was created under the terms of the open-source [MIT license](https://opensource.org/licenses/MIT).
 Do you want to collaborate in some scientific projects?
 Do you have any question ?
-Write to me:  [as2945@cam.ac.uk](as2945@cam.ac.uk).
+Write to me:  [as2945@cam.ac.uk](as2945@cam.ac.uk).  
 <a class="twitter-follow-button"
-  href="https://twitter.com/scaralbi">
+  href="https://twitter.com/scaralbi"> 
 Follow me @scaralbi</a>

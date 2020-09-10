@@ -1,6 +1,9 @@
 # Research Interest
 
-During my undergraduate degree I developed a passion for [synthetic](https://en.wikipedia.org/wiki/Synthetic_biology) and [systems biology](https://en.wikipedia.org/wiki/Systems_biology): two fields of research that aim to engineer and deconstruct living systems in order to understand their assembly logic. I am now trying to apply those principles to study how and why certain bacteria are able to sense and generate electrical signals when living in [biofilms](https://en.wikipedia.org/wiki/Biofilm). In particular, I am curious about the molecular mechanisms and genetic components that allow [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria) to produce electricity from sunlight, air and water (in so-called [biophotovoltaic devices](https://en.wikipedia.org/wiki/Biological_photovoltaics)). I am also keen about developing biophysical techniques to investigate how the evolution of electrical signalling in structured communities of [exoelecotrogenic](https://en.wikipedia.org/wiki/Exoelectrogen) photosynthetic bacteria contributes to the emergence of collective properties.
+During my undergraduate degree I developed a passion for [synthetic](https://en.wikipedia.org/wiki/Synthetic_biology) and [systems biology](https://en.wikipedia.org/wiki/Systems_biology): two fields of research that aim to engineer and deconstruct living systems in order to understand their assembly logic. 
+I am now trying to apply those principles to study how and why certain bacteria are able to sense and generate electrical signals when living in [biofilms](https://en.wikipedia.org/wiki/Biofilm). 
+In particular, I am curious about the molecular mechanisms and genetic components that allow [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria) to produce electricity from sunlight, air and water (in so-called [biophotovoltaic devices](https://en.wikipedia.org/wiki/Biological_photovoltaics)). 
+I am also keen about developing biophysical techniques to investigate how the evolution of electrical signalling in structured communities of [exoelecotrogenic](https://en.wikipedia.org/wiki/Exoelectrogen) photosynthetic bacteria contributes to the emergence of collective properties.
 
 
 
@@ -48,10 +51,12 @@ If you want to read more, have a look at these websites:
 
 ![alt text](assets/figs/polpromoter.gif)
 
-Synthetic Biology is a field of research that deconstructs biological systems to understand their assembly logic. This reverse engineering of life has been hailed by the scientific community as the field capable of solving most of the challenges that we are going to face in the future, such as overpopulation, pollution and lack of natural resources.
+Synthetic Biology is a field of research that deconstructs biological systems to understand their assembly logic. 
+This reverse engineering of life has been hailed by the scientific community as the field capable of solving most of the challenges that we are going to face in the future, such as overpopulation, pollution and lack of natural resources.
 However, the public perception of it does not seem to always follow the optimistic view held by those in the field.
 The problem is that biological systems are incredibly  complex, and therefore discussion often requires  technical knowledge, which is becoming increasingly difficult to possess as disciplines become increasingly specialised.
-The traditional view of scientists is that they need to be pure and out of the context of social and political debate, with the only responsibility of scientific integrity. It should not come as a surprise then if the public perception on matters such as vaccination, OGM, homeopathy and evolution seems to follow emotional beliefs rather than scientific evidence. Tax benefits for the producers of homeopathic and “organic” products, creationism trends and the bad acceptance of OGM products are just some examples of this failure in translating scientific progress into public engagement. If scientists focused on elucidating the complexity of life are not involved in translating it in a more user-friendly manner, then the rise of irrational trends manifested by the general public could be a result of the failure of the scientific community to interact with the rest of the world.
+The traditional view of scientists is that they need to be pure and out of the context of social and political debate, with the only responsibility of scientific integrity. 
+It should not come as a surprise then if the public perception on matters such as vaccination, OGM, homeopathy and evolution seems to follow emotional beliefs rather than scientific evidence. Tax benefits for the producers of homeopathic and “organic” products, creationism trends and the bad acceptance of OGM products are just some examples of this failure in translating scientific progress into public engagement. If scientists focused on elucidating the complexity of life are not involved in translating it in a more user-friendly manner, then the rise of irrational trends manifested by the general public could be a result of the failure of the scientific community to interact with the rest of the world.
 
 ### Synthetica, a new branch in the kingdom of Life ? Image from [Alexandra Daisy Ginsberg](https://www.daisyginsberg.com/), The Synthetic Kingdom: A Natural History of the Synthetic Future. 2009.
 
@@ -86,8 +91,8 @@ I wrote a journal during iGEM .
 
 [BIOMOD](http://biomod.net/) is an annual biomolecular design competition for students.
 Undergraduate teams compete to build the coolest stuff using the molecules of life. Previous winners have used DNA, RNA, and proteins as building blocks to create autonomous robots, molecular computers, and prototypes for nanoscale therapeutics. Students lead projects each summer and then travel to San Francisco in late October to present their work and win awards.
-In the summer 2019 I took part in this competition as part of the Imperial College team, [NanoDIPs](https://nanodips.github.io/website/).
-While working in a biohackspace during the summer, we used designed and constructed DNA nanopores to be used for drug delivery.  
+In the summer 2019 [I](https://nanodips.github.io/website/AboutUs/#Albi) took part in this competition as part of the Imperial College team, [NanoDIPs](https://nanodips.github.io/website/).
+While working in a biohackspace during the summer, we used designed and constructed [DNA nanopores](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6523550/#:~:text=DNA%2Dbased%20nanopores%20are%20the,across%20cell%20membranes%20%5B45%5D) to be used for drug delivery.  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q-2sD256jyk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
 We were the first team from Imperial College to participate. In October we flew to [UCSF](https://www.ucsf.edu/) to present the work. Our team was awarded the 1st runner up prize and many other awards ([BIOMOD 2019 results](http://biomod.net/winners/)).
 I also wrote a journal summarising the daily life during BIOMOD.   
