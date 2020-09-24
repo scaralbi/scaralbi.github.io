@@ -1,6 +1,7 @@
-§e---
+---
 layout: post
 title: Inno alla Risonanza
+
 ---
 
 ```D     A     Bm  F#m```<br/>
