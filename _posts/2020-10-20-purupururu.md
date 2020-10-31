@@ -1,42 +1,93 @@
 ---
 layout: post
-title: Grantchester Summer
+title: Indie della Domenica
 
 ---
 
-A grassy footpath leads you where  
-the river slides beneath the trees  
-towards the town of Grantchester,   
-along the meadows and the bees.  
+E <div style="text-align: right"> A </div>    
+Ci sono tante domeniche   
+E <div style="text-align: right"> B </div>      
+in un anno solare,  
+E A   
+molte storie inventate   
+E B  
+che vorrei essere vere  
+E A   
+Ma quando arriva la notte,   
+E B  
+dimmi vuoi rimanere?  
+E A   
+Vuoi restare a parlare   
+E B  
+o ti va di sognare?  
 
-There are some cows that eat the greens  
-and fishers splashing in the ponds  
-while students punt along the streams   
-The sun sets orange far beyond.   
+A E    
+Se vuoi facciamo l’amore 
+C”m B   
+e squarciamo il muro
+A E   
+Andiamo in giro per strada 
+B B   
+a parlar del futuro
 
-There is a peace this place conveys  
-That many tried to put in rhymes   
-Like Rupert Brooke and the Pink Floyds  
-And even the young Wittgenstein.   
+E A  
+E fa puru pururu (il mio cuore fa)   
+E B  
+puppu pururu’  
+E A   
+Quando l’io penso svanisce  
+E B  
+E risuoniamo tra noi  
+E A   
+Non e’ un soffio sistolico   
+E B  
+Sarai tu che segnali  
+E A   
+A quale svolta girare  
+E B  
+O che frattale esplorare  
 
-Here is as if Classics never died  
-It's like Arcadia in the UK  
-The youth enjoys the riverside  
-While birds are singing with the bay.   
+A E   
+Ma non ti preoccupare  
+C”m B  
+Tanto son qui che ti seguo  
+A E  
+A volte sbaglio il percorso  
+B B  
+Ma torno sempre al tuo faro  
 
-Some people swim along the Cam  
-Others indulge in drinking beer  
-Beneath a tree around Newnham   
-A rope swings from a willow tree.   
- 
-The green that melts along the blue   
-Bridges the water with the land,   
-where friends on blankets eat and drink  
-Some deshelled nuts and ice cold pimms  
+E A E B  
+E A E B  
+E A E B  
+E A E B  
 
-This place is where a go for runs  
-Or swimming sessions when it's warm  
-It makes me feel part of a whole,   
-as in symbiosis with the world.   
+A E C”m B  
+A E B B   
+
+E A   
+E fa puru pururu  
+E B  
+Purupuppupu  
+E A   
+Sento strani rumori  
+E B  
+Quando sono con te   
+E A   
+Dammi il tuo soffio vitale  
+E B  
+Resta per sempre con me  
+E A   
+Facciamo un viaggio nel mare  
+E B   
+Screziamo il velo che c’e’  
+
+E A E B  
+E A E B  
+E A E B  
+E A E B  
 
 
+<audio controls>
+  <source src="/assets/recs/purupururu.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
