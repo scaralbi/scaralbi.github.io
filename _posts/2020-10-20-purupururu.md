@@ -4,9 +4,9 @@ title: Indie della Domenica
 
 ---
 
-E <div style="text-align: right"> A </div>    
+E  A      
 Ci sono tante domeniche   
-E <div style="text-align: right"> B </div>      
+E  B       
 in un anno solare,  
 E A   
 molte storie inventate   
