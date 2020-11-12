@@ -22,18 +22,18 @@ E B
 o ti va di sognare?  
 
 A E    
-Se vuoi facciamo l’amore 
-C”m B   
-e squarciamo il muro
-A E   
-Andiamo in giro per strada 
-B B   
-a parlar del futuro
-
-E A  
-E fa puru pururu (il mio cuore fa)   
+Se vuoi facciamo l’amore  
+C#m B    
+e squarciamo il muro  
+A E    
+Andiamo in giro per strada  
+B B    
+a parlar del futuro  
+  
+E A   
+E fa puru pururu (il mio cuore fa)     
 E B  
-puppu pururu’  
+puppu puruppu    
 E A   
 Quando l’io penso svanisce  
 E B  
@@ -48,26 +48,26 @@ E B
 O che frattale esplorare  
 
 A E   
-Ma non ti preoccupare  
-C”m B  
-Tanto son qui che ti seguo  
-A E  
-A volte sbaglio il percorso  
-B B  
-Ma torno sempre al tuo faro  
+Ma non ti preoccupare   
+C#m B   
+Tanto son qui che ti seguo   
+A E   
+A volte sbaglio il percorso   
+B B   
+Ma torno sempre al tuo faro   
 
-E A E B  
-E A E B  
-E A E B  
-E A E B  
-
-A E C”m B  
-A E B B   
+E A E B   
+E A E B   
+E A E B   
+E A E B   
+ 
+A E C#m B   
+A E B B    
 
 E A   
 E fa puru pururu  
 E B  
-Purupuppupu  
+Puppu puruppu   
 E A   
 Sento strani rumori  
 E B  
