@@ -96,10 +96,46 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 </object>
 
 # DNA Sequences
-<div class="snp-viewer-create-here" style="width: 1000px;"
-		snp-viewer-dna-fasta-file="/assets/dna/2020-11-13_E02_ASAS18BSP4.fasta"
-		snp-viewer-dna-newick-file=""
-		></div>
+<html>
+<head>
+<title>JSAV demonstration</title>
+<script type='text/javascript' src='JSAV/external/jquery-1.10.2.min.js'></script>
+</head>
+
+<body>
+<h1>JSAV demonstration</h1>
+
+<p>You <b>must</b> provide your sequences <b>ready-aligned</b> in FASTA format.</p>
+
+<form action='jsav.cgi' method='post'>
+<textarea name='seqs' cols='80' rows='20'>
+>id1b1.L
+SASSSVNYMYACREFGHIKLMNPTRSTVWY
+>id1a.L
+SASSSTNYMYACDEFGHIKLMNPQRSTVWY
+>id2b1.L
+SASSTCNYMTACDEEGHIKLMNP-RSTCWY
+>id2a.L
+SASSSCNYMTLCDEHGHIKLMNP-RSTCWY
+>id2a1.L
+SASSSCNYMTLCDEHGHIKLMNPQRSTCWY
+>id1.L
+SASSSVNYMYACDEFGHIKLMNPQRSTVWY
+>id1b.L
+SASSSVNYMYACREFGHIKLMNPQRSTVWY
+>id1a1.L
+SASSSTNYMYLCDEFGHIKLMNPQRSTVWY
+>id2.L
+SASSSCNYMTACDEHGHIKLMNP-RSTCWY
+>id2b.L
+SASSTCNYMTACDEHGHIKLMNP-RSTCWY
+</textarea><br />
+<input type='submit' id='submit_button' value='Display'/>
+<input type='reset' />
+</form>
+
+</body>
+</html>
 
 
 # References Lists
