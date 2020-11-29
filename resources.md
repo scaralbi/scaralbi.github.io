@@ -98,43 +98,49 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 # DNA Sequences
 <html>
 <head>
-<title>JSAV demonstration</title>
-<script type='text/javascript' src='JSAV/external/jquery-1.10.2.min.js'></script>
+<title>Alignments</title>
+<link REL="stylesheet" TYPE="text/css" HREF="../Snip_Viz_components/css/snp_viewer.css">
 </head>
 
 <body>
-<h1>JSAV demonstration</h1>
+<h1>pAS1.8</h1>
 
-<p>You <b>must</b> provide your sequences <b>ready-aligned</b> in FASTA format.</p>
+<div class="snp-viewer-create-here" style="width: 1000px;"
+		snp-viewer-dna-fasta-file="/assets/dna/2020-11-13_E02_ASAS18BSP4.fasta"
+		snp-viewer-dna-newick-file=""
+		snp-viewer-protein-fasta-file="/assets/dna/2020-11-13_E02_ASAS18BSP4.fasta"
+		snp-viewer-protein-newick-file=""
+		></div>
 
-<form action='jsav.cgi' method='post'>
-<textarea name='seqs' cols='80' rows='20'>
->id1b1.L
-SASSSVNYMYACREFGHIKLMNPTRSTVWY
->id1a.L
-SASSSTNYMYACDEFGHIKLMNPQRSTVWY
->id2b1.L
-SASSTCNYMTACDEEGHIKLMNP-RSTCWY
->id2a.L
-SASSSCNYMTLCDEHGHIKLMNP-RSTCWY
->id2a1.L
-SASSSCNYMTLCDEHGHIKLMNPQRSTCWY
->id1.L
-SASSSVNYMYACDEFGHIKLMNPQRSTVWY
->id1b.L
-SASSSVNYMYACREFGHIKLMNPQRSTVWY
->id1a1.L
-SASSSTNYMYLCDEFGHIKLMNPQRSTVWY
->id2.L
-SASSSCNYMTACDEHGHIKLMNP-RSTCWY
->id2b.L
-SASSTCNYMTACDEHGHIKLMNP-RSTCWY
-</textarea><br />
-<input type='submit' id='submit_button' value='Display'/>
-<input type='reset' />
-</form>
 
 </body>
+
+<script type="text/javascript" src="../Snip_Viz_components/js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="../Snip_Viz_components/js/jquery-ui-1.8.20.custom.min.js"></script>
+
+	<script type="text/javascript" src="../Snip_Viz_components/js/wz_jsgraphics.js" ></script >
+
+	<script type="text/javascript" src="../Snip_Viz_components/js/wz_tooltip/wz_tooltip.js"></script>
+
+
+
+	<!-- actual SNP viewer  -->
+	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_main.js"></script >
+
+	<!-- Javascript to set up the SNP viewer  -->
+	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_loader_data_object_and_callbacks_provided.js"></script >
+
+
+	<!-- Javascript to be called from the script in "../Snip_Viz_components/js/snp_viewer_very_simple_loader.js" and
+			then calls the script in "../Snip_Viz_components/js/snp_viewer_get_fasta_newick_data_external_file.js"  -->
+	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_get_fasta_newick_data_external_file.js"></script >
+
+
+	<!-- Javascript to locate marked "div"s and create SNP viewers in them
+			by calling the script in "../Snip_Viz_components/js/snp_viewer_loader_data_object_provided.js"  -->
+	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_HTML_config_loader.js"></script >
+
+
 </html>
 
 
