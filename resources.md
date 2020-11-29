@@ -1,9 +1,16 @@
+
+<link REL="stylesheet" TYPE="text/css" HREF="../Snip_Viz_components/css/snp_viewer.css">
+
+
+
+
 *Here there are some of my scripts, lecture notes, practicals and other PDF documents that I consider worth sharing.*  
 * [MATLAB Scripts](#matlab-scripts)  
-* [Lecture Noters and Essays](#lecture-notes)  
+* [Lecture Notes and Essays](#lecture-notes)  
 * [Posters](#posters)  
 * [Papers](https://benchling.com/s/etr-vKNUnc9EWbx9TVyW4s8N)  
 * [References Lists](#references-lists)  
+* [DNA Sequences](#DNA-sequences)
 
 # MATLAB Scripts
 ## [Plankton Simulator](https://github.com/scaralbi/plankton-simulator)
@@ -87,6 +94,13 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+# DNA Sequences
+<div class="snp-viewer-create-here" style="width: 1000px;"
+		snp-viewer-dna-fasta-file="/assets/dna/2020-11-13_E02_ASAS18BSP4.fasta"
+		snp-viewer-dna-newick-file=""
+		></div>
+
 
 # References Lists
 ## "Collective Dynamics of Microbial Biofilms Undergoing Signalling Waves"
@@ -1497,3 +1511,31 @@ art_number={517},
 }
 
 ```
+
+
+<script type="text/javascript" src="../Snip_Viz_components/js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="../Snip_Viz_components/js/jquery-ui-1.8.20.custom.min.js"></script>
+
+	<script type="text/javascript" src="../Snip_Viz_components/js/wz_jsgraphics.js" ></script >
+
+	<script type="text/javascript" src="../Snip_Viz_components/js/wz_tooltip/wz_tooltip.js"></script>
+
+
+
+	<!-- actual SNP viewer  -->
+	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_main.js"></script >
+
+	<!-- Javascript to set up the SNP viewer  -->
+	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_loader_data_object_and_callbacks_provided.js"></script >
+
+
+	<!-- Javascript to be called from the script in "../Snip_Viz_components/js/snp_viewer_very_simple_loader.js" and
+			then calls the script in "../Snip_Viz_components/js/snp_viewer_get_fasta_newick_data_external_file.js"  -->
+	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_get_fasta_newick_data_external_file.js"></script >
+
+
+	<!-- Javascript to locate marked "div"s and create SNP viewers in them
+			by calling the script in "../Snip_Viz_components/js/snp_viewer_loader_data_object_provided.js"  -->
+	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_HTML_config_loader.js"></script >
+
+
