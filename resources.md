@@ -96,52 +96,23 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 </object>
 
 # DNA Sequences
-<html>
-<head>
-<title>Alignments</title>
-<link REL="stylesheet" TYPE="text/css" HREF="../Snip_Viz_components/css/snp_viewer.css">
-</head>
 
-<body>
-<h1>pAS1.8</h1>
+## Level 0
+* [pAS0.1]({{ site.url }}/assets/dna/L0/2020-11-13_D01_ASAS01ASP1-alignment.pdf)
+* [pAS0.2]({{ site.url }}/assets/dna/L0/2020-10-29_E10_JLPAS02SP1-alignment.pdf)
+* [pAS0.5]({{ site.url }}/assets/dna/L0/2020-07-30_D11_ASPAS5SP1-2020-07-30_D11_ASPAS5SP1ab1-alignment.pdf)
+* [pAS0.6]({{ site.url }}/assets/dna/L0/2020-11-03_G01_ASASO6ASP1-alignment.pdf)
+* [pAS0.7]({{ site.url }}/assets/dna/L0/2020-07-28_H07_AS7SP1-alignment.pdf)
+* [pAS0.8]({{ site.url }}/assets/dna/L0/2020-07-30_E11_ASPAS8SP1-2020-07-30_E11_ASPAS8SP1ab1-alignment.pdf)
+* [pAS0.10]({{ site.url }}/assets/dna/L0/2020-09-07_B02_ASAS010SP1-alignment.pdf)
+* [pAS0.11]({{ site.url }}/assets/dna/L0/2020-11-03_A02_ASASO11ASP1-alignment.pdf)
+* [pAS0.12]({{ site.url }}/assets/dna/L0/2020-11-13_H01_ASAS012ASP1-alignment.pdf)
+* [pAS0.13]({{ site.url }}/assets/dna/L0/2020-11-03_E01_ASASO13ASP1-alignment.pdf)
+* [pAS0.14]({{ site.url }}/assets/dna/L0/2020-11-16_G09_ASASO14BSP1-alignment.pdf)
 
-<div class="snp-viewer-create-here" style="width: 1000px;"
-		snp-viewer-dna-fasta-file="/assets/dna/2020-11-13_E02_ASAS18BSP4.fasta"
-		snp-viewer-dna-newick-file=""
-		snp-viewer-protein-fasta-file="/assets/dna/2020-11-13_E02_ASAS18BSP4.fasta"
-		snp-viewer-protein-newick-file=""
-		></div>
+## Level 1
 
-
-</body>
-
-<script type="text/javascript" src="../Snip_Viz_components/js/jquery-1.7.2.min.js"></script>
-	<script type="text/javascript" src="../Snip_Viz_components/js/jquery-ui-1.8.20.custom.min.js"></script>
-
-	<script type="text/javascript" src="../Snip_Viz_components/js/wz_jsgraphics.js" ></script >
-
-	<script type="text/javascript" src="../Snip_Viz_components/js/wz_tooltip/wz_tooltip.js"></script>
-
-
-
-	<!-- actual SNP viewer  -->
-	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_main.js"></script >
-
-	<!-- Javascript to set up the SNP viewer  -->
-	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_loader_data_object_and_callbacks_provided.js"></script >
-
-
-	<!-- Javascript to be called from the script in "../Snip_Viz_components/js/snp_viewer_very_simple_loader.js" and
-			then calls the script in "../Snip_Viz_components/js/snp_viewer_get_fasta_newick_data_external_file.js"  -->
-	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_get_fasta_newick_data_external_file.js"></script >
-
-
-	<!-- Javascript to locate marked "div"s and create SNP viewers in them
-			by calling the script in "../Snip_Viz_components/js/snp_viewer_loader_data_object_provided.js"  -->
-	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_HTML_config_loader.js"></script >
-
-
-</html>
+## Level T
 
 
 # References Lists
