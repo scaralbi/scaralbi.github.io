@@ -112,6 +112,19 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 
 ## Level 1
 
+* [pAS1.1]({{ site.url }}/assets/dna/L1/2020-09-07_E02_ASAS112SP3-2020-09-07_E02_ASAS112SP3ab1-alignment.pdf)
+* [pAS1.2]({{ site.url }}/assets/dna/L1/2020-09-07_F02_ASAS12SP3-2020-09-07_F02_ASAS12SP3ab1-alignment.pdf)
+* [pAS1.3]({{ site.url }}/assets/dna/L1/2020-09-07_G02_ASAS131SP3-2020-09-07_G02_ASAS131SP3ab1-alignment.pdf)
+* [pAS1.4]({{ site.url }}/assets/dna/L1/2020-11-19_F08_ASAS14BSP3-alignment.pdf)
+* [pAS1.6]({{ site.url }}/assets/dna/L1/2020-11-19_B09_ASAS16BSP3-alignment.pdf)
+* [pAS1.7]({{ site.url }}/assets/dna/L1/2020-11-19_D09_ASAS17BSP3-alignment.pdf)
+* [pAS1.8]({{ site.url }}/assets/dna/L1/2020-11-13_E02_ASAS18BSP4-alignment.pdf)
+* [pAS1.11]({{ site.url }}/assets/dna/L1/2020-11-19_B10_ASAS111BSP3-alignment.pdf)
+* [pAS1.13]({{ site.url }}/assets/dna/L1/2020-11-19_F10_ASAS113BSP3-alignment.pdf)
+* [pAS1.14]({{ site.url }}/assets/dna/L1/2020-12-01_E06_ASJL114ASP4-alignment.pdf)
+* [pAS1.15]({{ site.url }}/assets/dna/L1/2020-12-15_F07_JLJL115ASP4-alignment.pdf)
+
+
 ## Level T
 
 
