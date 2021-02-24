@@ -134,7 +134,7 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 
 ## CyanoGate 2.0
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGrSl_Dh8BnqAPCtToCj-RWnE3h5z8GubHpB_kGyVxtgLD7cYqmFJc3aYs80663PxQmnjvR2DbF39x/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="260" style="embed"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGrSl_Dh8BnqAPCtToCj-RWnE3h5z8GubHpB_kGyVxtgLD7cYqmFJc3aYs80663PxQmnjvR2DbF39x/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="150%" height="1000" style="embed"></iframe>
 
 
 # References Lists
