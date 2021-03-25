@@ -95,46 +95,6 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
     </embed>
 </object>
 
-# DNA Sequences
-
-## Level 0
-* [pAS0.1]({{ site.url }}/assets/dna/L0/2020-11-13_D01_ASAS01ASP1-alignment.pdf)
-* [pAS0.2]({{ site.url }}/assets/dna/L0/2020-10-29_E10_JLPAS02SP1-alignment.pdf)
-* [pAS0.5]({{ site.url }}/assets/dna/L0/2020-07-30_D11_ASPAS5SP1-2020-07-30_D11_ASPAS5SP1ab1-alignment.pdf)
-* [pAS0.6]({{ site.url }}/assets/dna/L0/2020-11-03_G01_ASASO6ASP1-alignment.pdf)
-* [pAS0.7]({{ site.url }}/assets/dna/L0/2020-07-28_H07_AS7SP1-alignment.pdf)
-* [pAS0.8]({{ site.url }}/assets/dna/L0/2020-07-30_E11_ASPAS8SP1-2020-07-30_E11_ASPAS8SP1ab1-alignment.pdf)
-* [pAS0.10]({{ site.url }}/assets/dna/L0/2020-09-07_B02_ASAS010SP1-alignment.pdf)
-* [pAS0.11]({{ site.url }}/assets/dna/L0/2020-11-03_A02_ASASO11ASP1-alignment.pdf)
-* [pAS0.12]({{ site.url }}/assets/dna/L0/2020-11-13_H01_ASAS012ASP1-alignment.pdf)
-* [pAS0.13]({{ site.url }}/assets/dna/L0/2020-11-03_E01_ASASO13ASP1-alignment.pdf)
-* [pAS0.14]({{ site.url }}/assets/dna/L0/2020-11-16_G09_ASASO14BSP1-alignment.pdf)
-
-## Level T
-
-* [pAS1.1]({{ site.url }}/assets/dna/L1/2020-09-07_E02_ASAS112SP3-2020-09-07_E02_ASAS112SP3ab1-alignment.pdf)
-* [pAS1.2]({{ site.url }}/assets/dna/L1/2020-09-07_F02_ASAS12SP3-2020-09-07_F02_ASAS12SP3ab1-alignment.pdf)
-* [pAS1.3]({{ site.url }}/assets/dna/L1/2020-09-07_G02_ASAS131SP3-2020-09-07_G02_ASAS131SP3ab1-alignment.pdf)
-* [pAS1.4]({{ site.url }}/assets/dna/L1/2020-11-19_F08_ASAS14BSP3-alignment.pdf)
-* [pAS1.6]({{ site.url }}/assets/dna/L1/2020-11-19_B09_ASAS16BSP3-alignment.pdf)
-* [pAS1.7]({{ site.url }}/assets/dna/L1/2020-11-19_D09_ASAS17BSP3-alignment.pdf)
-* [pAS1.8]({{ site.url }}/assets/dna/L1/2020-11-13_E02_ASAS18BSP4-alignment.pdf)
-* [pAS1.11]({{ site.url }}/assets/dna/L1/2020-11-19_B10_ASAS111BSP3-alignment.pdf)
-* [pAS1.13]({{ site.url }}/assets/dna/L1/2020-11-19_F10_ASAS113BSP3-alignment.pdf)
-* [pAS1.14]({{ site.url }}/assets/dna/L1/2020-12-01_E06_ASJL114ASP4-alignment.pdf)
-* [pAS1.15]({{ site.url }}/assets/dna/L1/2020-12-15_F07_JLJL115ASP4-alignment.pdf)
-
-
-## Level T
-
-* [pAST.011]({{ site.url }}/assets/dna/LT/2020-12-04_G02_ASAST15BSPTF-alignment.pdf)
-* [pAST.41]({{ site.url }}/assets/dna/LT/2020-12-10_A10_AST41DSPTF-2020-12-10_G09_AST41BSPTF-2020-12-10_F09_AST41ASPTF-2020-12-10_H09_AST41CSPTF-alignment.pdf)
-* [pAST.42]({{ site.url }}/assets/dna/LT/2020-12-10_B10_AST42ASPTF-alignment.pdf)
-
-
-## CyanoGate 2.0
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGrSl_Dh8BnqAPCtToCj-RWnE3h5z8GubHpB_kGyVxtgLD7cYqmFJc3aYs80663PxQmnjvR2DbF39x/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500" style="embed"></iframe>
 
 
 # References Lists
