@@ -12,6 +12,12 @@
 * [References Lists](#references-lists)  
 * [DNA Sequences](#DNA-sequences)
 
+# [GoldenGate Calculator](cakelabdna.github.io)
+Online calculator for DNA Assembly.
+## [Assembly Report](https://docs.google.com/spreadsheets/d/12G5TwARG7o5OzgPICj9YPiSczuWmx1yngZYTKdHQzaY/edit#gid=683324272&range=A1:J15)    
+<iframe width="1000" height="480" src="https://docs.google.com/spreadsheets/d/12G5TwARG7o5OzgPICj9YPiSczuWmx1yngZYTKdHQzaY/htmlembed/sheet?gid=683324272&range=A1:J15"></iframe>
+
+
 # MATLAB Scripts
 ## [Plankton Simulator](https://github.com/scaralbi/plankton-simulator)
 The plankton-simulator is a collection of matlab scripts simulating the dynamics of structured microbial communities.
