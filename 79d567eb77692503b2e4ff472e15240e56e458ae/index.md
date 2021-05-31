@@ -15,7 +15,12 @@ description: PhD project
 
 # Introduction
 
-## [1st Year Assessment](1st_Year_Assessement.html)
+## 1st Year Assessment
+<details>
+<summary>[view report](1st_Year_Assessement.html)</summary>
+<br>
+![1st Year Assessment](1st_Year_Assessement.html "View report")
+</details>
 
 # Methods
 
