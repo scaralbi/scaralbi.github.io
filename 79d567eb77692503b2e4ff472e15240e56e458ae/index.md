@@ -15,14 +15,16 @@ description: PhD project
 
 # Introduction
 
-<iframe src="/1st_Year_Assessement.md" title="Redox Signal Transduction"></iframe>
+## [1st Year Assessment](1st_Year_Assessement.md)
 
 # Methods
 
 # Experiments
-## [Mapping the Nucleotide Sequence of the PrqR Operatorof *Synechocystis sp.*PCC 6803 with Reporter Plasmids](/mappingoperator.html)
 
-<iframe src="/mappingoperator.html" title="Mapping the PrqR Operator"></iframe>
+## [Transcriptional Regulation of the prqRA Operon](mappingoperator.html)
+
+## [Mapping the Nucleotide Sequence of the PrqR Operator of *Synechocystis sp.*PCC 6803 with Reporter Plasmids](mappingoperator.html)
+
 
 
 
