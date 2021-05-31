@@ -1,9 +1,9 @@
 ---
-title: PhD Project
-description:
+title: PhD
+description: PhD project
 ---
 
-**Redox Signal Transduction in Photosynthetic Bacteria**
+# Redox Signal Transduction in Photosynthetic Bacteria
 
 # Content
 * [Introduction](#introduction)
@@ -18,6 +18,11 @@ description:
 # Methods
 
 # Experiments
+## Mapping the Nucleotide Sequence of the PrqR Operatorof *Synechocystis sp.*PCC 6803 with Reporter Plasmids
+
+<iframe src="/mappingoperator.html" title="Mapping the PrqR Operator"></iframe>
+
+
 
 # Results and Discussion
 

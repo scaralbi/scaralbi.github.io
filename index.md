@@ -9,7 +9,7 @@ description: the home page
 * [Blog](blog.md)
 * [Research](research.md)  
 * [Resources](resources.md)
-* [DNA Registry](resources.md)
+* [DNA Registry](https://cakelabdna.github.io)
 * [PhD Project](indexPhD.html)
 
 

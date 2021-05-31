@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>main</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      word-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<div class="Large">
+<p><strong>Mapping the Nucleotide Sequence of the PrqR Operator of <em>Synechocystis sp.</em> PCC 6803 with Reporter Plasmids</strong></p>
+</div>
+<p>Alberto Scarampi /05/2021<br />
+</p>
+<hr />
+<h1 class="unnumbered" id="summary">Summary</h1>
+<p>In this experiment <em>E. coli</em> cells will be transformed with plasmids encoding fluorescent reporter proteins downstream of synthetic promoters to investigate whether the PrqR transcription factor displays “in-trans" repression activity via a putative operator sequence found in the promoter region of the prqRA operon of <em>Synechocystis sp.</em> PCC 6803.</p>
+<h1 class="unnumbered" id="introduction">Introduction</h1>
+<p>In the model cyanobacterium <em>Synechocystis sp.</em> PCC 6803, a spontaneous mutant (prq20) was previously shown to be resistant to externally added methyl viologen (a photosynthetic inhibitor commonly sold as a herbicide under the name of Paraquat) <span class="citation" data-cites="Kirik2003"></span>. In this strain, the prqR gene was found to encode a missense mutation (L17Q) in in the N-terminal DNA-binding domain of PrqR, which resulted in derepression of the prqR–prqA operon, where prqA codes for a predicted transmembrane antiporter protein. Additionally, <span class="citation" data-cites="Kreslavski2007"></span> observed that the photosynthetic apparatus was less affected in the prq20 mutant than in the wild type (WT), as indicated by the damage generated by two strong-oxidative-stress producing compounds (methyl and benzyl viologen). More recently, <span class="citation" data-cites="Khan2016"></span> reported that the deletion mutant (<span class="math inline"><em>Δ</em></span>prqR) showed increased growth rate and decreased reactive oxygen species (ROS) content, whereas the complementary strain (CprqR) restored the growth characteristics, phenotypes and ROS status of WT, thereby establishing PrqR as a negative regulator of ROS. Further study by qRT-PCR, ChIP-PCR and deletion of both prqR and prqA revealed that PrqR exerts this negative regulation of ROS removal by controlling the expression of sodB and prqA (slr0896). Furthermore, PrqR also found to control glucose metabolism by regulating a positive regulator of glucose metabolism, sigE, and its regulons. Taken together, these results confirm that PrqR is a transcription factor with the ability of repressing itself and other genes involved in sensing and adaptation to oxidative stress. However, there are many aspects still unknown about the regulation exerted by this redox-sensitive transcription factor. In particular, it is unclear how PrqR is able repress itself and what inhibits this autorepression (i.e. what induces expression of PrqR). By expressing PrqR (together with its 5’ upstream DNA sequence) in <em>E. coli</em>, <span class="citation" data-cites="Kirik2003"></span> already suggested that prqR may be auto regulated via PrqR binding to operator sites in the promoter region. Their experiment was conducted by fusing the prqR gene (together with its 5’ upstream sequence) to the cat gene (conferring chloramphenicol resistance) and repression activity was quantified by measuring cell growth inhibition in the presence of chloramphenicol. However, the upstream promoter region they cloned upstream of prqR was very long (more than 1000 bp including also part of the gene upstream of prqR) it is hard to map where exactly this operator region is. In addition, the use of cell growth inhibition at steady state as a measure for transcriptional activity of PrqR is limiting as it fails to capture the full expression and cannot be used to estimate parameters (e.g. maximal and inhibited transcription rate) that would be useful to model the genetic expression of this interesting redox-dependent transcription factor. For this reasons, an experiment is here proposed that aims to address these limitations using more up-to-date techniques (shorter and rationally designed upstream sequence using GoldenGate DNA assembly and no antibiotic resistance gene but fluorescent protein as reporter).</p>
+<h1 class="unnumbered" id="research-questions">Research Questions</h1>
+<ul>
+<li><p>Does the PprqR promoter encode an operator region responsible for direct interaction with the PrqR repressor?</p></li>
+<li><p>If yes, what is the nucleotide sequence of such region ?</p></li>
+</ul>
+<h1 class="unnumbered" id="experimental-design">Experimental Design</h1>
+<p>In order to address the questions above, this experiment proposes to construct and measure the fluorescence of reporter plasmids containing strong constitutive <em>E. coli</em> promoters mutated to encode putative PprqR operator sequences. These plasmids will also contain the prqR coding sequence under the control of the inducible lac promoter, in order to quantify the potential repression activity exerted by the PrqR repressor. Initially, this experiment will be performed in <em>E. coli</em> cells for ease of cloning and quantification of fluorescence using a plate reader. If significant repression is observed in in <em>E. coli</em> containing the promoter with the putated operator sequence compared to control promoters, this would suggest a direct, “in-trans" repression activity exerted by the PrqR repressor. This finding would be consistent with the regulation displayed by other members of the TerR-like family of transcription factors. On the other hand, if no significant differences in fluorescence are observed, this would suggest that either the operator sequence is found farther than 100 bp upstream of the start site (very unlikely for eubacterial promoters) or that the regulation mediated by PrqR is dependent on <em>Synechocystis</em>-specific factors not present in <em>E. coli</em>. In the latter case, this experiment will be repeated by transforming the same plasmids in <em>Synechocystis</em> cells.</p>
+<h2 class="unnumbered" id="analysis-of-the-pprqr-promoter-and-its-sequence-motifs">Analysis of the PprqR Promoter and its Sequence Motifs</h2>
+<p>To identify putative operator sequences in the PprqR promoter, this sequence was first identified and annotated in the genome of <em>Synechocystis sp.</em> PCC 6803. This was performed by identifying the DNA sequence extending 100 bp upstream of the first A nucleotide in the start codon (ATG) of the prqR gene. As shown in Fig. <a href="#fig:motifs" data-reference-type="ref" data-reference="fig:motifs">2</a>, this sequence was aligned for comparison with other well-characterised <em>E.coli</em> promoters. Using promoter and RBS prediction softwares (<a href="http://www.bacpp.bioinfoucs.com/home">BacPP</a>, <a href="https://salislab.net/software/">RBS calculator</a>), it was possible to identify certain features in the promoter sequence, such as the ribosome binding sites (RBS), the core promoter elements. According to <span class="citation" data-cites="Gordon2018"></span>, cyanobacterial promoters can be categorised into three groups based on their sequences and which sigma factors recognise them. Type I promoters (recognised by <span class="math inline"><em>σ</em></span>70) contain both a −10 element (consensus 5’-TATAAT-3’) and a −35 element (consensus 5’-TTGACA-3’). Type II promoters contain the −10 element but lack a −35 element, instead containing operator sites bound by transcription factors. Type III promoters lack −10 or −35 elements and generally respond to various stresses through binding of type III sigma factors. <span class="math inline"><em>P</em><sub><em>p</em><em>r</em><em>q</em><em>R</em></sub></span> might be a type II promoter. In fact it contains a −10 element but the sequence at the −35 location is quite dissimilar to the -35 consensus (5’-TTGACA-3’), and instead contains an upstream sequence with two heptameric repeats and two palindromes, which might encode the operator region.</p>
+<figure>
+<img src="images/f1reporters.png" id="fig:f1" alt="Comparison between the PrqR promoter under study and representative \sigma_{70} promoters in E. coli. The green and purple boxes represent core promoter elements recognised by \sigma_{70} factor. It is unknown what \sigma factor recognise the PrqR promoter in Synechocystis.On the other hand, in growing E. coli cells, most promoters are regulated by \sigma70, a housekeeping transcription factor that bind conserved hexameric sequences within a promoter sequence and enables RNA polymerase to initiate transcription . This class of promoters is the most well-characterised and its member display highest constitutive expression." /><figcaption aria-hidden="true">Comparison between the PrqR promoter under study and representative <span class="math inline"><em>σ</em><sub>70</sub></span> promoters in <em>E. coli</em>. The green and purple boxes represent core promoter elements recognised by <span class="math inline"><em>σ</em><sub>70</sub></span> factor. It is unknown what <span class="math inline"><em>σ</em></span> factor recognise the PrqR promoter in <em>Synechocystis</em>.On the other hand, in growing <em>E. coli</em> cells, most promoters are regulated by <span class="math inline"><em>σ</em></span>70, a housekeeping transcription factor that bind conserved hexameric sequences within a promoter sequence and enables RNA polymerase to initiate transcription <span class="citation" data-cites="Chen2018"></span>. This class of promoters is the most well-characterised and its member display highest constitutive expression.</figcaption>
+</figure>
+<p>Interestingly, the analysis shown in Fig.<a href="#fig:f1" data-reference-type="ref" data-reference="fig:f1">1</a> revealed that the region upstream of the core promoter elements in the PrqR promoter harbours a repeated heptameric sequence in close proximity to palindromic sequences. Given that repressors of the TetR-like family often bind DNA as oligomers, this sequence seems to be an ideal candidate for an operator region. Given that each sequence position could encode 4 possible nucleotides (A, C, G, T), the probability of finding this specific heptameric sequence by chance would be <span class="math inline">4<sup>7</sup>=</span> 1 every 16384 bp. However, in this specific promoter region (42 bp) two of these exact heptameric sequences are repated, which is significantly more than expected by chance. This conservation of nucleotide sequence might suggest biological relevance.</p>
+<p>Additional bioinformatic evidence further suggest why conserved repeat . As a transcription factor that regulates response to oxidative stress, it is likely that PrqR might exert its repressor activity to regulate other genes. If this regulatory mechanism is mediated “in-trans" by an operator sequence, a sequence motif recognised by the DNA-binding domain of PrqR is expected to be found upstream of the gene regulated by the PrqR. For this reason, the repeated sequence motif GGACGGTN(10,20)GGACGGT (heptameric sequence separated by any spacer region between 10 ans 20 bp long, max 2 mismatches allowed) was used as query to perform a blastn search against the genome of <em>Synechocystis sp.</em> PCC 6803. Fig.<a href="#fig:motifs" data-reference-type="ref" data-reference="fig:motifs">2</a> shows the name of the genes whose upstream region (between 100 bp upstream and start codon of gene) display a hit for the motif search described above. As shown by the regions highlighted in black, this repeated heptameric sequence seems to be conserved in regions upstream of other genes than PrqR. Interestingly some of these upstream motif-containing genes are also implicated in redox metabolism.</p>
+<figure>
+<img src="images/prqR_motif.png" id="fig:motifs" alt="Heptameric nucleotide sequence motifs found upstream of CDS in the genome of Synechocystis sp. PCC 6803. Name and locus tag of the genes from top to bottom: prqR (WP), FAD-binding oxidoreductase (WP), DegT family aminotransferase (WP), Ppx/GppA family phosphatase (WP), 4Fe-4S binding protein CDS (4Fe-4S binding protein), minC (WP), MFS transporter (WP), TIGR01777 family oxidoreductase CDS (WP), fabF (WP), (Fe-S)-binding protein CDS (WP), fabI (WP)" /><figcaption aria-hidden="true">Heptameric nucleotide sequence motifs found upstream of CDS in the genome of <em>Synechocystis sp.</em> PCC 6803. Name and locus tag of the genes from top to bottom: prqR (WP), FAD-binding oxidoreductase (WP), DegT family aminotransferase (WP), Ppx/GppA family phosphatase (WP), 4Fe-4S binding protein CDS (4Fe-4S binding protein), minC (WP), MFS transporter (WP), TIGR01777 family oxidoreductase CDS (WP), fabF (WP), (Fe-S)-binding protein CDS (WP), fabI (WP)</figcaption>
+</figure>
+<h2 class="unnumbered" id="promoter-design-and-dna-assembly-of-reporter-plasmids">Promoter Design and DNA Assembly of Reporter Plasmids</h2>
+<p>Preliminary experiments have revealed that in <em>E. coli</em> expression of eYFP under the native <em>Synechocystis</em> PrqR promoter results in fluorescence emission significantly lower than the positive control consensus promoter J23119. This might be because PrqR contains a cyanobacterial RBS and might not be recognised by the <em>E. coli</em> <span class="math inline"><em>σ</em><sub>70</sub></span> factor (PrqR has not TTGACA -35 and has TAATAT instead of TATAAT -10). For this reason, synthetic promoter sequences containing a constant strong <em>E.coli</em> RBS (<span class="math inline">$BBa\textunderscore0034$</span>) and a J23119 scaffold have been designed, as shown in Fig. <a href="#fig:promoters" data-reference-type="ref" data-reference="fig:promoters">3</a>.</p>
+<figure>
+<img src="images/operator_promoters.png" id="fig:promoters" alt="Oligonucleotide sequences (5’\rightarrow3’) of the synthetic promoters to test the test efffect of putative PrqR operator sequences on the expression of a fluorescent reporter (after ATG). A-B) Sequences of the promoters tested already. C) Truncated versions of PprqR without cyanobacterial RBS (TSS). D) Core promoter elements of consensus promoter (J23119). E-H) The new synthetic promoter sequences that will be used for the experiment here proposed. The sequences will be made all of the same length by the addition of random nucleotides (n). Each of the promoters will be assembled by annealing 4 set of oligonucleotides containing complementary 4 bp overhangs and CyanoGate prefix (GGAG) and suffix (AATG) compatible for assembly into a level 0 promoter acceptor (pICH41276). These 4 possible promoters will be then cloned upstream of a level 0 CDS eYFP part (pC0.008) and PclpPX terminator (parts already available)." /><figcaption aria-hidden="true">Oligonucleotide sequences (5’<span class="math inline">→</span>3’) of the synthetic promoters to test the test efffect of putative PrqR operator sequences on the expression of a fluorescent reporter (after ATG). A-B) Sequences of the promoters tested already. C) Truncated versions of PprqR without cyanobacterial RBS (TSS). D) Core promoter elements of consensus promoter (J23119). E-H) The new synthetic promoter sequences that will be used for the experiment here proposed. The sequences will be made all of the same length by the addition of random nucleotides (n). Each of the promoters will be assembled by annealing 4 set of oligonucleotides containing complementary 4 bp overhangs and CyanoGate prefix (GGAG) and suffix (AATG) compatible for assembly into a level 0 promoter acceptor (pICH41276). These 4 possible promoters will be then cloned upstream of a level 0 CDS eYFP part (pC0.008) and PclpPX terminator (parts already available).</figcaption>
+</figure>
+<h2 class="unnumbered" id="measuring-fluorescence-output-from-reporter-plasmids">Measuring Fluorescence Output from Reporter Plasmids</h2>
+<p>All the promoters + eYFP + Terminator constructs will be cloned in a backbone plasmid containing prqR downstream of the IPTG-inducible lactose operator. In this way by measuring the fluorescence emitted by <em>E. coli</em> cells transformed with the various promoter types it is possible to quantify the strength of each promoter in the absence or presence of the repressor PrqR.</p>
+<figure>
+<img src="images/operator_plasmids.png" id="fig:plasmids" alt="Reporter plasmids used to quantify the maximal and inhibited expression in the presence of putative operator sequences. Fluorescence profiles from the negative control plasmid can be used to blank background fluorescence of eYFP in E.coli. Fluorescence profiles from the positive control plasmid quantify maximal expression expected from J23119 promoter scaffold. Fluorescence profiles from plasmids C and D can be used to estimate the potential repression activity mediated by either operator O1 (upstream element of PrqR) or O2 (upstream + spacer1 from prqR promoter)." /><figcaption aria-hidden="true">Reporter plasmids used to quantify the maximal and inhibited expression in the presence of putative operator sequences. Fluorescence profiles from the negative control plasmid can be used to blank background fluorescence of eYFP in <em>E.coli</em>. Fluorescence profiles from the positive control plasmid quantify maximal expression expected from J23119 promoter scaffold. Fluorescence profiles from plasmids C and D can be used to estimate the potential repression activity mediated by either operator O1 (upstream element of PrqR) or O2 (upstream + spacer1 from prqR promoter).</figcaption>
+</figure>
+<p>If the expression strength for either plasmid C or D in the +IPTG condition is significantly lower than the in -IPTG while the fluorescent profiles of plasmid A and B remained unchanged (min and max fluorescence respectively), this would indicate that the putative operator region of the PrqR promoter is responsible for direct DNA-Protein interactions with the repressor PrqR.</p>
+<h1 class="unnumbered" id="references">References</h1>
+</body>
+</html>
