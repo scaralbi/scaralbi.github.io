@@ -9,6 +9,8 @@ description: the home page
 * [Blog](blog.md)
 * [Research](research.md)  
 * [Resources](resources.md)
+* [DNA Registry](resources.md)
+* [PhD Project](indexPhD.html)
 
 
 ## What is this ?
@@ -42,5 +44,5 @@ Do you want to collaborate in some scientific projects?
 Do you have any question ?
 Write to me:  [as2945@cam.ac.uk](as2945@cam.ac.uk).  
 <a class="twitter-follow-button"
-  href="https://twitter.com/scaralbi"> 
+  href="https://twitter.com/scaralbi">
 Follow me @scaralbi</a>

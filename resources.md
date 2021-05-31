@@ -5,6 +5,7 @@
 
 
 *Here there are some of my scripts, lecture notes, practicals and other PDF documents that I consider worth sharing.*  
+* [DNA Assembly Calculator](#goldengate-calculator)  
 * [MATLAB Scripts](#matlab-scripts)  
 * [Lecture Notes and Essays](#lecture-notes)  
 * [Posters](#posters)  
@@ -1538,5 +1539,3 @@ art_number={517},
 	<!-- Javascript to locate marked "div"s and create SNP viewers in them
 			by calling the script in "../Snip_Viz_components/js/snp_viewer_loader_data_object_provided.js"  -->
 	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_HTML_config_loader.js"></script >
-
-
