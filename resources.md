@@ -3,7 +3,6 @@
 
 
 
-
 *Here there are some of my scripts, lecture notes, practicals and other PDF documents that I consider worth sharing.*  
 * [DNA Assembly Calculator](#goldengate-calculator)  
 * [MATLAB Scripts](#matlab-scripts)  

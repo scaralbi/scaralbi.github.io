@@ -9,9 +9,6 @@ description: the home page
 * [Blog](blog.md)
 * [Research](research.md)  
 * [Resources](resources.md)
-* [DNA Registry](https://cakelabdna.github.io)
-* [PhD Project](indexPhD.html)
-
 
 ## What is this ?
 This is just my personal site on the web.
