@@ -1,0 +1,47 @@
+---
+layout: post
+title: A Local Life
+
+---
+
+Within the hole  
+We slide, we fall  
+The power comes   
+From something else  
+We need to share our joys  
+Our pains with other   
+People that we like  
+This constant need   
+Of social beings is   
+What makes us  
+enjoy the life  
+The thing is that   
+The local niche  
+Matters way more  
+Than memories  
+Or things we did   
+Back in the the past  
+But in the dreams   
+Or with some beings  
+We are one together   
+The same thing   
+So we don’t even need  
+To send each other   
+Lengthy texts   
+Too bad we still have got to eat  
+And feed the animals in us  
+But soon we will connect   
+Through dreams   
+Or even electrically.  
+Such local life   
+In global terms   
+ultimately   
+Is what we do.  
+So let’s not waste   
+More precious time   
+That only ends  
+Materially  
+I love the mystic   
+Painful love   
+That resonates  
+Within my guts.  
