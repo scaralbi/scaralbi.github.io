@@ -5,7 +5,7 @@ title: All the things that we did
 ---
 
 <audio controls>
-  <source src="/assets/recs/allthethingsthatwedid.m4a" type="audio/mpeg">
+  <source src="/assets/recs/allthethingsthatwedid.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
