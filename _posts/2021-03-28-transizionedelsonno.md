@@ -38,7 +38,7 @@ Figli che muoiono
 Madri che piangono  
 Marce con trombe  
 Agnelli da immolare  
-Ideali che fanno soffrire
+Ideali che fanno soffrire  
 E, in fin dei conti, gioire.
 
 Che strana la notte  
