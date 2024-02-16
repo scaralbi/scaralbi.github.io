@@ -3,7 +3,7 @@
 
 
 # **ALBI’S BIO ☉SOLAR☉  SOAP^©**  
-![soap](assets/figs/soapdalle.png)
+![soap](./assets/figs/soapdalle.png)
 
 ---
 
