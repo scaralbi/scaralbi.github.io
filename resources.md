@@ -11,7 +11,7 @@
 * [Papers](https://benchling.com/s/etr-vKNUnc9EWbx9TVyW4s8N)  
 * [References Lists](#references-lists)  
 * [DNA Sequences](#DNA-sequences)
-* [Algal Castile Soap](OliveAlgalSoap.html)
+* [Algal Castile Soap](OliveAlgalSoap.md)
 
 
 # [GoldenGate Calculator](https://cakelabdna.github.io)
