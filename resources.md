@@ -11,6 +11,8 @@
 * [Papers](https://benchling.com/s/etr-vKNUnc9EWbx9TVyW4s8N)  
 * [References Lists](#references-lists)  
 * [DNA Sequences](#DNA-sequences)
+* [Algal Castile Soap](OliveAlgalSoap.html)
+
 
 # [GoldenGate Calculator](https://cakelabdna.github.io)
 Online calculator for DNA Assembly.
