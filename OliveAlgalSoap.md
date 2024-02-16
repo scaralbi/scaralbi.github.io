@@ -10,7 +10,7 @@
 ## **Homemade Castile Soap with Organic Solar Oils**  
 
 <p align="center">
-  <img src="{{ site.url }}/assets/figs/algalsoap.png" alt="Soap image" title="Olive Algal Soap" style="width: 50%;"/>
+  <img src="{{ site.url }}/assets/figs/soapdalle.png" alt="Soap image" title="Olive Algal Soap" style="width: 50%;"/>
 </p>
 
 
