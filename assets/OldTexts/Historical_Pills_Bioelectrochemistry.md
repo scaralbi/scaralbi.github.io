@@ -1,0 +1,23 @@
+# History of Electrophysiology 
+
+Isaac Newton (1642–1727) had suggested nerves
+might operate by an ‘‘electric and elastic spirit’’.
+
+
+* **[(Foccacia and Simili, 2007):](https://doi.org/10.1007/978-0-387-70967-3_11)** Galvani’s scientific endeavours have been largely misrepresented in the history of science. For a long time, he suffered the stereotypical image of a relatively unknown pro- fessor of anatomy who started his studies on elec- tricity by chance, ignoring the physics of the time and claiming to have discovered, by means of his experiments on frogs, a new form of electricity, animal electricity. Officially presented in 1791 in his De viribus electricitatis in motu muscolari Commentarius, though his experiments dated back to at least 1780, his discovery provoked the harsh criticism of Alessandro Volta, physicist at the University of Pavia and future inventor of the battery. 
+	Edgar Douglas Adrian, professor at Cambridge and 1932 Nobel prize winner, illustrated Galvani’s merit in the field of physiology in a paper entitled: Electrophysiology of the Sense Organs:
+	
+> “Galvani’s experiments have given us two methods of research in physiology. They showed that the current from a metallic couple would excite muscles and nerves and this has given us a means of producing an artificially con- trolled activity in the body; and they showed that active muscles and nerves produce electric currents, and this has given us a means by which various aspects of bodily activity can be analysed”.   
+
+
+   
+
+
+- **[Lanska 2014:](https://doi.org/10.1016/B978-0-12-385157-4.00885-X)** In the early 1780s, Galvani pursued a series of studies to characterize the nature of different organs and tissues. He concluded that nerves were protected by an oily substance that functioned as an electrical insulator. In a subsequent set of experiments in the latter half of the 1780s, Galvani attached a small hook to the frog’s spinal cord and observed the reaction to electric discharges produced naturally in thunderclouds, expecting the results with ‘atmospheric electricity’ to be similar to those with a static electricity generator
+- **De Viribus Electricitatis In Motu Musculari Commentarius, Luigi Galvani in *“De Bononiensi Scientiarum Et Artium Instituto Atque Academia Commentarii”* (1791)** [Commentary on the effect of electricity on muscular motion, translated by Robert Montraville Green, Emeritus professor of anatomy, Harvard Medical School, Elizabeth Licht Publisher, 1953]: Galvani was performing experiments on nervous excitability in frogs when he observed that under the influence of distant electrical discharges, violent muscle contractions are noted if the lumbar nerves of the animal are touched with metal instruments. The significance of the experiment of Galvani wasd emphazised by Majorana in a discourse during Galvani commemoration in 1937: 
+
+> It was my desire not to publish this work in a crude and barely incipient form, even though not perfect and complete, which perhaps I should never have been able to do. But since I realised that I had neither time nor leisure nor ability sufficient to accomplish that, I preferred rather to fall short of my own very reasonabnle desire than to fail the practical value of the work. (Part I).  
+
+> “Great things have small beginnings. What in Galvani’s hands could move a muscle, brought Marconi’s voice across oceans”. (communication from the Royal Society of Edinburgh to the University of Bologna on the 200th anniversary of Galvani’s birth)  
+
+- **[1799](https://www.worldradiohistory.com/BOOKSHELF-ARH/History/History-Of-Wireless.pdf)**: Italian physicist Alessandro Guiseppe Antonio Anastasio Volta (1745-1827), professor of Natural philosophy at the University of Pavia, realized that the main factors in Galvani's discovery were the two different metals - the steel knife and the tin plate - upon which the frog was lying. The different metals, separated by the moist tissue of the frog, were generating electricity. The frog's leg was simply a detector. In 1800, Volta showed that when moisture comes between two different metals, electricity is created. This led him to invent the first electric battery, which he made from thin sheets of copper and zinc separated by moist pasteboard (felt soaked in brine) known as an electrolyte. He called his invention a column battery although it came to be commonly known as the Volta battery, Voltaic Pile, or Voltaic Cell. Volta showed that electricity could be made to travel from one place to another by wire 

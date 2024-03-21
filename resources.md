@@ -33,8 +33,16 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 ![alt text](https://github.com/scaralbi/biofilmer/blob/master/imageanalysis.png?raw=true)
 
 
-# Lecture Notes
-## Synthetic Biology / Biotechnology
+# Text
+
+## Old texts and manuscripts
+
+* [Aristotle, *Historia Animalium* 9.36.20, translated by D'Arcy Wentworth Thompson (1910)](assets/Old_Texts/Aristotle_ History of Animals_IX.html)
+
+* [Historical references on bioelectrochemistry](assets/Old_Texts/Historical_Pills_Bioelectrochemistry.md)
+
+
+## Genetics, molecular/synthetic biology and biotechnology
 
 * [Molecular Biology]({{ site.url }}/assets/pdfs/molecularbiology.pdf)
 * [GMO Papayas]({{ site.url }}/assets/pdfs/papayaogm.pdf)
