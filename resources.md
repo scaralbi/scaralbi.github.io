@@ -1,17 +1,12 @@
 
-<link REL="stylesheet" TYPE="text/css" HREF="../Snip_Viz_components/css/snp_viewer.css">
+# Resources
 
+---
 
-
-*Here there are some of my scripts, lecture notes, practicals and other PDF documents that I consider worth sharing.*  
-* [DNA Assembly Calculator](#goldengate-calculator)  
-* [MATLAB Scripts](#matlab-scripts)  
-* [Lecture Notes and Essays](#lecture-notes)  
-* [Posters](#posters)  
-* [Papers](https://benchling.com/s/etr-vKNUnc9EWbx9TVyW4s8N)  
-* [References Lists](#references-lists)  
-* [DNA Sequences](#DNA-sequences)
-* [Algal Castile Soap](OliveAlgalSoap.md)
+*This is an archive of essays, protocols, scripts, lecture notes, practicals and other resources*
+  
+{{TOC}}  
+  
 
 
 # [GoldenGate Calculator](https://cakelabdna.github.io)
@@ -37,12 +32,16 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 
 ## Old texts and manuscripts
 
-* [Aristotle, *Historia Animalium* 9.36.20, translated by D'Arcy Wentworth Thompson (1910)](assets/Old_Texts/Aristotle_ History of Animals_IX.html)
+* [Aristotle, *Historia Animalium* 9.36.20, translated by D'Arcy Wentworth Thompson (1910)]({{ site.url }}/assets/ OldTexts/Aristotle_ HistoryofAnimals_IX.html)
 
-* [Historical references on bioelectrochemistry](assets/Old_Texts/Historical_Pills_Bioelectrochemistry.md)
+* [Historical references on bioelectrochemistry]({{ site.url }}/assets/OldTexts/Historical_Pills_Bioelectrochemistry.md)
+
+* [ISAAC NEWTON’S GENERAL SCHOLIUM TO THE PRINCIPIA (1713, 1726)]({{ site.url }}/assets/OldTexts/brief-guide-to-the-general-scholium-a4.pdf)
+
+## Essays and lecture notes
 
 
-## Genetics, molecular/synthetic biology and biotechnology
+### Genetics, molecular/synthetic biology and biotechnology
 
 * [Molecular Biology]({{ site.url }}/assets/pdfs/molecularbiology.pdf)
 * [GMO Papayas]({{ site.url }}/assets/pdfs/papayaogm.pdf)
@@ -65,7 +64,7 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 * [Advanced Synthetic Biology Applications: Pattern Formation, Mark Isalan]({{ site.url }}/assets/pdfs/Parts.pdf)
 * [Synthetic Biology IC Exam 15-16]({{ site.url }}/assets/pdfs/SynbioExam2015-16.pdf)
 
-## Biochemistry
+### Biochemistry
 
 * [Structure of the Nicotine Receptor]({{ site.url }}/assets/pdfs/nAChR.pdf)
 * [Neurobiology]({{ site.url }}/assets/pdfs/Neuro.pdf)
@@ -81,7 +80,7 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 * [Biological NMR Spectroscopy]({{ site.url }}/assets/pdfs/NMR.pdf)
 * [Cryo-EM]({{ site.url }}/assets/pdfs/CRYO-EM.pdf)
 
-## Essays
+### Albi’s essays
 
 * [Prospects for the Development of Cyanobacterial Biofilm Bioreactors]({{ site.url }}/assets/pdfs/prospects-development-cyanobacterial.pdf)
 * [Human Practices in Synthetic Biology]({{ site.url }}/assets/pdfs/humanpractices.pdf)
@@ -90,21 +89,21 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 
 # Posters
 
-### The Paradox of The Plankton
+## The Paradox of The Plankton
 <object data="https://scaralbi.github.io/assets/pdfs/paradox_poster.pdf" type="application/pdf" width="1000px" height="700px">
     <embed src="https://scaralbi.github.io/assets/pdfs/paradox_poster.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-### mini iGEM IC SB 2019- SynBio Field Programmable Gate Array (FPGA)
+## mini iGEM IC SB 2019- SynBio Field Programmable Gate Array (FPGA)
 <object data="https://scaralbi.github.io/assets/pdfs/mini-iGEM-poster.pdf" type="application/pdf" width="1000px" height="700px">
     <embed src="https://scaralbi.github.io/assets/pdfs/mini-iGEM-poster.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-### iGEM PixCell 2018: Electronic Control of Gene Expression
+## iGEM PixCell 2018: Electronic Control of Gene Expression
 <object data="https://scaralbi.github.io/assets/pdfs/iGEMposter.pdf" type="application/pdf" width="1000px" height="700px">
     <embed src="https://scaralbi.github.io/assets/pdfs/iGEMposter.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
@@ -113,7 +112,7 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 
 
 
-# References Lists
+# References lists
 ## "Collective Dynamics of Microbial Biofilms Undergoing Signalling Waves"
 
 ```
@@ -1523,28 +1522,3 @@ art_number={517},
 
 ```
 
-
-<script type="text/javascript" src="../Snip_Viz_components/js/jquery-1.7.2.min.js"></script>
-	<script type="text/javascript" src="../Snip_Viz_components/js/jquery-ui-1.8.20.custom.min.js"></script>
-
-	<script type="text/javascript" src="../Snip_Viz_components/js/wz_jsgraphics.js" ></script >
-
-	<script type="text/javascript" src="../Snip_Viz_components/js/wz_tooltip/wz_tooltip.js"></script>
-
-
-
-	<!-- actual SNP viewer  -->
-	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_main.js"></script >
-
-	<!-- Javascript to set up the SNP viewer  -->
-	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_loader_data_object_and_callbacks_provided.js"></script >
-
-
-	<!-- Javascript to be called from the script in "../Snip_Viz_components/js/snp_viewer_very_simple_loader.js" and
-			then calls the script in "../Snip_Viz_components/js/snp_viewer_get_fasta_newick_data_external_file.js"  -->
-	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_get_fasta_newick_data_external_file.js"></script >
-
-
-	<!-- Javascript to locate marked "div"s and create SNP viewers in them
-			by calling the script in "../Snip_Viz_components/js/snp_viewer_loader_data_object_provided.js"  -->
-	<script type="text/javascript" src="../Snip_Viz_components/js/snip_viz_HTML_config_loader.js"></script >
