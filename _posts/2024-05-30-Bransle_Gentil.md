@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bamba Pavlova
+title: Bransle Gentil
 ---
 
 # Praetorius, Bransle Gentil
