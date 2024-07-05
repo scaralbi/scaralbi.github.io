@@ -1,27 +1,37 @@
 ---
-title: Home
-description: the home page
+title: scaralbi
+description: Modus et Ordo
 ---
 
 --- 
 
 ## Index
-* [Blog](blog.md)
-* [Research](research.md)  
-* [Resources](resources.md)
+* [Blog](pages/blog.md)
+* [Research](pages/research.md)  
+* [Resources](pages/resources.md)
 
 ---
 ## What is this ?
 This is just my personal site on the web.
 I use it to store and share information.
 
+
+
     Homo liber nulla de re minus quam de morte cogitat; 
     et ejus sapientia non mortis sed vitae meditatio est.
     
+    
+											(There is nothing over which a free man ponders less than death; his wisdom is,to meditate not on death but on life.) 
+											
+											
 
-	(There is nothing over which a free man ponders less than death; his wisdom is,to meditate not on death but on life.) 
+    
+    
+--- 
+
+    
 		
-					       [SPINOZA'S Ethics, Pt IV, Prop.67]
+
 
 ![WhatisLife](assets/figs/atpase.jpg)
 
