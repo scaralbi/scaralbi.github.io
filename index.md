@@ -6,9 +6,9 @@ description: Modus et Ordo
 --- 
 
 ## Index
-* [Blog](pages/blog.md)
-* [Research](pages/research.md)  
-* [Resources](pages/resources.md)
+* [Blog](/pages/blog.md)
+* [Research](/pages/research.md)  
+* [Resources](/pages/resources.md)
 
 ---
 ## What is this ?
