@@ -2,8 +2,7 @@ title: scaralbi
 email: scaralbi.github.io
 description: >- # this means to ignore newlines until "baseurl:"
   Modus et Ordo
-theme: minima
-
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-sitemap
