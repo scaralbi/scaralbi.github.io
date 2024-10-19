@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_Posts on scaralbi</title>
+    <link>//localhost:1313/_posts/</link>
+    <description>Recent content in _Posts on scaralbi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/_posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Birdwood Road</title>
+      <link>//localhost:1313/_posts/00-190224-birdwood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/_posts/00-190224-birdwood/</guid>
+      <description>&lt;p&gt;We expect tha in the future the scientific community will continue to probe deeper into the intra- and extracellular electron transfer pathways that govern life, but inaccessible to our sensory perception. For this, it will become increasingly important to provide accessible, scientifically accurate means of rendering the results of research accessible to students, teachers, and the public. Sonification provides a direct and immediate means for non-experts to access the information encoded in the photocurrent signals emitted by photosynthetic bacteria through the medium of sound.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
