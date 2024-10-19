@@ -1,6 +1,6 @@
 ---
 title: “scaralbi”
-date: “2024-10-19”
+
 ---
 
 ## Index
@@ -12,7 +12,6 @@ date: “2024-10-19”
 ## What is this ?
 This is just my personal site on the web.
 I use it to store and share information.
-
 
 ```
 Homo liber nulla de re minus quam de morte cogitat; et ejus sapientia non mortis sed vitae meditatio est.  
