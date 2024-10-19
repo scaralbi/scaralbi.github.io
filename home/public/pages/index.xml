@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on scaralbi</title>
-    <link>https://scaralbi.github.io/pages/</link>
+    <link>http://localhost:53743/pages/</link>
     <description>Recent content in Pages on scaralbi</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="https://scaralbi.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:53743/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algal Soap</title>
-      <link>https://scaralbi.github.io/pages/olivealgalsoap/</link>
+      <link>http://localhost:53743/pages/olivealgalsoap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scaralbi.github.io/pages/olivealgalsoap/</guid>
+      <guid>http://localhost:53743/pages/olivealgalsoap/</guid>
       <description>&lt;h1 id=&#34;bio-solar-soap&#34;&gt;&lt;strong&gt;BIO SOLAR SOAP&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;homemade-castile-soap-with-organic-solar-oils&#34;&gt;&lt;strong&gt;Homemade Castile Soap with Organic Solar Oils&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A blend of moisturising olive, jojoba and sweet almond oils infused with scented lavender flowers, blue-green microalgae `Spirulina’, and scrubbing sea salt and oat flakes.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;100% Organic Oils&lt;/strong&gt;: Extra virgin olive oil, jojoba oil, sweet almond oil, lavender oil, and lavender flowers.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Powered by the Sun&lt;/strong&gt;: All the oils are derived from plants, and enriched with microalgae, harnessing the sun&amp;rsquo;s energy for skin rejuvenation.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Natural Exfoliants&lt;/strong&gt;: Oats and pink salt flakes for a delicate scrubbing experience.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Antioxidant Booster&lt;/strong&gt;: Jojoba seeds and sweet almonds contain high concentrations of antioxidants to detoxify reactive oxygen species and combat senescence.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;✘ &lt;em&gt;Vegan, fossil fuel free, gluten-free, dairy free, peanut and sesame-free&lt;/em&gt;.  &lt;br&gt;&#xA;✘ No artificial fragrances or colours.&lt;/p&gt;</description>
     </item>
   </channel>
