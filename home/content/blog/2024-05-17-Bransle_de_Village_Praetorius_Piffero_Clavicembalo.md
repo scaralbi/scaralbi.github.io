@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Praetorius, Bransle de villages, Piffero 
----
+tags: [‘recorder’]
 ---   
 
 # TMA 14 Praetorius M, BRANSLE de VILLAGES

@@ -2,6 +2,7 @@
 ---
 title: "Algal Soap"
 date: "2023-12-24"
+tags: [’soap’]
 ---
 
 # **BIO SOLAR SOAP**  

@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scaralbi</title>
+    <title>“scaralbi” on scaralbi</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on scaralbi</description>
+    <description>Recent content in “scaralbi” on scaralbi</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 24 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 20:19:34 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 19 Oct 2024 20:19:34 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;How does this look.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Algal Soap</title>
       <link>http://localhost:1313/blog/olivealgalsoap/</link>
       <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/olivealgalsoap/</guid>
       <description>&lt;h1 id=&#34;bio-solar-soap&#34;&gt;&lt;strong&gt;BIO SOLAR SOAP&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;homemade-castile-soap-with-organic-solar-oils&#34;&gt;&lt;strong&gt;Homemade Castile Soap with Organic Solar Oils&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A blend of moisturising olive, jojoba and sweet almond oils infused with scented lavender flowers, blue-green microalgae `Spirulina’, and scrubbing sea salt and oat flakes.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;100% Organic Oils&lt;/strong&gt;: Extra virgin olive oil, jojoba oil, sweet almond oil, lavender oil, and lavender flowers.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Powered by the Sun&lt;/strong&gt;: All the oils are derived from plants, and enriched with microalgae, harnessing the sun&amp;rsquo;s energy for skin rejuvenation.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Natural Exfoliants&lt;/strong&gt;: Oats and pink salt flakes for a delicate scrubbing experience.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Antioxidant Booster&lt;/strong&gt;: Jojoba seeds and sweet almonds contain high concentrations of antioxidants to detoxify reactive oxygen species and combat senescence.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;✘ &lt;em&gt;Vegan, fossil fuel free, gluten-free, dairy free, peanut and sesame-free&lt;/em&gt;.  &lt;br&gt;&#xA;✘ No artificial fragrances or colours.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/</guid>
-      <description>&lt;h1 id=&#34;research-interest&#34;&gt;Research Interest&lt;/h1&gt;&#xA;&lt;p&gt;During my undergraduate degree I developed a passion for &lt;a href=&#34;https://en.wikipedia.org/wiki/Synthetic_biology&#34;&gt;synthetic&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Systems_biology&#34;&gt;systems biology&lt;/a&gt;: two fields of research that aim to engineer and deconstruct living systems in order to understand their assembly logic.&#xA;I am now trying to apply those principles to study how and why certain bacteria are able to sense and generate electrical signals when living in &lt;a href=&#34;https://en.wikipedia.org/wiki/Biofilm&#34;&gt;biofilms&lt;/a&gt;.&#xA;In particular, I am curious about the molecular mechanisms and genetic components that allow &lt;a href=&#34;https://en.wikipedia.org/wiki/Cyanobacteria&#34;&gt;cyanobacteria&lt;/a&gt; to produce electricity from sunlight, air and water (in so-called &lt;a href=&#34;https://en.wikipedia.org/wiki/Biological_photovoltaics&#34;&gt;biophotovoltaic devices&lt;/a&gt;).&#xA;I am also keen about developing biophysical techniques to investigate how the evolution of electrical signalling in structured communities of &lt;a href=&#34;https://en.wikipedia.org/wiki/Exoelectrogen&#34;&gt;exoelecotrogenic&lt;/a&gt; photosynthetic bacteria contributes to the emergence of collective properties.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>“Resources”</title>
-      <link>http://localhost:1313/resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/</guid>
-      <description>&lt;h1 id=&#34;code&#34;&gt;Code&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;This is an archive of essays, protocols, scripts, lecture notes, practicals and other resources&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;goldengate-calculatorhttpscakelabdnagithubio&#34;&gt;&lt;a href=&#34;https://cakelabdna.github.io&#34;&gt;GoldenGate Calculator&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Online calculator for DNA Assembly.&lt;/p&gt;&#xA;&lt;h2 id=&#34;assembly-reporthttpsdocsgooglecomspreadsheetsd12g5twarg7o5ozgpicj9ypisczuwmx1yngzytkdhqzayeditgid683324272rangea1j15&#34;&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/12G5TwARG7o5OzgPICj9YPiSczuWmx1yngZYTKdHQzaY/edit#gid=683324272&amp;amp;range=A1:J15&#34;&gt;Assembly Report&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;matlab-scripts&#34;&gt;MATLAB Scripts&lt;/h2&gt;&#xA;&lt;h3 id=&#34;plankton-simulatorhttpsgithubcomscaralbiplankton-simulator&#34;&gt;&lt;a href=&#34;https://github.com/scaralbi/plankton-simulator&#34;&gt;Plankton Simulator&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The plankton-simulator is a collection of matlab scripts simulating the dynamics of structured microbial communities.&#xA;The simulator is based on a multiscale biophysical model that incorporates species traits, consumer-resource dynamics and stochastic ecosystem assembly.&#xA;The model hierarchically simulates features of ecosystem at different scales by defining three classes in the ecosystem using object-oriented programming in MATLAB: Species, Demes (spatially-isolated subcompartments) and Plankton (collection of Demes).&lt;/p&gt;</description>
     </item>
     <item>
       <title>2020</title>
@@ -559,7 +552,7 @@
       <link>http://localhost:1313/blog/2024-05-17-bransle_de_village_praetorius_piffero_clavicembalo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/2024-05-17-bransle_de_village_praetorius_piffero_clavicembalo/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;tma-14-praetorius-m-bransle-de-villages&#34;&gt;TMA 14 Praetorius M, BRANSLE de VILLAGES&lt;/h1&gt;&#xA;&lt;h2 id=&#34;piffero--clavicembalo&#34;&gt;Piffero + Clavicembalo&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Michael Praetorius (1571-1621) was a German composer, organist, and music theorist, known for his versatility and significant contributions to the development of musical forms based on Protestant hymns.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;“Bransle de Villages&amp;quot; is a dance piece from Praetorius&amp;rsquo; collection &amp;ldquo;Terpsichore,&amp;rdquo; one of the largest unified collection of instrumental music from early 17^th Germany. The term &amp;ldquo;bransle&amp;rdquo; began to refer to a dance of apparently rustic origin in France around 1500, meaning &amp;ldquo;to sway, wobble,&amp;rdquo; and referring to the side-to-side movement of the dance.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;tma-14-praetorius-m-bransle-de-villages&#34;&gt;TMA 14 Praetorius M, BRANSLE de VILLAGES&lt;/h1&gt;&#xA;&lt;h2 id=&#34;piffero--clavicembalo&#34;&gt;Piffero + Clavicembalo&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Michael Praetorius (1571-1621) was a German composer, organist, and music theorist, known for his versatility and significant contributions to the development of musical forms based on Protestant hymns.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;“Bransle de Villages&amp;quot; is a dance piece from Praetorius&amp;rsquo; collection &amp;ldquo;Terpsichore,&amp;rdquo; one of the largest unified collection of instrumental music from early 17^th Germany. The term &amp;ldquo;bransle&amp;rdquo; began to refer to a dance of apparently rustic origin in France around 1500, meaning &amp;ldquo;to sway, wobble,&amp;rdquo; and referring to the side-to-side movement of the dance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reiziano Ipercatalettico</title>
