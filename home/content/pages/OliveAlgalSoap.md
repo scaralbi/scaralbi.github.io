@@ -6,7 +6,7 @@ title: "Algal Soap"
 
 # **BIO SOLAR SOAP**  
 
-<img src="/assets/figs/soapdalle.png" alt="algalsoap" width="200"/>
+<img src="/figs/soapdalle.png" alt="algalsoap" width="200"/>
 
 ## **Homemade Castile Soap with Organic Solar Oils**  
 
