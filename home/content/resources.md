@@ -1,91 +1,93 @@
-
-# Resources
+---
+title: “Resources”
 
 ---
 
+# Code
+
 *This is an archive of essays, protocols, scripts, lecture notes, practicals and other resources*
   
-{{TOC}}  
-  
-
-
-# [GoldenGate Calculator](https://cakelabdna.github.io)
+## [GoldenGate Calculator](https://cakelabdna.github.io)
 Online calculator for DNA Assembly.
+
 ## [Assembly Report](https://docs.google.com/spreadsheets/d/12G5TwARG7o5OzgPICj9YPiSczuWmx1yngZYTKdHQzaY/edit#gid=683324272&range=A1:J15)    
 <iframe width="1000" height="480" src="https://docs.google.com/spreadsheets/d/12G5TwARG7o5OzgPICj9YPiSczuWmx1yngZYTKdHQzaY/htmlembed/sheet?gid=683324272&range=A1:J15"></iframe>
 
 
-# MATLAB Scripts
-## [Plankton Simulator](https://github.com/scaralbi/plankton-simulator)
+## MATLAB Scripts
+
+### [Plankton Simulator](https://github.com/scaralbi/plankton-simulator)
 The plankton-simulator is a collection of matlab scripts simulating the dynamics of structured microbial communities.
 The simulator is based on a multiscale biophysical model that incorporates species traits, consumer-resource dynamics and stochastic ecosystem assembly.
 The model hierarchically simulates features of ecosystem at different scales by defining three classes in the ecosystem using object-oriented programming in MATLAB: Species, Demes (spatially-isolated subcompartments) and Plankton (collection of Demes).
 
 ![alt text](https://github.com/scaralbi/plankton-simulator/blob/master/flowchart.png?raw=true)
 
-## [Biofilmer](https://github.com/scaralbi/biofilmer)
+### [Biofilmer](https://github.com/scaralbi/biofilmer)
 The biofilmer is a repository of MATLAB scripts to quantify properties of fluorescence time-lapse microscopy biofilm images.
 ![alt text](https://github.com/scaralbi/biofilmer/blob/master/imageanalysis.png?raw=true)
+
+## Python scripts
 
 
 # Text
 
 ## Old texts and manuscripts
 
-* [Aristotle, *Historia Animalium* 9.36.20, translated by D'Arcy Wentworth Thompson (1910)]({{ site.url }}/assets/ OldTexts/Aristotle_ HistoryofAnimals_IX.html)
+* [Aristotle, *Historia Animalium* 9.36.20, translated by D'Arcy Wentworth Thompson, 1910](/assets/ OldTexts/Aristotle_ HistoryofAnimals_IX.html)
 
-* [Historical references on bioelectrochemistry]({{ site.url }}/assets/OldTexts/Historical_Pills_Bioelectrochemistry.md)
+* [Historical references on bioelectrochemistry](/assets/OldTexts/Historical_Pills_Bioelectrochemistry.md)
 
-* [ISAAC NEWTON’S GENERAL SCHOLIUM TO THE PRINCIPIA (1713, 1726)]({{ site.url }}/assets/OldTexts/brief-guide-to-the-general-scholium-a4.pdf)
+* [ISAAC NEWTON’S GENERAL SCHOLIUM TO THE PRINCIPIA (1713, 1726)](/assets/OldTexts/brief-guide-to-the-general-scholium-a4.pdf)
 
 ## Essays and lecture notes
 
 
 ### Genetics, molecular/synthetic biology and biotechnology
 
-* [Molecular Biology]({{ site.url }}/assets/pdfs/molecularbiology.pdf)
-* [GMO Papayas]({{ site.url }}/assets/pdfs/papayaogm.pdf)
-* [Plant Biotechnology]({{ site.url }}/assets/pdfs/plantbiotech.pdf)
-* [Bacterial Genetics]({{ site.url }}/assets/pdfs/bacterialgenetics.pdf)
-* [Genes and Genomes]({{ site.url }}/assets/pdfs/genesandgenomes.pdf)
-* [Genomic Manipulation]({{ site.url }}/assets/pdfs/GenomicManipulation.pdf)
-* [Molecular Biology of The Chloroplast, Peter Nixon]({{ site.url }}/assets/pdfs/Nixon1.pdf)
-* [Systems Biology]({{ site.url }}/assets/pdfs/isb.pdf)
-* [Biophysics, Robert Endres]({{ site.url }}/assets/pdfs/Lecture_biophysics.pdf)
-* [Biophysics, Robert Endres]({{ site.url }}/assets/pdfs/Lecture_biophysics.pdf)
-* [Dynamics in Gene Regulation, Robert Endres]({{ site.url }}/assets/pdfs/Lecture_dynamics.pdf)
-* [Mathematical Modelling in Biology]({{ site.url }}/assets/pdfs/Lecture_modelling.pdf)
-* [Quantitative imaging of cell topology]({{ site.url }}/assets/pdfs/quantitativeimaginf.pdf)
-* [Synthetic Biology]({{ site.url }}/assets/pdfs/SynBio.pdf)
-* [Synthetic Genomics, Tom Ellis]({{ site.url }}/assets/pdfs/Parts.pdf)
-* [Bacterial Logic Gates, Tom Ellis]({{ site.url }}/assets/pdfs/SynBio.pdf)
-* [Part Libraries in SynBio, Tom Ellis]({{ site.url }}/assets/pdfs/Parts.pdf)
-* [Optogenetics, Mark Isalan]({{ site.url }}/assets/pdfs/Parts.pdf)
-* [Advanced Synthetic Biology Applications: Pattern Formation, Mark Isalan]({{ site.url }}/assets/pdfs/Parts.pdf)
-* [Synthetic Biology IC Exam 15-16]({{ site.url }}/assets/pdfs/SynbioExam2015-16.pdf)
+* [Molecular Biology](/assets/pdfs/molecularbiology.pdf)
+* [GMO Papayas](/assets/pdfs/papayaogm.pdf)
+* [Plant Biotechnology](/assets/pdfs/plantbiotech.pdf)
+* [Bacterial Genetics](/assets/pdfs/bacterialgenetics.pdf)
+* [Genes and Genomes](/assets/pdfs/genesandgenomes.pdf)
+* [Genomic Manipulation](/assets/pdfs/GenomicManipulation.pdf)
+* [Molecular Biology of The Chloroplast, Peter Nixon](/assets/pdfs/Nixon1.pdf)
+* [Systems Biology](/assets/pdfs/isb.pdf)
+* [Biophysics, Robert Endres](/assets/pdfs/Lecture_biophysics.pdf)
+* [Biophysics, Robert Endres](/assets/pdfs/Lecture_biophysics.pdf)
+* [Dynamics in Gene Regulation, Robert Endres](/assets/pdfs/Lecture_dynamics.pdf)
+* [Mathematical Modelling in Biology](/assets/pdfs/Lecture_modelling.pdf)
+* [Quantitative imaging of cell topology](/assets/pdfs/quantitativeimaginf.pdf)
+* [Synthetic Biology](/assets/pdfs/SynBio.pdf)
+* [Synthetic Genomics, Tom Ellis](/assets/pdfs/Parts.pdf)
+* [Bacterial Logic Gates, Tom Ellis](/assets/pdfs/SynBio.pdf)
+* [Part Libraries in SynBio, Tom Ellis](/assets/pdfs/Parts.pdf)
+* [Optogenetics, Mark Isalan](/assets/pdfs/Parts.pdf)
+* [Advanced Synthetic Biology Applications: Pattern Formation, Mark Isalan](/assets/pdfs/Parts.pdf)
+* [Synthetic Biology IC Exam 15-16](/assets/pdfs/SynbioExam2015-16.pdf)
 
 ### Biochemistry
 
-* [Structure of the Nicotine Receptor]({{ site.url }}/assets/pdfs/nAChR.pdf)
-* [Neurobiology]({{ site.url }}/assets/pdfs/Neuro.pdf)
-* [Proteins and Enzymes]({{ site.url }}/assets/pdfs/PROTEINS AND ENZYMES 1-7)
-* [Enzymology 1]({{ site.url }}/assets/pdfs/ENZYMOLOGY)
-* [Enzymology 2]({{ site.url }}/assets/pdfs/ENZYMOLOGY2)
-* [DNA Repair]({{ site.url }}/assets/pdfs/DNArepair.pdf)
-* [Bacterial Genetics]({{ site.url }}/assets/pdfs/bacterialgenetics.pdf)
-* [Tryptophan Operon in *B.subtilis*]({{ site.url }}/assets/pdfs/genesandgenomes.pdf)
-* [Bioinformatics]({{ site.url }}/assets/pdfs/Bioinformatics.pdf)
-* [Proteomics]({{ site.url }}/assets/pdfs/Proteomics.pdf)
-* [Protein Folding]({{ site.url }}/assets/pdfs/proteinfolding.pdf)
-* [Biological NMR Spectroscopy]({{ site.url }}/assets/pdfs/NMR.pdf)
-* [Cryo-EM]({{ site.url }}/assets/pdfs/CRYO-EM.pdf)
+* [Structure of the Nicotine Receptor](/assets/pdfs/nAChR.pdf)
+* [Neurobiology](/assets/pdfs/Neuro.pdf)
+* [Proteins and Enzymes](/assets/pdfs/PROTEINS AND ENZYMES 1-7)
+* [Enzymology 1](/assets/pdfs/ENZYMOLOGY)
+* [Enzymology 2](/assets/pdfs/ENZYMOLOGY2)
+* [DNA Repair](/assets/pdfs/DNArepair.pdf)
+* [Bacterial Genetics](/assets/pdfs/bacterialgenetics.pdf)
+* [Tryptophan Operon in *B.subtilis*](/assets/pdfs/genesandgenomes.pdf)
+* [Bioinformatics](/assets/pdfs/Bioinformatics.pdf)
+* [Proteomics](/assets/pdfs/Proteomics.pdf)
+* [Protein Folding](/assets/pdfs/proteinfolding.pdf)
+* [Biological NMR Spectroscopy](/assets/pdfs/NMR.pdf)
+* [Cryo-EM](/assets/pdfs/CRYO-EM.pdf)
 
 ### Albi’s essays
 
-* [Prospects for the Development of Cyanobacterial Biofilm Bioreactors]({{ site.url }}/assets/pdfs/prospects-development-cyanobacterial.pdf)
-* [Human Practices in Synthetic Biology]({{ site.url }}/assets/pdfs/humanpractices.pdf)
-* [Economics Thought in Italy Before WWII]({{ site.url }}/assets/pdfs/economics-italy.pdf)
-* [Ricordi d'Africa: La Seconda Battaglia di El Alamein]({{ site.url }}/assets/pdfs/ricordiafrica.pdf)
+* [Prospects for the Development of Cyanobacterial Biofilm Bioreactors](/assets/pdfs/prospects-development-cyanobacterial.pdf)
+* [Human Practices in Synthetic Biology](/assets/pdfs/humanpractices.pdf)
+* [Economics Thought in Italy Before WWII](/assets/pdfs/economics-italy.pdf)
+* [Ricordi d'Africa: La Seconda Battaglia di El Alamein](/assets/pdfs/ricordiafrica.pdf)
 
 # Posters
 
@@ -111,8 +113,9 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 </object>
 
 
-
 # References lists
+
+
 ## "Collective Dynamics of Microbial Biofilms Undergoing Signalling Waves"
 
 ```
