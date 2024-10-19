@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/tags/poetry/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/recorder/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/2016-10-14-cells/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/2017-10-20-creativity/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/2019-09-06-sonetto/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/2016-10-12-brompton/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/2020-10-20-purupururu/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/2017-10-21-reason/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/2020-10-10-loopincmajor/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/2019-09-07-anfibraco/</loc>
+  </url>
+</urlset>

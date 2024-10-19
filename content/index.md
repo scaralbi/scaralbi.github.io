@@ -4,8 +4,8 @@ title: “scaralbi”
 ---
 
 ## Index
-* [Blog](/blog)
-* [Research](/research)  
+* [Blog](/blog/)
+* [Research](/research/)  
 * [Resources](/resources)
 
 ---
