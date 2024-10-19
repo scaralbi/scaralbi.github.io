@@ -1,12 +1,14 @@
 ---
-title: “scaralbi”
+title: "scaralbi"
 
 ---
 
 ## Index
+* [About](/about)
 * [Blog](/blog/)
-* [Research](/research/)  
+* [Research](/research)  
 * [Resources](/resources)
+
 
 ---
 ## What is this ?

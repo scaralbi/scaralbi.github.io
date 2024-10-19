@@ -1,7 +1,7 @@
 
 ---
 title: “Research”
-tags: ['research']
+
 ---
 
 # Research Interest
