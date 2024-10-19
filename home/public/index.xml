@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>“scaralbi” on scaralbi</title>
-    <link>https://scaralbi.github.io/</link>
+    <link>http://localhost:56449/</link>
     <description>Recent content in “scaralbi” on scaralbi</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="https://scaralbi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56449/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
