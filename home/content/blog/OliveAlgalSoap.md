@@ -1,7 +1,7 @@
 
 ---
 title: "Algal Soap"
-
+date: "24 December 2023"
 ---
 
 # **BIO SOLAR SOAP**  
