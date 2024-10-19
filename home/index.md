@@ -4,9 +4,9 @@ date: “2024-10-19”
 ---
 
 ## Index
-* [Blog](/blog.md)
-* [Research](/research.md)  
-* [Resources](/resources.md)
+* [Blog](/blog)
+* [Research](/research)  
+* [Resources](/resources)
 
 ---
 ## What is this ?

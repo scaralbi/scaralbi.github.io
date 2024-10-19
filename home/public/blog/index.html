@@ -1,35 +1,19 @@
 <!DOCTYPE html>
 <html lang="en-gb">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=54249&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=54475&amp;path=livereload" data-no-instant defer></script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <title> - scaralbi</title>
-  <meta property="og:title" content=" - scaralbi" />
-  <meta name="twitter:title" content=" - scaralbi" />
-  <meta name="description" content="Blog
-Here there is a list of post in chronological order. Some are poems, some are journal entries, some are uncategorised.
-
-&lt;li&gt;&lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
-
-{% endfor %}
-">
-  <meta property="og:description" content="Blog
-Here there is a list of post in chronological order. Some are poems, some are journal entries, some are uncategorised.
-
-&lt;li&gt;&lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
-
-{% endfor %}
-">
-  <meta name="twitter:description" content="Blog
-Here there is a list of post in chronological order. Some are poems, some are journal entries, some are uncategorised.
-
-&lt;li&gt;&lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title …&lt;/!--&gt;">
+  <title>Blogs - scaralbi</title>
+  <meta property="og:title" content="Blogs - scaralbi" />
+  <meta name="twitter:title" content="Blogs - scaralbi" />
   <meta name="author" content=""/>
   <meta property="og:site_name" content="scaralbi" />
-  <meta property="og:url" content="http://localhost:54249/blog/" />
-  <meta property="og:type" content="article" />
+  <meta property="og:url" content="http://localhost:54475/blog/" />
+  <meta property="og:type" content="website" />
   <meta name="twitter:card" content="summary" />
   <meta name="generator" content="Hugo 0.136.2">
+  <link href="/blog/index.xml" rel="alternate" type="application/rss+xml" title="scaralbi" />
+  <link href="/blog/index.xml" rel="feed" type="application/rss+xml" title="scaralbi" />
   <link rel="stylesheet" href="/css/style.css" media="all" />
 
   <link rel="stylesheet" href="/css/syntax.css" media="all" />
@@ -51,65 +35,252 @@ Here there is a list of post in chronological order. Some are poems, some are jo
 </header>
 <hr class="site-header-bottom">
 
+  <div class="breadcrumb">
+    Blogs
+  </div>
   <div class="main" role="main">
-    <article class="article">
-      
-      
-      <h1 class="article-title"></h1>
-      
-      <hr class="article-title-bottom">
-      <ul class="article-meta">
-        <li class="article-meta-date"><time>January 1, 0001</time></li>
-      </ul>
-      
-      <h1 id="blog">Blog</h1>
-<p>Here there is a list of post in chronological order. Some are poems, some are journal entries, some are uncategorised.</p>
-<!-- raw HTML omitted -->
-<pre><code>&lt;li&gt;&lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
-</code></pre>
-<p>{% endfor %}</p>
-<!-- raw HTML omitted -->
+    <section class="list section-list">
+      <article class="article">
+        <a href="/blog/2017-12-24-a-flow-of-information/" class="article-titles">
+          <h2 class="article-title">A flow of Information</h2>
+          
+        </a>
+        <ul class="article-meta">
+          <li class="article-meta-date"><time>January 1, 0001</time></li>
+        </ul>
+        <div class="article-content">
+          <p>Life is A DNA-software driven system.<br>
+Our job<br>
+is to translate it<br>
+into material products.</p>
 
-    </article>
+        </div>
+        <div class="article-readmore"><a href="/blog/2017-12-24-a-flow-of-information/">Read more...</a></div>
+        <div class="article-floatclear"></div>
+      </article>
+      <article class="article">
+        <a href="/blog/2019-04-20-a-mathematical-theory-of-information/" class="article-titles">
+          <h2 class="article-title">A Mathematical Theory of Communication, Claude Shannon</h2>
+          
+        </a>
+        <ul class="article-meta">
+          <li class="article-meta-date"><time>January 1, 0001</time></li>
+        </ul>
+        <div class="article-content">
+          <p>My friend and flatmate Ale, who studies Electronic and Information Engineering suggested me to read <a href="http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf"> A mathematical theory of communication</a> by Claude Shannon. Here is what I got from it.
+How can we describe mathematically information?
+This is important to engineer communication. The logarithmic function is a good function to represent information. One reason is that it is practically more convenient (many engineering parameters like time, bandwidth etc&hellip; tend to vary linearly with the number of possibilities). Essentially, he chooses the logarithmic scale as the unit to encode information. If you choose the base 2 of the loc, you end up with binary digits (bits).
+Then, he argues that a communication system shall consist of 5 parts: information source, transmitter, channel, receiver, destination. The information source produces the messages (where the information is stored), for example in the radio the message is a single function in time f(t), in color TV messages are functions f (x; y; t ), g(x; y; t ), h(x; y; t ) defined in a three-dimensional continuum. The transmitter makes the message suitable for propagation, for example in telephones this operation is just changing the sound pressure into a proportional electrical current. The channel is just the medium of transmission. The receiver performs the inverse operation of the transmitter.
+How can we quantify amount of information in bits per seconds? We need to properly encode it first.  For example, in telegraphy sequences of letters are not random. In English E occurs more frequently than Q. Thus, E is a dot and Q is 3 lines plus one dot. This allows to save time. And increase bits per seconds at the source. This discrete source has to choose between different symbols, the transitions between these different states are governed by probabilities of having certain symbols. A mathematical model of this kind, that must produce certain sequences of symbols by random walks in sets of probabilities is a stochastic process. Examples of this discrete sources are natural written languages (like English), quantized television signal etc&hellip;
+He develops with transition probabilities of English language and successive orders of approximations an artificial language. This kind of stochastic process at the end is just a Markov process.</p>
+        </div>
+        <div class="article-readmore"><a href="/blog/2019-04-20-a-mathematical-theory-of-information/">Read more...</a></div>
+        <div class="article-floatclear"></div>
+      </article>
+      <article class="article">
+        <a href="/blog/2016-10-14-cells/" class="article-titles">
+          <h2 class="article-title">A Million of Cells</h2>
+          
+        </a>
+        <ul class="article-meta">
+          <li class="article-meta-date"><time>January 1, 0001</time></li>
+        </ul>
+        <div class="article-content">
+          <p>If I am a million of cells<br>
+All dynamic and catalytic<br>
+Why do I<br>
+Remain still<br>
+on this line ?<br>
+It is not equilibrium<br>
+Is it a a cellular reality<br>
+Or just atomic variety ?</p>
 
+        </div>
+        <div class="article-readmore"><a href="/blog/2016-10-14-cells/">Read more...</a></div>
+        <div class="article-floatclear"></div>
+      </article>
+      <article class="article">
+        <a href="/blog/2017-10-20-creativity/" class="article-titles">
+          <h2 class="article-title">About originality</h2>
+          
+        </a>
+        <ul class="article-meta">
+          <li class="article-meta-date"><time>January 1, 0001</time></li>
+        </ul>
+        <div class="article-content">
+          <p>If I had to follow my own way, I would choose to direct the actions towards a deeper consistency. However, the gap between the integrity of reason and the arbitral factuality of actions is not bridged by a consistent behaviour. The plan is to produce more, where production is intended as the spontaneous manifestation of the information. When the information comes from an alien source it is impossible to produce something but the only outcome is a collage of foreign products. To this point, one can argue that the creative composition of other’s people actions is per se a product of reason. The key point, however, is that a product has to be filtered by the singular producing reason. If the decoupage is rationally filtered and consistent only within itself, then that can be defined as a genuine product.</p>
+        </div>
+        <div class="article-readmore"><a href="/blog/2017-10-20-creativity/">Read more...</a></div>
+        <div class="article-floatclear"></div>
+      </article>
+      <article class="article">
+        <a href="/blog/2018-06-04-abstract-expressionism-gradients/" class="article-titles">
+          <h2 class="article-title">Abstract Expressionism Across the Membrane</h2>
+          
+        </a>
+        <ul class="article-meta">
+          <li class="article-meta-date"><time>January 1, 0001</time></li>
+        </ul>
+        <div class="article-content">
+          <p>What is life if not extracting electrons from something and use them to generate an electrochemical potential that drives energy transduction ? Physical separation of protons though membranes allow this. I like to think that Rothko’s  paintings illustrate the electrochemical gradient with different chromatic fields. I see the thick orange lines as the membranes, the top orange field as the cytoplasm and the white space as the lumen full of protons. Illustrated below in the inner membrane with the two separate motors is, of course, the ATP synthase (PDB: 6CP3).</p>
+        </div>
+        <div class="article-readmore"><a href="/blog/2018-06-04-abstract-expressionism-gradients/">Read more...</a></div>
+        <div class="article-floatclear"></div>
+      </article>
+      <article class="article">
+        <a href="/blog/2017-04-11-aforismi1/" class="article-titles">
+          <h2 class="article-title">Aforismi I</h2>
+          
+        </a>
+        <ul class="article-meta">
+          <li class="article-meta-date"><time>January 1, 0001</time></li>
+        </ul>
+        <div class="article-content">
+          <p>Senz&rsquo;altro si ritorna sempre al punto di partenza ma il tragitto è più completo.</p>
+<p>Il cambio di stagioni è tipico di chi crede di poter lasciarsi tutto indietro alle spalle.</p>
+<p>La musica è il modo in cui posso ascoltare il pianeta.</p>
+<p>Dico verità senza argomentare. Posso farlo perché sembra intuitivo.</p>
+<p>Positiva anche questa esperienza a Torino; ogni vacanza è un rischio di tornare cambiato. Ma rimango sempre indenne. Ricaricare le batterie non è solo il modo in cui mi mantengo preparato. Ma è più uno stile di vita.</p>
+        </div>
+        <div class="article-readmore"><a href="/blog/2017-04-11-aforismi1/">Read more...</a></div>
+        <div class="article-floatclear"></div>
+      </article>
+      <article class="article">
+        <a href="/blog/2019-09-13-argentario/" class="article-titles">
+          <h2 class="article-title">Argentario</h2>
+          
+        </a>
+        <ul class="article-meta">
+          <li class="article-meta-date"><time>January 1, 0001</time></li>
+        </ul>
+        <div class="article-content">
+          <p>A metà di Settembre in Toscana<br>
+arrivammo con una vecchia punto<br>
+presso l&rsquo;Argentario per l&rsquo;Aureliana.<br>
+Questo viaggio viene qui riassunto.</p>
+<p>Al promontorio giungemmo di sera,<br>
+quando il sole calava nel mare.<br>
+Lo vedemmo dalla linea costiera,<br>
+che partimmo per andare&rsquo; a nuotare.</p>
+<p>Il mare, velo di acqua turchese,<br>
+sapido gargarismava dentro le<br>
+conche cave, che parevano&rsquo; accese<br>
+come le pelli dorate dal sole.</p>
+<p>Cucinammo la pasta allo scoglio<br>
+raccontandoci&rsquo; aneddoti a turno,<br>
+e poi giochi di parole su&rsquo; un foglio:<br>
+come un Decameron post-moderno.</p>
+        </div>
+        <div class="article-readmore"><a href="/blog/2019-09-13-argentario/">Read more...</a></div>
+        <div class="article-floatclear"></div>
+      </article>
+      <article class="article">
+        <a href="/blog/2017-04-20-cyanobacteria-change/" class="article-titles">
+          <h2 class="article-title">Climate Change and Cyanobacteria</h2>
+          
+        </a>
+        <ul class="article-meta">
+          <li class="article-meta-date"><time>January 1, 0001</time></li>
+        </ul>
+        <div class="article-content">
+          <p>When I think about the future, a feeling of fear and excitement arises. Yet I always live in the same moment. Life is a process of adding up, looking at the terminal values of a function and calculating the average. It is just an autopoietic network. We feel alive because of the properties emerging from the millions of reactions happening in every cell. However I still hope to escape the cold determinism that is dictated by this point of view. By thinking and connecting all the thought into a theory, by formalising the actions and bureaucratising the ways of thinkin, humans rationalised the world. We imposed to the world a new change, as did several forms of life before us. For example, cyanobacteria literally oxygenated the world. Before them, Earth had no oxygen. Through the new evolutionary tool of photosynthesis, they converted carbon dioxide and water into oxygen. Earth was soon surrounded by our favourite bimolecular drug.
+Today there are rightful concerns that we are &ldquo;modifying&rdquo; our planet.
+We need to respect and preserve our Planet, as a gift for our grandchildren. However our grandparents left us with the most changed planet in the galaxy. What an example. Cyanobacteria had no idea that they were changing the atmospheric concentration of oxygen. This change was so irreversible and drastic, that as a result humans evolved. Now this cycle is inverted, with us pumping carbon dioxide in the environment. Maybe we are even fertilising cyanobacteria with this extra carbon dioxide (apart the rise in temperature that denatures Rubisco).
+Every form of life leaves a mark in the ecological landscale. Everyone wants a new colony here to put a flag on.
+what is sure is that we are leaving to our descendants a hotter place. They sure will have to face new challenges, a new science will counsel the industries that will change again the new world. Yet it seems impossible to be changing the world. Our ideas are leading to this. Our rationality is the actor behind all of this theatre. It is beautiful how we are just a tiny gear, which rotates the bigger gear upon us. Perhaps there is something above or perhaps we, as a whole, are above.</p>
+        </div>
+        <div class="article-readmore"><a href="/blog/2017-04-20-cyanobacteria-change/">Read more...</a></div>
+        <div class="article-floatclear"></div>
+      </article>
+      <article class="article">
+        <a href="/blog/2016-11-12-nonsuccede/" class="article-titles">
+          <h2 class="article-title">Con te non succede</h2>
+          
+        </a>
+        <ul class="article-meta">
+          <li class="article-meta-date"><time>January 1, 0001</time></li>
+        </ul>
+        <div class="article-content">
+          <p>Sono le 5 di pomeriggio<br>
+È buio<br>
+Il freddo soffia nelle ossa<br>
+Rimbomba come in flauti cavi<br>
+Vuoti<br>
+Come me e te.<br>
+Vorrei<br>
+Che il sole scongelasse il mio cervello<br>
+Ma purtroppo<br>
+Non è il freddo<br>
+Non è il buio<br>
+Non so che cos&rsquo;è<br>
+So solo che con te<br>
+Non succede.</p>
+
+        </div>
+        <div class="article-readmore"><a href="/blog/2016-11-12-nonsuccede/">Read more...</a></div>
+        <div class="article-floatclear"></div>
+      </article>
+      <article class="article">
+        <a href="/blog/2017-08-14-cornia/" class="article-titles">
+          <h2 class="article-title">Cornia</h2>
+          
+        </a>
+        <ul class="article-meta">
+          <li class="article-meta-date"><time>January 1, 0001</time></li>
+        </ul>
+        <div class="article-content">
+          <p>Tra le crete senesi<br>
+c&rsquo;è un posto<br>
+che sana<br>
+ogni cretto dell&rsquo;anima.</p>
+
+        </div>
+        <div class="article-readmore"><a href="/blog/2017-08-14-cornia/">Read more...</a></div>
+        <div class="article-floatclear"></div>
+      </article>
+    </section>
     
-<ul class="article-share">
-  
-  <li>
-    <a class="resp-sharing-button__link" href="https://facebook.com/sharer/sharer.php?u=http://localhost:54249/blog/" target="_blank" rel="noopener" aria-label="Facebook">
-      <div class="resp-sharing-button resp-sharing-button--facebook resp-sharing-button--medium"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
-        <i class="fa-brands fa-facebook-f"></i></div>Facebook</div>
-    </a>
-  </li>
-
-  
-  
-
-  
-  <li>
-    <a class="resp-sharing-button__link" href="https://x.com/intent/tweet/?text=%20-%20scaralbi&amp;url=http://localhost:54249/blog/" target="_blank" rel="noopener" aria-label="Twitter">
-      <div class="resp-sharing-button resp-sharing-button--x resp-sharing-button--medium"><i class="fa-brands fa-x-twitter"></i></div>
-    </a>
-  </li>
-
-  
-  
- 
-</ul>
-
-
-    <ul class="pager article-pager">
-      <li class="pager-newer pager-noitem">&lt; Newer</li>
-      <li class="pager-older">
-        <a href="/research/" data-toggle="tooltip" data-placement="top" title="">Older &gt;</a>
+    <ul class="pagination pagination-default">
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="First" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="Previous" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 1" class="page-link" role="button">1</a>
+      </li>
+      <li class="page-item">
+        <a href="/blog/page/2/" aria-label="Page 2" class="page-link" role="button">2</a>
+      </li>
+      <li class="page-item">
+        <a href="/blog/page/3/" aria-label="Page 3" class="page-link" role="button">3</a>
+      </li>
+      <li class="page-item">
+        <a href="/blog/page/4/" aria-label="Page 4" class="page-link" role="button">4</a>
+      </li>
+      <li class="page-item">
+        <a href="/blog/page/5/" aria-label="Page 5" class="page-link" role="button">5</a>
+      </li>
+      <li class="page-item">
+        <a href="/blog/page/2/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/blog/page/6/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
       </li>
     </ul>
   </div>
 
 
+
 <div class="site-footer">
   <div class="copyright"></div>
   <ul class="site-footer-items">
+    <li class="site-footer-item-rsslink">
+      <a href="/blog/index.xml" type="application/rss+xml" target="_blank" title="RSS">
+        <i class="fa-solid fa-rss"></i>
+      </a>
+    </li>
   </ul>
   <div class="powerdby">
     Powered by <a href="https://gohugo.io/">Hugo</a> and <a href="https://github.com/taikii/whiteplain">Whiteplain</a>
