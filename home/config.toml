@@ -1,5 +1,5 @@
-baseURL = 'scaralbi.github.io'
-languageCode = 'en-us'
+baseURL = 'https://scaralbi.github.io/'
+languageCode = 'en-gb'
 title = 'scaralbi'
 theme = ["whiteplain-light", "whiteplain"]
 
