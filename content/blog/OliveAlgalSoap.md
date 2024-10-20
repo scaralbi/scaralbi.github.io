@@ -6,7 +6,7 @@ tags: [’soap’]
 
 # **BIO SOLAR SOAP**  
 
-<img src="/soapdalle.png" alt="algalsoap" width="200"/>
+![](/soapdalle.png) 
 
 ## **Homemade Castile Soap with Organic Solar Oils**  
 
