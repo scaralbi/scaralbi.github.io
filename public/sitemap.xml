@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2024-10-19T20:19:34+01:00</lastmod>
+    <loc>http://localhost:1313/tags/home/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
-    <lastmod>2024-10-19T20:19:34+01:00</lastmod>
+    <loc>http://localhost:1313/tags/research/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/home/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/research/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-10-19T20:19:34+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/soap/</loc>
@@ -23,14 +38,9 @@
     <loc>http://localhost:1313/tags/research/</loc>
     <lastmod>2023-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-12-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/poetry/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/recorder/</loc>
-  </url><url>
-    <loc>http://localhost:1313/research/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/2020-01-08-newdecade/</loc>
   </url><url>

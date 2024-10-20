@@ -1,4 +1,3 @@
-
 ---
 title: "Algal Soap"
 date: "2023-12-24"
@@ -7,7 +6,7 @@ tags: [’soap’]
 
 # **BIO SOLAR SOAP**  
 
-<img src="/figs/soapdalle.png" alt="algalsoap" width="200"/>
+<img src="/soapdalle.png" alt="algalsoap" width="200"/>
 
 ## **Homemade Castile Soap with Organic Solar Oils**  
 

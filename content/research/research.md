@@ -1,4 +1,3 @@
-
 ---
 title: "Research"
 date: "2024-10-20"
