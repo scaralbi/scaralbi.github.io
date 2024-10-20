@@ -1,6 +1,7 @@
-+++
-date = '2024-10-19T20:19:34+01:00'
-title = 'Archives'
-+++
+---
+title = "Archives"
+date = "2024-10-19"
+tags: [’archives’]
+---
 
 What goes in the archives ?

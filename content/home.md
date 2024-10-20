@@ -1,17 +1,11 @@
 ---
-title: "scaralbi"
+title: "Home"
 date: "2024-10-20"
 tags: [’home’]
 ---
 
-## Index
-* [About](/about)
-* [Blog](/blog/)
-* [Research](/research)  
-* [Resources](/resources)
+# Home of [scaralbi](https://scaralbi.io/home)
 
-
----
 ## What is this ?
 This is just my personal site on the web.
 I use it to store and share information.
@@ -34,6 +28,3 @@ What is life if not extracting electrons from something and use them to generate
 
 ## Disclaimer
 This website was created under the terms of the open-source [MIT license](https://opensource.org/licenses/MIT).
-<a class="twitter-follow-button"
-  href="https://twitter.com/scaralbi">
-Follow me @scaralbi</a>
