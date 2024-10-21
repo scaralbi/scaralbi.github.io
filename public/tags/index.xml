@@ -1,60 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on scaralbi</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on scaralbi</description>
+    <title>Tags on scaralbi&#39;s pages</title>
+    <link>http://localhost:1313/home/tags/</link>
+    <description>Recent content in Tags on scaralbi&#39;s pages</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/home/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>’Home’</title>
-      <link>http://localhost:1313/tags/home/</link>
+      <link>http://localhost:1313/home/tags/home/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/home/</guid>
+      <guid>http://localhost:1313/home/tags/home/</guid>
       <description></description>
     </item>
     <item>
       <title>’Research’</title>
-      <link>http://localhost:1313/tags/research/</link>
+      <link>http://localhost:1313/home/tags/research/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/research/</guid>
+      <guid>http://localhost:1313/home/tags/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/home/tags/blog/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>’Soap’</title>
-      <link>http://localhost:1313/tags/soap/</link>
+      <link>http://localhost:1313/home/tags/soap/</link>
       <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/soap/</guid>
+      <guid>http://localhost:1313/home/tags/soap/</guid>
       <description></description>
     </item>
     <item>
-      <title>Research</title>
-      <link>http://localhost:1313/tags/research/</link>
-      <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/research/</guid>
+      <title>’Undergraduate’</title>
+      <link>http://localhost:1313/home/tags/undergraduate/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/tags/undergraduate/</guid>
       <description></description>
     </item>
     <item>
       <title>‘Poetry’</title>
-      <link>http://localhost:1313/tags/poetry/</link>
+      <link>http://localhost:1313/home/tags/poetry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/poetry/</guid>
+      <guid>http://localhost:1313/home/tags/poetry/</guid>
       <description></description>
     </item>
     <item>
       <title>‘Recorder’</title>
-      <link>http://localhost:1313/tags/recorder/</link>
+      <link>http://localhost:1313/home/tags/recorder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/recorder/</guid>
+      <guid>http://localhost:1313/home/tags/recorder/</guid>
       <description></description>
     </item>
     <item>
       <title>Resources</title>
-      <link>http://localhost:1313/tags/resources/</link>
+      <link>http://localhost:1313/home/tags/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/resources/</guid>
+      <guid>http://localhost:1313/home/tags/resources/</guid>
       <description></description>
     </item>
   </channel>

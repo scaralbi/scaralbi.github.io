@@ -1,5 +1,5 @@
-baseURL = 'https://scaralbi.github.io/'
+baseURL = "https://scaralbi.github.io/home/"
 languageCode = 'en-gb'
-title = 'scaralbi'
-theme = 'whiteplain'
+title = "scaralbi's pages"
+theme = "whiteplain"
 

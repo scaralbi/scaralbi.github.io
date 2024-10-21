@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>’Research’ on scaralbi</title>
-    <link>http://localhost:1313/tags/research/</link>
-    <description>Recent content in ’Research’ on scaralbi</description>
+    <title>’Research’ on scaralbi&#39;s pages</title>
+    <link>http://localhost:1313/home/tags/research/</link>
+    <description>Recent content in ’Research’ on scaralbi&#39;s pages</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/home/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/research/research/</link>
+      <link>http://localhost:1313/home/research/research/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/research/</guid>
-      <description>&lt;p&gt;During my undergraduate degree I developed a passion for &lt;a href=&#34;https://en.wikipedia.org/wiki/Synthetic_biology&#34;&gt;synthetic&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Systems_biology&#34;&gt;systems biology&lt;/a&gt;: two fields of research that aim to engineer and deconstruct living systems in order to understand their assembly logic.&#xA;I am now trying to apply those principles to study how and why certain bacteria are able to sense and generate electrical signals when living in &lt;a href=&#34;https://en.wikipedia.org/wiki/Biofilm&#34;&gt;biofilms&lt;/a&gt;.&#xA;In particular, I am curious about the molecular mechanisms and genetic components that allow &lt;a href=&#34;https://en.wikipedia.org/wiki/Cyanobacteria&#34;&gt;cyanobacteria&lt;/a&gt; to produce electricity from sunlight, air and water (in so-called &lt;a href=&#34;https://en.wikipedia.org/wiki/Biological_photovoltaics&#34;&gt;biophotovoltaic devices&lt;/a&gt;).&#xA;I am also keen about developing biophysical techniques to investigate how the evolution of electrical signalling in structured communities of &lt;a href=&#34;https://en.wikipedia.org/wiki/Exoelectrogen&#34;&gt;exoelectrogenic&lt;/a&gt; photosynthetic bacteria contributes to the emergence of collective properties.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/home/research/research/</guid>
+      <description>&lt;h1 id=&#34;researchresearch&#34;&gt;&lt;a href=&#34;http://localhost:1313/home/research&#34;&gt;Research&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/home/algalsoap.png&#34; alt=&#34;AI VISION RESEARCH&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;2016-2020researchundergrad&#34;&gt;&lt;a href=&#34;http://localhost:1313/home/research/undergrad/&#34;&gt;2016-2020&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;2020-2024postgrad&#34;&gt;&lt;a href=&#34;http://localhost:1313/home/postgrad&#34;&gt;2020-2024&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;2024-20postdoc&#34;&gt;&lt;a href=&#34;http://localhost:1313/home/postdoc&#34;&gt;2024-20..&lt;/a&gt;&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>
