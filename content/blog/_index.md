@@ -1,5 +1,5 @@
 ---
-title = '{{ replace .File.ContentBaseName `-` ` ` | title }}'
+title: Blog
 
 ---
 # BLOG POSTS

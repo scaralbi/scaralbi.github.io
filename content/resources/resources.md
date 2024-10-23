@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: Resources
 tags: ['resources']
 ---
 *This is an archive of essays, protocols, scripts, lecture notes, practicals and other resources*

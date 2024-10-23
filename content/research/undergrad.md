@@ -1,8 +1,8 @@
 ---
-title = '{{ replace .File.ContentBaseName `-` ` ` | title }}'
+title: 2016-2020
 
 ---
-# 2016-2020 (Biotechnology, Synthetic and Systems Biology @Imperial 
+# Biotechnology, Synthetic and Systems Biology @Imperial
 
 I developed a passion for [synthetic](https://en.wikipedia.org/wiki/Synthetic_biology) and [systems biology](https://en.wikipedia.org/wiki/Systems_biology): two fields of research that aim to engineer and deconstruct living systems in order to understand their assembly logic. 
 I am now trying to apply those principles to study how and why certain bacteria are able to sense and generate electrical signals when living in [biofilms](https://en.wikipedia.org/wiki/Biofilm). 
