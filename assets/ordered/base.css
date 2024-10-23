@@ -1,0 +1,34 @@
+/* Base CSS, is set first.
+ */
+
+body {
+  color: var(--body-fg-color);
+  background-color: var(--body-bg-color);
+
+  font-family: sans-serif;
+
+  line-height: 1.5em;
+}
+
+p {
+  margin: 1em 0;
+}
+
+/* Code in code blocks
+ */
+pre {
+  padding: 0 0.5em;
+  overflow-x: auto;
+}
+
+/* Code in backticks
+ */
+p > code {
+  background-color: var(--code-bg-color);
+}
+
+blockquote {
+  border-left: 3px solid var(--body-fg-color);
+  color: var(--body-fg-color-deemphasize);
+  padding-left: 1em;
+}

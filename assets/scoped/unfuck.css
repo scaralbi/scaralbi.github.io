@@ -1,0 +1,7 @@
+/* Unfuck various browsers
+ */
+
+html {
+  /* MobileSafari does the most deranged shit I've ever seen in my life */
+  -webkit-text-size-adjust: none;
+}

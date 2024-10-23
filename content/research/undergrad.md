@@ -1,10 +1,9 @@
 ---
-title: "2016-2020 (Biotechnology, Synthetic and Systems Biology @Imperial"
-date: "2019-10-20"
-tags: [’undergraduate’]
----
+title = '{{ replace .File.ContentBaseName `-` ` ` | title }}'
 
-# Synthetic and Systems Biology
+---
+# 2016-2020 (Biotechnology, Synthetic and Systems Biology @Imperial 
+
 I developed a passion for [synthetic](https://en.wikipedia.org/wiki/Synthetic_biology) and [systems biology](https://en.wikipedia.org/wiki/Systems_biology): two fields of research that aim to engineer and deconstruct living systems in order to understand their assembly logic. 
 I am now trying to apply those principles to study how and why certain bacteria are able to sense and generate electrical signals when living in [biofilms](https://en.wikipedia.org/wiki/Biofilm). 
 In particular, I am curious about the molecular mechanisms and genetic components that allow [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria) to produce electricity from sunlight, air and water (in so-called [biophotovoltaic devices](https://en.wikipedia.org/wiki/Biological_photovoltaics)). 

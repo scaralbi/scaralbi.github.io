@@ -1,0 +1,15 @@
+/* Styling ur a's and href's
+ */
+
+a {
+  color: var(--link-unvisited-color);
+  text-decoration: none;
+}
+a:visited {
+  color: var(--link-visited-color);
+}
+a:hover {
+  /* color: var(--link-hover-fg-color); */
+  background-color: var(--link-hover-bg-color);
+}
+

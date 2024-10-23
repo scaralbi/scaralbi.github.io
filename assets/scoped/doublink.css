@@ -1,0 +1,8 @@
+/* Styles for the doublink partial
+ */
+
+.onionskin-doublink {
+  border-bottom: 1px solid var(--body-fg-color);
+  border-left: 1px solid var(--body-fg-color);
+  padding-left: 2px;
+}

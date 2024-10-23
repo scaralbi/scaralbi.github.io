@@ -1,10 +1,9 @@
 ---
-title: "Blog"
-date: "2024-10-20"
-tags: ['blog']
----
+title = '{{ replace .File.ContentBaseName `-` ` ` | title }}'
 
-## 
+---
+# BLOG POSTS
+
 This is a collection of blog posts. 
 
 ## Index

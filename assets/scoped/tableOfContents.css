@@ -1,0 +1,16 @@
+/* Styles for the TOC */
+
+nav#TableOfContents {
+  font-size: 0.85rem;
+  line-height: 1.1rem;
+}
+
+nav#TableOfContents ul {
+  list-style: none;
+  padding: 0 0 0 1em;
+}
+
+.onionskin-toc-page-title {
+  font-weight: bold;
+  text-align: center;
+}

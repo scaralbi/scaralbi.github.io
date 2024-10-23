@@ -1,0 +1,15 @@
+/* See the infobox.html shortcode */
+
+.onionskin-infobox {
+  padding: 0.125em 1em;
+}
+
+.onionskin-infobox-info {
+  background-color: var(--infobox-info-bg-color);
+}
+.onionskin-infobox-warn {
+  background-color: var(--infobox-warn-bg-color);
+}
+.onionskin-infobox-error {
+  background-color: var(--infobox-error-bg-color);
+}

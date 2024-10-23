@@ -1,0 +1,18 @@
+:root {
+  --body-fg-color: white;
+  --body-fg-color-deemphasize: lightgray;
+  --body-bg-color: black;
+  --link-unvisited-color: lightskyblue;
+  --link-visited-color: mediumpurple;
+  --link-hover-fg-color: aquamarine;
+  --link-hover-bg-color: rgb(90, 65, 10);
+  --code-bg-color: #3a3b32;
+  --active-chapter-bg-color: royalblue;
+  --infobox-info-bg-color: navy;
+  --infobox-warn-bg-color: rgb(94, 73, 20);
+  --infobox-error-bg-color: darkred;
+}
+
+.dark-mode-invert-image-color {
+  filter: invert(100%);
+}

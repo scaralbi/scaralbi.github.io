@@ -1,0 +1,14 @@
+:root {
+  --body-fg-color: black;
+  --body-fg-color-deemphasize: dimgray;
+  --body-bg-color: white;
+  --link-unvisited-color: dodgerblue;
+  --link-visited-color: mediumpurple;
+  --link-hover-fg-color: seagreen;
+  --link-hover-bg-color: bisque;
+  --code-bg-color: #c1c2bd;
+  --active-chapter-bg-color: powderblue;
+  --infobox-info-bg-color: paleturquoise;
+  --infobox-warn-bg-color: bisque;
+  --infobox-error-bg-color: mistyrose;
+}

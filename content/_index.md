@@ -1,7 +1,10 @@
 ---
-title: "scaralbi"
-tags: [’home’]
+title: Welcome
+
 ---
+
+# Welcome to my site
+
 
 ## Index
 * [About](/about)

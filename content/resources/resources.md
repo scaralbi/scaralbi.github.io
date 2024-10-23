@@ -2,7 +2,6 @@
 title: "Resources"
 tags: ['resources']
 ---
-
 *This is an archive of essays, protocols, scripts, lecture notes, practicals and other resources*
 
 ---
@@ -36,7 +35,6 @@ Online calculator for DNA Assembly.
 - [Plot circular genomes with pyCirclize](https://github.com/scaralbi/MV_Resistance)
 
 --- 
-
 
 # Text
 

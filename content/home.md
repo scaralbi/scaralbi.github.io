@@ -1,9 +1,7 @@
 ---
-title: "Home"
-date: "2024-10-20"
-tags: [’home’]
----
+title: Home
 
+---
 # Home of [scaralbi](/home/)
 
 

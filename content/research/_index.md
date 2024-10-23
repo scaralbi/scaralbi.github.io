@@ -1,8 +1,7 @@
 ---
-title: "Index"
-date: "2024-10-20"
----
+title = '{{ replace .File.ContentBaseName `-` ` ` | title }}'
 
+---
 # Index
 
 ## [Research index](/research)
