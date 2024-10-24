@@ -1,39 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>https://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on scaralbi&#39;s pages</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on scaralbi&#39;s pages</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en-gb</language>
     <lastBuildDate>Sun, 24 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>’Soap’</title>
-      <link>https://example.org/tags/soap/</link>
+      <link>http://localhost:1313/tags/soap/</link>
       <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/soap/</guid>
+      <guid>http://localhost:1313/tags/soap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blue</title>
+      <link>http://localhost:1313/tags/blue/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/blue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Green</title>
+      <link>http://localhost:1313/tags/green/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/green/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Red</title>
+      <link>http://localhost:1313/tags/red/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/red/</guid>
       <description></description>
     </item>
     <item>
       <title>‘Poetry’</title>
-      <link>https://example.org/tags/poetry/</link>
+      <link>http://localhost:1313/tags/poetry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/poetry/</guid>
+      <guid>http://localhost:1313/tags/poetry/</guid>
       <description></description>
     </item>
     <item>
       <title>‘Recorder’</title>
-      <link>https://example.org/tags/recorder/</link>
+      <link>http://localhost:1313/tags/recorder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/recorder/</guid>
+      <guid>http://localhost:1313/tags/recorder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coding</title>
+      <link>http://localhost:1313/tags/coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/coding/</guid>
       <description></description>
     </item>
     <item>
       <title>Resources</title>
-      <link>https://example.org/tags/resources/</link>
+      <link>http://localhost:1313/tags/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/resources/</guid>
+      <guid>http://localhost:1313/tags/resources/</guid>
       <description></description>
     </item>
   </channel>

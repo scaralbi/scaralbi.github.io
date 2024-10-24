@@ -6,11 +6,12 @@ title: Welcome
 # Welcome to my site
 
 
+
 ## Index
 * [About](/about)
 * [Blog](/blog/)
-* [Research](/research)  
-* [Resources](/resources)
+* [Research](/research/)  
+* [Resources](/resources/)
 
 
 ---

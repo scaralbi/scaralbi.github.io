@@ -1,15 +1,12 @@
 ---
-title: Resources
-tags: ['resources']
+title: Coding
+tags: ['coding']
 ---
-*This is an archive of essays, protocols, scripts, lecture notes, practicals and other resources*
-
+*This is an archive of scripts and possibly incomplete documentation*
 ---
 
 
 # Code
-
-## Lab protocols and calculators#
 
 - [GoldenGate Calculator](https://cakelabdna.github.io/2768cd316e26196a473a415dc9bdb2c707f1dbd4/index.html)
 Online calculator for DNA Assembly.

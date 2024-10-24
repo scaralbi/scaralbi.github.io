@@ -1,5 +1,8 @@
-+++
-title = '{{ replace .File.ContentBaseName `-` ` ` | title }}'
-+++
+---
+title: About
 
-How does this look.
+---
+# About 
+
+Who am I ? What is life ? What is "morality" ? 
+

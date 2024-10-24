@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>’Soap’ on My New Hugo Site</title>
-    <link>https://example.org/tags/soap/</link>
-    <description>Recent content in ’Soap’ on My New Hugo Site</description>
+    <title>’Soap’ on scaralbi&#39;s pages</title>
+    <link>http://localhost:1313/tags/soap/</link>
+    <description>Recent content in ’Soap’ on scaralbi&#39;s pages</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en-gb</language>
     <lastBuildDate>Sun, 24 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/soap/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/soap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algal Soap</title>
-      <link>https://example.org/blog/posts/olivealgalsoap/</link>
+      <link>http://localhost:1313/blog/posts/olivealgalsoap/</link>
       <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.org/blog/posts/olivealgalsoap/</guid>
-      <description>&lt;h1 id=&#34;bio-solar-soap&#34;&gt;&lt;strong&gt;BIO SOLAR SOAP&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://example.org/ALBIoSOAP.png&#34; alt=&#34;soap&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;homemade-castile-soap-with-organic-solar-oils&#34;&gt;&lt;strong&gt;Homemade Castile Soap with Organic Solar Oils&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A blend of moisturising olive, jojoba and sweet almond oils infused with scented lavender flowers, blue-green microalgae `Spirulina’, and scrubbing sea salt and oat flakes.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;100% Organic Oils&lt;/strong&gt;: Extra virgin olive oil, jojoba oil, sweet almond oil, lavender oil, and lavender flowers.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Powered by the Sun&lt;/strong&gt;: All the oils are derived from plants, and enriched with microalgae, harnessing the sun&amp;rsquo;s energy for skin rejuvenation.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Natural Exfoliants&lt;/strong&gt;: Oats and pink salt flakes for a delicate scrubbing experience.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Antioxidant Booster&lt;/strong&gt;: Jojoba seeds and sweet almonds contain high concentrations of antioxidants to detoxify reactive oxygen species and combat senescence.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;✘ &lt;em&gt;Vegan, fossil fuel free, gluten-free, dairy free, peanut and sesame-free&lt;/em&gt;.  &lt;br&gt;&#xA;✘ No artificial fragrances or colours.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/posts/olivealgalsoap/</guid>
+      <description>&lt;h1 id=&#34;bio-solar-soap&#34;&gt;&lt;strong&gt;BIO SOLAR SOAP&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/ALBIoSOAP.png&#34; alt=&#34;soap&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;homemade-castile-soap-with-organic-solar-oils&#34;&gt;&lt;strong&gt;Homemade Castile Soap with Organic Solar Oils&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;A blend of moisturising olive, jojoba and sweet almond oils infused with scented lavender flowers, blue-green microalgae `Spirulina’, and scrubbing sea salt and oat flakes.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;100% Organic Oils&lt;/strong&gt;: Extra virgin olive oil, jojoba oil, sweet almond oil, lavender oil, and lavender flowers.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Powered by the Sun&lt;/strong&gt;: All the oils are derived from plants, and enriched with microalgae, harnessing the sun&amp;rsquo;s energy for skin rejuvenation.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Natural Exfoliants&lt;/strong&gt;: Oats and pink salt flakes for a delicate scrubbing experience.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Antioxidant Booster&lt;/strong&gt;: Jojoba seeds and sweet almonds contain high concentrations of antioxidants to detoxify reactive oxygen species and combat senescence.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;✘ &lt;em&gt;Vegan, fossil fuel free, gluten-free, dairy free, peanut and sesame-free&lt;/em&gt;.  &lt;br&gt;&#xA;✘ No artificial fragrances or colours.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
