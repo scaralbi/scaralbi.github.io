@@ -6,9 +6,9 @@ title: "scaralbi"
 # scaralbi 
 
 ## Index
-* [About](/about/)
-* [Blog](/blog/)
-* [Research](/research/)  
+* [About](/content/about/)
+* [Blog](/content/blog/)
+* [Research](/research/research.html)  
 * [Resources](/resources/)
 
 
