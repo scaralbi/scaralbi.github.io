@@ -27,11 +27,9 @@ Online calculator for DNA Assembly.
 	The biofilmer is a repository of MATLAB scripts to quantify properties of fluorescence time-lapse microscopy biofilm images.
 	![alt text](https://github.com/scaralbi/biofilmer/blob/master/imageanalysis.png?raw=true)
 
-## Python scripts
-
-- [Plot circular genomes with pyCirclize](https://github.com/scaralbi/MV_Resistance)
-
 --- 
+
+
 
 # Text
 

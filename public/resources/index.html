@@ -9,9 +9,24 @@
         <a href="/about">About</a>
     </nav>
     <p><em>This is an archive of essays, protocols, scripts, lecture notes, practicals and other resources</em></p>
+<ol>
+<li><a href="/Calculators/">Molecular biology calculators</a></li>
+<li><a href="#Code">Code</a>
+<ol>
+<li><a href="#matlab-scripts">Matlab scripts</a></li>
+<li><a href="#python-scripts">Python scripts</a></li>
+</ol>
+</li>
+<li><a href="#text">Text</a>
+<ol>
+<li><a href="#old-texts-and-manuscripts">Old texts and manuscripts</a></li>
+<li><a href="#essays-and-lecture-notes">Essays and lecture notes</a></li>
+</ol>
+</li>
+</ol>
 <hr>
-<h1 id="code">Code</h1>
-<h2 id="lab-protocols-and-calculators">Lab protocols and calculators#</h2>
+<h1 id="calculators">Calculators</h1>
+<h2 id="lab-protocols-and-calculators">Lab protocols and calculators</h2>
 <ul>
 <li>
 <p><a href="https://cakelabdna.github.io/2768cd316e26196a473a415dc9bdb2c707f1dbd4/index.html">GoldenGate Calculator</a>
@@ -22,14 +37,16 @@ Online calculator for DNA Assembly.</p>
 </li>
 </ul>
 <!-- raw HTML omitted -->
-<h2 id="matlab-scripts">MATLAB Scripts</h2>
+<h1 id="code">Code</h1>
+<h2 id="matlab-scripts">MATLAB scripts</h2>
 <ul>
 <li><a href="https://github.com/scaralbi/plankton-simulator">Plankton Simulator</a>
 The plankton-simulator is a collection of matlab scripts simulating the dynamics of structured microbial communities.
 The simulator is based on a multiscale biophysical model that incorporates species traits, consumer-resource dynamics and stochastic ecosystem assembly.
 The model hierarchically simulates features of ecosystem at different scales by defining three classes in the ecosystem using object-oriented programming in MATLAB: Species, Demes (spatially-isolated subcompartments) and Plankton (collection of Demes).</li>
 </ul>
-<p><img src="https://github.com/scaralbi/plankton-simulator/blob/master/flowchart.png?raw=true" alt="alt text"></p>
+<p>-Tryyyy</p>
+<!-- raw HTML omitted -->
 <ul>
 <li><a href="https://github.com/scaralbi/biofilmer">Biofilmer</a>
 The biofilmer is a repository of MATLAB scripts to quantify properties of fluorescence time-lapse microscopy biofilm images.
@@ -37,8 +54,51 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 </ul>
 <h2 id="python-scripts">Python scripts</h2>
 <ul>
-<li><a href="https://github.com/scaralbi/MV_Resistance">Plot circular genomes with pyCirclize</a></li>
+<li>
+<p><a href="https://github.com/scaralbi/MV_Resistance">Plot circular genomes with pyCirclize</a>
+A repo to store scripts to analyse and visualise results from WGS and Sanger sequencing experiments
+The scripts are based on python and can be executed via the terminal after having cloned the repo.
+Many of the circular plot diagrams are made using the package pyCirclize.</p>
+<ol>
+<li><a href="#plot-whole-genome-sequencing-results-against-a-reference-genome">Plot Whole Genome Sequencing Results against a Reference Genome</a></li>
+<li><a href="#filter-mutations-in-mutants-compared-to-respective-backgrounds">Compare mutations between wild-type and mutants</a></li>
+</ol>
+</li>
 </ul>
+<h3 id="plot-whole-genome-sequencing-results-against-a-reference-genomegenseqrefviewerpy"><a href="GenSeqRefViewer.py">Plot Whole Genome Sequencing Results against a Reference Genome</a></h3>
+<p><a href="GenSeqRefViewer.py">This Python script</a> allows to generate a circular plot of a genomic structure. It draws a diagram of a genome along with various genomic annotations like Forward CDS, Reverse CDS, rRNA, tRNA, and also includes mutation and coverage data for a particular DNA sequencing strain.</p>
+<h4 id="instructions">Instructions</h4>
+<h5 id="prerequisites">Prerequisites</h5>
+<p>Before you run this script, you need to have the following Python packages installed:</p>
+<ul>
+<li>pycirclize</li>
+<li>pandas</li>
+<li>numpy</li>
+<li>matplotlib</li>
+<li>argparse</li>
+</ul>
+<p>You can install these using pip:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>pip install pycirclize pandas numpy matplotlib argparse
+</span></span></code></pre></div><h5 id="data-requirements">Data Requirements</h5>
+<p>Your data files should be located in the following paths:</p>
+<ul>
+<li>Coverage data and Identity data: <code>&quot;Data/reads_alignments/{Strain}_{Reference}.csv&quot;</code></li>
+<li>Mutation data: <code>&quot;Data/variant_analysis/{Reference}_allmutations.csv&quot;</code></li>
+<li>Genbank file for genome annotations: <code>&quot;Data/genome_annotations/{Reference}.gff&quot;</code></li>
+</ul>
+<p>Where:</p>
+<ul>
+<li><code>{Strain}</code> is the strain from which the DNA sequencing reads are obtained.</li>
+<li><code>{Reference}</code> is the accession number of the reference genome sequencing the reads have been aligned to.</li>
+</ul>
+<p>The generated figure will be saved to <code>&quot;Figures/WGS/{Strain}_vs_{Reference}_mutations.png&quot;</code>.</p>
+<h5 id="execution">Execution</h5>
+<p>You can run the script using Python3. From the terminal, navigate to the directory containing the script, and run the following command:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>python3 GenSeqRefViewer.py -strain<span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;wt_Nixon&#34;</span> -ref<span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;NC000911&#34;</span>
+</span></span></code></pre></div><p>Replace <code>&lt;strain_name&gt;</code> with the strain name (as labelled in the csv files) and <code>&lt;reference_name&gt;</code> with the reference genome NCBI accession number (e.g., &lsquo;NC000911&rsquo;).</p>
+<h4 id="outputs">Outputs</h4>
+<p>The script generates a circular diagram of a genome with the given strain and reference genome, highlighting areas of low coverage and unconserved genomic regions. The final diagram is saved as a PNG image with a high resolution (DPI=900). The filename will be of the form <code>&quot;{Strain}_vs_{Reference}_mutations.png&quot;</code> and it will be saved in the <code>&quot;Figures/WGS/&quot;</code> directory.</p>
+<p><img src="https://github.com/scaralbi/MV_Resistance/blob/main/Figures/WGS/wt_Howe_vs_NC000911_genomeview.png?raw=true" alt="alt text"></p>
 <hr>
 <h1 id="text">Text</h1>
 <h2 id="old-texts-and-manuscripts">Old texts and manuscripts</h2>
@@ -54,7 +114,7 @@ The biofilmer is a repository of MATLAB scripts to quantify properties of fluore
 </li>
 </ul>
 <h2 id="essays-and-lecture-notes">Essays and lecture notes</h2>
-<h3 id="genetics-molecularsynthetic-biology-and-biotechnology">Genetics, molecular/synthetic biology and biotechnology</h3>
+<h3 id="genetics-molecular-synthetic-biology-and-biotechnology">Genetics, molecular, synthetic biology and biotechnology</h3>
 <ul>
 <li><a href="/pdfs/molecularbiology.pdf">Molecular Biology</a></li>
 <li><a href="/pdfs/papayaogm.pdf">GMO Papayas</a></li>
