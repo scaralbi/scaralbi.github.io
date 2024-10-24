@@ -8,8 +8,8 @@ title: "scaralbi"
 ## Index
 * [About](/content/about/)
 * [Blog](/content/blog/)
-* [Research](/research/research.html)  
-* [Resources](/resources/)
+* [Research](/content/research/)  
+* [Resources](/content/resources/)
 
 
 ---
