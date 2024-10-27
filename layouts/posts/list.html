@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ .Title }}</title>
+</head>
+<body>
+    <nav>
+        <a href="/">Home</a>
+    </nav>
+    {{ range .Pages }}
+	<a href="{{ .Permalink }}">{{ .Title }}</a>
+    {{ end }}
+    <footer>
+        <p>My Site Footer</p>
+    </footer>
+</body>
+</html>
+
+
+
+
+
+
+
