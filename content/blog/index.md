@@ -3,10 +3,7 @@ title: Blog
 
 ---
 
-# Index
+# Blog Index
 
-* [Posts](/posts/)
+* [Posts](/content/posts/)
 
-
-
-# Different links

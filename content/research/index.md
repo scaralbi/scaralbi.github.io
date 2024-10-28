@@ -5,7 +5,7 @@ title: Research Index
 
 # Research Index
 
-## [Undergradate](/undergrad/)
+## [Undergradate](/research/undergrad/)
 ## [Postgraduate](/postgrad/)
 ## [Postdoc](/postdoc/)
 

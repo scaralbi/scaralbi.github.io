@@ -19,7 +19,7 @@
       <link>http://localhost:1313/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/</guid>
-      <description>&lt;h1 id=&#34;index&#34;&gt;Index&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/&#34;&gt;Posts&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;different-links&#34;&gt;Different links&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;blog-index&#34;&gt;Blog Index&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/content/posts/&#34;&gt;Posts&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Home</title>
@@ -33,7 +33,7 @@
       <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
-      <description>&lt;h1 id=&#34;research-index&#34;&gt;Research Index&lt;/h1&gt;&#xA;&lt;h2 id=&#34;undergradateundergrad&#34;&gt;&lt;a href=&#34;http://localhost:1313/undergrad/&#34;&gt;Undergradate&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;postgraduatepostgrad&#34;&gt;&lt;a href=&#34;http://localhost:1313/postgrad/&#34;&gt;Postgraduate&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;postdocpostdoc&#34;&gt;&lt;a href=&#34;http://localhost:1313/postdoc/&#34;&gt;Postdoc&lt;/a&gt;&lt;/h2&gt;</description>
+      <description>&lt;h1 id=&#34;research-index&#34;&gt;Research Index&lt;/h1&gt;&#xA;&lt;h2 id=&#34;undergradateresearchundergrad&#34;&gt;&lt;a href=&#34;http://localhost:1313/research/undergrad/&#34;&gt;Undergradate&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;postgraduatepostgrad&#34;&gt;&lt;a href=&#34;http://localhost:1313/postgrad/&#34;&gt;Postgraduate&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;postdocpostdoc&#34;&gt;&lt;a href=&#34;http://localhost:1313/postdoc/&#34;&gt;Postdoc&lt;/a&gt;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Resources</title>
