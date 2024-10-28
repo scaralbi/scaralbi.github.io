@@ -13,7 +13,7 @@ I am also keen about developing biophysical techniques to investigate how the ev
 ## Green Biotechnology
 I am fascinated by the reactions of [photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis), which enables photosynthetic organisms to perform the complex chemistry of transforming solar into chemical energy, in ambient conditions and in a self-repairing way. This complex network of reactions can be exploited to catalyse the transition towards a greener future, where biomanufacturing of therapeutics, commodity chemicals and biofuels will take place in photosynthetic organelles.
 
-![alt text](/cyanoproduction.jpg)
+![alt text](/assets/cyanoproduction.jpg)
 
 In particular, cyanobacteria hold great promises as sustainable bioproduction platforms, for their ability of photoproduction of added-value biomass and electricity ([Knoot et al., 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5892586/); [Wey et al., 2019](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/celc.201900997)).
 There is a lot of interest in expanding synthetic biology toolkits to engineer cyanobacteria for photobiomanufacturing and energy generation.
@@ -25,7 +25,7 @@ It is now a widely accepted fact that net decarbonisation of human activities in
 Harnessing the almost limitless supply of solar radiation with photosynthetic organisms using biophotovoltaic  (BPV) devices is a promising strategy in the pursuit of these goals.
 BPVs are [bio-electrochemical systems](https://en.wikipedia.org/wiki/Bioelectrochemical_reactor) (BES) that harvest electrons generated from photo-oxidation of water by photosynthetic materials to generate electrical work ([McCormick et al. 2015](https://pubs.rsc.org/en/content/articlelanding/2015/ee/c4ee03875d#!divAbstract)).
 
-![alt text](/brightside.png)
+![alt text](/assets/brightside.png)
 
 As the process is driven by cells performing oxygenic photosynthesis, BPVs offer the possibility of coupling carbon dioxide sequestration and electricity generation, in a self-sustainable way.  
 In the last decade, considerable work has been done to optimise the bioelectrochemistry of these systems, which have proven useful to understand the mechanisms of electron transfer in photosynthetic organisms.
@@ -37,7 +37,7 @@ Hopefully, in the near future, BPVs will be useful to power for low power demand
 My interest in synthetic biology derives from its potential to design biological processes from the bottom-up.
 I am excited by the possibility to combine electronics and synthetic biology to engineer electrogenetic control in synthetic ecosystems and biofactories.
 
-![alt text](/synbiolac.png)
+![alt text](/assets/synbiolac.png)
 
 
 ### What is synthetic biology ?
@@ -51,7 +51,7 @@ If you want to read more, have a look at these websites:
 - [Ginkgo Bioworks website (the Apple of Synthetic Biology)](https://www.ginkgobioworks.com/)
 - [iGEM website - crazy synbio projects by undergraduate students](https://igem.org/Main_Page)
 
-![alt text](assets/figs/polpromoter.gif)
+![alt text](/assets/polpromoter.gif)
 
 Synthetic Biology is a field of research that deconstructs biological systems to understand their assembly logic. 
 This reverse engineering of life has been hailed by the scientific community as the field capable of solving most of the challenges that we are going to face in the future, such as overpopulation, pollution and lack of natural resources.
@@ -62,7 +62,7 @@ It should not come as a surprise then if the public perception on matters such a
 
 ### Synthetica, a new branch in the kingdom of Life ? Image from [Alexandra Daisy Ginsberg](https://www.daisyginsberg.com/), The Synthetic Kingdom: A Natural History of the Synthetic Future. 2009.
 
-![Syntha](/synthetica.jpeg)
+![Syntha](/assets/synthetica.jpeg)
 
 Hopefully, Synthetic Biology is characterised by a spirit of social responsibility and by the sharing of parts and components, such as sequence information on plasmids, promoters, protocols etc…  For example, [Addgene](https://www.addgene.org/) is a non-profit plasmid repository, where researchers upload their plasmid sequences and make them freely to the scientific community.  Through Addgene, for example, small labs all around the world can have access to tested plasmids by big laboratories (for example [Jennifer Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna)’s famous CRISPR plasmids can be found open source on Addgene); this enables to spare times and resources for researchers who just want to use the technology. The main concept of synthetic biology is that components are publicly available, whereas application can be patented.
 The iGEM competition, the biggest and most respected synthetic biology completion around the globe, brings together thousands of passionate biorebels every year in Boston, with the aim to promote synthetic biology advancement, with regards with both the science and the discussion behind it.
@@ -76,7 +76,7 @@ This project design and competition format is an exceptionally motivating and ef
 
 ## iGEM 2018, Imperial College Team
 
-![PixCell](/igem.jpg)
+![PixCell](/assets/igem.jpg)
 
 
 In the summer 2018 I took part in this competition as part of the Imperial College team, [PixCell](https://2018.igem.org/Team:Imperial_College). The iGEM team at Imperial is usually assembled thanks to the efforts of synbio enthusiasts in the [SynBIC](https://www.union.ic.ac.uk/rcsu/synbic/) society. It is unbelieveble how much stuff you can do when you are a part of a team of hard-working people that share your same mission.

@@ -5,5 +5,5 @@ title: Blog
 
 # Blog Index
 
-* [Posts](/content/posts/)
+* [Posts](/content/blog/posts/)
 

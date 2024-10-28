@@ -14,7 +14,7 @@ title: "scaralbi"
 
 ---
 ## What is this ?
-Prova prova...   
+
 This is just my personal site on the web.
 I use it to store and share information.
 
