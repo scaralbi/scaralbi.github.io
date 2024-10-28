@@ -1,0 +1,18 @@
+<section class="sitenav">
+  <div class="sitenav-subcontainer">
+    <div class="sitenav-title-block">
+      <a class="no-link-annotation" href="/">
+        {{- partial "inlineableLogo.html" . }}
+      </a>
+    </div>
+    <div class="sitenav-links-container">
+      <ul>
+        {{- range .Site.Menus.main }}
+        <li>
+          <a href="{{ .URL }}">{{ .Name }}</a>
+        </li>
+        {{- end }}
+      </ul>
+    </div>
+  </div>
+</section>

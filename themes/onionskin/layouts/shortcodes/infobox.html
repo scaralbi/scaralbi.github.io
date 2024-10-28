@@ -1,0 +1,6 @@
+{{/* Must be called with an onionskin-infobox-* class, defined in infobox.css:
+   * info, warn, error
+   */}}
+<div class="onionskin-infobox onionskin-infobox-{{ .Get 0 }}">
+  {{ .Inner | .Page.RenderString }}
+</div>

@@ -1,0 +1,8 @@
+{{- $resourceName := .Get 0 }}
+{{/* Try to get a page resource first, and fall back to a site resource if it doesn't exist */}}
+{{- $resource := default (resources.Get $resourceName) (.Page.Resources.GetMatch $resourceName) }}
+{{- $href := $resource.Permalink }}
+{{- if (default false .Site.Params.OnionskinInlineEverything) }}
+  {{- $href = printf "data:%s;base64,%s" $resource.MediaType ($resource.Content | base64Encode ) }}
+{{- end }}
+{{- printf "<img src='%s' />" $href | safeHTML }}

@@ -1,0 +1,9 @@
+{{/* A link to both an onion and clearnet site */}}
+{{- $description := .Get 0}}
+{{- $clearlink := .Get 1 }}
+{{- $onionlink := .Get 2 }}
+<span class="onionskin-doublink">
+  {{ $description }}
+  (<a class="annotated-link-clearnet" href="{{ $clearlink }}">clearnet</a>,
+  <a class="annotated-link-onion" href="{{ $onionlink }}">onionlink</a>)
+</span>

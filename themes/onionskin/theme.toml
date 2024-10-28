@@ -1,0 +1,12 @@
+name = "Onionskin"
+license = "WTFPL"
+licenselink = "http://xdhbqaloeg5bid3tzjpllhnxisdguz34xtoc7qegnmh3essuesfdyqid.onion/shrineadmin/hugo-theme-onionskin/src/master/LICENSE"
+description = "A theme with no external dependencies designed for Onion services on Tor"
+homepage = "http://xdhbqaloeg5bid3tzjpllhnxisdguz34xtoc7qegnmh3essuesfdyqid.onion/shrineadmin/hugo-theme-onionskin/"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "Micah R Ledbetter"
+  homepage = "https://me.micahrl.com"

@@ -1,0 +1,21 @@
+{{ define "main" }}
+<section id="content">
+  {{ .Content }}
+</section>
+<section id="listing">
+  <p>All pages in this section:</p>
+  {{ range .Data.Pages.ByPublishDate.Reverse }}
+  <li class="">
+    <h3><a href="{{ .Permalink }}">
+        {{ .Title }}
+      </a></h3>
+    <div id=date>
+      <time>{{ .Date.Format (.Site.Params.dateform | default "January 2006") }}</time>
+    </div>
+    {{- if ne .Description "" }}
+    <p class="posts-listing-desc">{{ .Description }}</p>
+    {{ end -}}
+  </li>
+  {{ end }}
+</section>
+{{ end }}

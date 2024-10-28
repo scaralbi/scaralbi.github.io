@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+{{- partial "head.html" . -}}
+<body id="onionskin-full-frame">
+  <aside id="onionskin-left-sidebar" class="grid-fix-overflow-min-width-0">
+    {{ partial "navigation.html" . }}
+    <p class="onionskin-toc-page-title">
+      <a href="#">
+        {{ .Title }}
+      </a>
+    </p>
+    {{-  block "sidebar-left" . }}{{- end }}
+    <div class="onionskin-left-sidebar-spacer"></div>
+  </aside>
+  <main id="onionskin-main-content" class="grid-fix-overflow-min-width-0">
+    {{- block "main" . }}{{- end }}
+  </main>
+</body>
+</html>

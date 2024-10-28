@@ -1,0 +1,9 @@
+{{- $resource := resources.Get "logo.svg" }}
+{{- $href := $resource.Permalink }}
+{{- if (default false .Site.Params.OnionskinInlineEverything) }}
+  {{- $href = printf "data:%s;base64,%s" $resource.MediaType ($resource.Content | base64Encode ) }}
+{{- end }}
+<img
+  class="sitenav-image dark-mode-invert-image-color"
+  src='{{ $href | safeURL }}'
+/>

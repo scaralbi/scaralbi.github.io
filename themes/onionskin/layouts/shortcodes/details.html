@@ -1,0 +1,7 @@
+{{/* An expandable summary/details element
+   * info, warn, error
+   */}}
+<details class="onionskin-details">
+  <summary>{{ .Get 0 | markdownify }}</summary>
+  {{ .Inner | .Page.RenderString }}
+</details>
