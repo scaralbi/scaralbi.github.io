@@ -1,112 +1,203 @@
-<!DOCTYPE html>
-<html>
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <title>Coding</title>
-</head>
-<body>
-    <nav>
-        <a href="/home">Home</a>
-        <a href="/posts">Posts</a>
-        <a href="/about">About</a>
-        <a href="/research">Research</a>
-        <a href="/resources">Resources</a>
-    </nav>
-    <h2 id="this-is-an-archive-of-scripts-and-possibly-incomplete-documentation"><em>This is an archive of scripts and possibly incomplete documentation</em></h2>
-<h1 id="code">Code</h1>
-<ul>
-<li>
-<p><a href="https://cakelabdna.github.io/2768cd316e26196a473a415dc9bdb2c707f1dbd4/index.html">GoldenGate Calculator</a>
-Online calculator for DNA Assembly.</p>
-</li>
-<li>
-<p><a href="https://docs.google.com/spreadsheets/d/12G5TwARG7o5OzgPICj9YPiSczuWmx1yngZYTKdHQzaY/edit#gid=683324272&amp;range=A1:J15">Assembly Report</a></p>
-</li>
-</ul>
-<!-- raw HTML omitted -->
-<h2 id="matlab-scripts">MATLAB Scripts</h2>
-<ul>
-<li><a href="https://github.com/scaralbi/plankton-simulator">Plankton Simulator</a>
-The plankton-simulator is a collection of matlab scripts simulating the dynamics of structured microbial communities.
-The simulator is based on a multiscale biophysical model that incorporates species traits, consumer-resource dynamics and stochastic ecosystem assembly.
-The model hierarchically simulates features of ecosystem at different scales by defining three classes in the ecosystem using object-oriented programming in MATLAB: Species, Demes (spatially-isolated subcompartments) and Plankton (collection of Demes).</li>
-</ul>
-<p><img src="https://github.com/scaralbi/plankton-simulator/blob/master/flowchart.png?raw=true" alt="alt text"></p>
-<ul>
-<li><a href="https://github.com/scaralbi/biofilmer">Biofilmer</a>
-The biofilmer is a repository of MATLAB scripts to quantify properties of fluorescence time-lapse microscopy biofilm images.
-<img src="https://github.com/scaralbi/biofilmer/blob/master/imageanalysis.png?raw=true" alt="alt text"></li>
-</ul>
-<hr>
-<h1 id="text">Text</h1>
-<h2 id="old-texts-and-manuscripts">Old texts and manuscripts</h2>
-<ul>
-<li>
-<p>[Aristotle, <em>Historia Animalium</em> 9.36.20, translated by D&rsquo;Arcy Wentworth Thompson, 1910](/OldTexts/Aristotle_ HistoryofAnimals_IX.html)</p>
-</li>
-<li>
-<p><a href="/OldTexts/Historical_Pills_Bioelectrochemistry.md">Historical references on bioelectrochemistry</a></p>
-</li>
-<li>
-<p><a href="/OldTexts/brief-guide-to-the-general-scholium-a4.pdf">ISAAC NEWTON’S GENERAL SCHOLIUM TO THE PRINCIPIA (1713, 1726)</a></p>
-</li>
-</ul>
-<h2 id="essays-and-lecture-notes">Essays and lecture notes</h2>
-<h3 id="genetics-molecularsynthetic-biology-and-biotechnology">Genetics, molecular/synthetic biology and biotechnology</h3>
-<ul>
-<li><a href="/pdfs/molecularbiology.pdf">Molecular Biology</a></li>
-<li><a href="/pdfs/papayaogm.pdf">GMO Papayas</a></li>
-<li><a href="/pdfs/plantbiotech.pdf">Plant Biotechnology</a></li>
-<li><a href="/pdfs/bacterialgenetics.pdf">Bacterial Genetics</a></li>
-<li><a href="/pdfs/genesandgenomes.pdf">Genes and Genomes</a></li>
-<li><a href="/pdfs/GenomicManipulation.pdf">Genomic Manipulation</a></li>
-<li><a href="/pdfs/Nixon1.pdf">Molecular Biology of The Chloroplast, Peter Nixon</a></li>
-<li><a href="/pdfs/isb.pdf">Systems Biology</a></li>
-<li><a href="/pdfs/Lecture_biophysics.pdf">Biophysics, Robert Endres</a></li>
-<li><a href="/pdfs/Lecture_biophysics.pdf">Biophysics, Robert Endres</a></li>
-<li><a href="/pdfs/Lecture_dynamics.pdf">Dynamics in Gene Regulation, Robert Endres</a></li>
-<li><a href="/pdfs/Lecture_modelling.pdf">Mathematical Modelling in Biology</a></li>
-<li><a href="/pdfs/quantitativeimaginf.pdf">Quantitative imaging of cell topology</a></li>
-<li><a href="/pdfs/SynBio.pdf">Synthetic Biology</a></li>
-<li><a href="/pdfs/Parts.pdf">Synthetic Genomics, Tom Ellis</a></li>
-<li><a href="/pdfs/SynBio.pdf">Bacterial Logic Gates, Tom Ellis</a></li>
-<li><a href="/pdfs/Parts.pdf">Part Libraries in SynBio, Tom Ellis</a></li>
-<li><a href="/pdfs/Parts.pdf">Optogenetics, Mark Isalan</a></li>
-<li><a href="/pdfs/Parts.pdf">Advanced Synthetic Biology Applications: Pattern Formation, Mark Isalan</a></li>
-<li><a href="/pdfs/SynbioExam2015-16.pdf">Synthetic Biology IC Exam 15-16</a></li>
-</ul>
-<h3 id="biochemistry">Biochemistry</h3>
-<ul>
-<li><a href="/pdfs/nAChR.pdf">Structure of the Nicotine Receptor</a></li>
-<li><a href="/pdfs/Neuro.pdf">Neurobiology</a></li>
-<li>[Proteins and Enzymes](/pdfs/PROTEINS AND ENZYMES 1-7)</li>
-<li><a href="/pdfs/ENZYMOLOGY">Enzymology 1</a></li>
-<li><a href="/pdfs/ENZYMOLOGY2">Enzymology 2</a></li>
-<li><a href="/pdfs/DNArepair.pdf">DNA Repair</a></li>
-<li><a href="/pdfs/bacterialgenetics.pdf">Bacterial Genetics</a></li>
-<li><a href="/pdfs/genesandgenomes.pdf">Tryptophan Operon in <em>B.subtilis</em></a></li>
-<li><a href="/pdfs/Bioinformatics.pdf">Bioinformatics</a></li>
-<li><a href="/pdfs/Proteomics.pdf">Proteomics</a></li>
-<li><a href="/pdfs/proteinfolding.pdf">Protein Folding</a></li>
-<li><a href="/pdfs/NMR.pdf">Biological NMR Spectroscopy</a></li>
-<li><a href="/pdfs/CRYO-EM.pdf">Cryo-EM</a></li>
-</ul>
-<h3 id="albis-essays">Albi’s essays</h3>
-<ul>
-<li><a href="/pdfs/prospects-development-cyanobacterial.pdf">Prospects for the Development of Cyanobacterial Biofilm Bioreactors</a></li>
-<li><a href="/pdfs/humanpractices.pdf">Human Practices in Synthetic Biology</a></li>
-<li><a href="/pdfs/economics-italy.pdf">Economics Thought in Italy Before WWII</a></li>
-<li><a href="/pdfs/ricordiafrica.pdf">Ricordi d&rsquo;Africa: La Seconda Battaglia di El Alamein</a></li>
-</ul>
-<h1 id="posters">Posters</h1>
-<h2 id="the-paradox-of-the-plankton">The Paradox of The Plankton</h2>
-<!-- raw HTML omitted -->
-<h2 id="mini-igem-ic-sb-2019--synbio-field-programmable-gate-array-fpga">mini iGEM IC SB 2019- SynBio Field Programmable Gate Array (FPGA)</h2>
-<!-- raw HTML omitted -->
-<h2 id="igem-pixcell-2018-electronic-control-of-gene-expression">iGEM PixCell 2018: Electronic Control of Gene Expression</h2>
-<!-- raw HTML omitted -->
-<h1 id="references-lists">References lists</h1>
-<h2 id="collective-dynamics-of-microbial-biofilms-undergoing-signalling-waves">&ldquo;Collective Dynamics of Microbial Biofilms Undergoing Signalling Waves&rdquo;</h2>
-<pre tabindex="0"><code>@ARTICLE{Arnaouteli201913553,
+---
+title: "Resources"
+tags: ['resources']
+---
+
+*This is an archive of essays, protocols, scripts, lecture notes, practicals and other resources*
+
+
+1. [Molecular biology calculators](/Calculators/)
+2. [Code](#Code)
+	1. [Matlab scripts](#matlab-scripts)
+	2. [Python scripts](#python-scripts)
+3. [Text](#text)
+	1. [Old texts and manuscripts](#old-texts-and-manuscripts)
+	2. [Essays and lecture notes](#essays-and-lecture-notes)
+
+---
+
+# Calculators
+
+## Lab protocols and calculators
+
+- [GoldenGate Calculator](https://cakelabdna.github.io/2768cd316e26196a473a415dc9bdb2c707f1dbd4/index.html)
+Online calculator for DNA Assembly.
+
+- [Assembly Report](https://docs.google.com/spreadsheets/d/12G5TwARG7o5OzgPICj9YPiSczuWmx1yngZYTKdHQzaY/edit#gid=683324272&range=A1:J15)    
+<iframe width="1000" height="480" src="https://docs.google.com/spreadsheets/d/12G5TwARG7o5OzgPICj9YPiSczuWmx1yngZYTKdHQzaY/htmlembed/sheet?gid=683324272&range=A1:J15"></iframe>
+
+# Code
+
+## MATLAB scripts
+
+- [Plankton Simulator](https://github.com/scaralbi/plankton-simulator)
+	The plankton-simulator is a collection of matlab scripts simulating the dynamics of structured microbial communities.
+	The simulator is based on a multiscale biophysical model that incorporates species traits, consumer-resource dynamics and stochastic ecosystem assembly.
+	The model hierarchically simulates features of ecosystem at different scales by defining three classes in the ecosystem using object-oriented programming in MATLAB: Species, Demes (spatially-isolated subcompartments) and Plankton (collection of Demes).
+
+
+<img src="https://github.com/scaralbi/plankton-simulator/blob/master/flowchart.png?raw=true" alt="flowchart" style="max-width: 80%; height: auto;">
+
+
+- [Biofilmer](https://github.com/scaralbi/biofilmer)
+	The biofilmer is a repository of MATLAB scripts to quantify properties of fluorescence time-lapse microscopy biofilm images.
+	![alt text](https://github.com/scaralbi/biofilmer/blob/master/imageanalysis.png?raw=true)
+
+## Python scripts
+
+- [Plot circular genomes with pyCirclize](https://github.com/scaralbi/MV_Resistance)
+A repo to store scripts to analyse and visualise results from WGS and Sanger sequencing experiments
+ The scripts are based on python and can be executed via the terminal after having cloned the repo.
+ Many of the circular plot diagrams are made using the package pyCirclize.
+ 
+  1. [Plot Whole Genome Sequencing Results against a Reference Genome](#plot-whole-genome-sequencing-results-against-a-reference-genome)
+  2. [Compare mutations between wild-type and mutants](#filter-mutations-in-mutants-compared-to-respective-backgrounds)
+
+
+### [Plot Whole Genome Sequencing Results against a Reference Genome](GenSeqRefViewer.py)
+[This Python script](GenSeqRefViewer.py) allows to generate a circular plot of a genomic structure. It draws a diagram of a genome along with various genomic annotations like Forward CDS, Reverse CDS, rRNA, tRNA, and also includes mutation and coverage data for a particular DNA sequencing strain.
+
+#### Instructions
+
+##### Prerequisites
+Before you run this script, you need to have the following Python packages installed:
+
+- pycirclize
+- pandas
+- numpy
+- matplotlib
+- argparse
+
+You can install these using pip:
+
+```shell
+pip install pycirclize pandas numpy matplotlib argparse
+```
+
+##### Data Requirements
+
+Your data files should be located in the following paths:
+ 
+- Coverage data and Identity data: `"Data/reads_alignments/{Strain}_{Reference}.csv"`  
+- Mutation data: `"Data/variant_analysis/{Reference}_allmutations.csv"`  
+- Genbank file for genome annotations: `"Data/genome_annotations/{Reference}.gff"`  
+
+Where:
+
+- `{Strain}` is the strain from which the DNA sequencing reads are obtained.
+- `{Reference}` is the accession number of the reference genome sequencing the reads have been aligned to.
+
+The generated figure will be saved to `"Figures/WGS/{Strain}_vs_{Reference}_mutations.png"`.
+
+##### Execution
+
+You can run the script using Python3. From the terminal, navigate to the directory containing the script, and run the following command:
+
+```shell
+python3 GenSeqRefViewer.py -strain= "wt_Nixon" -ref= "NC000911"
+```
+
+Replace `<strain_name>` with the strain name (as labelled in the csv files) and `<reference_name>` with the reference genome NCBI accession number (e.g., 'NC000911').
+
+#### Outputs
+The script generates a circular diagram of a genome with the given strain and reference genome, highlighting areas of low coverage and unconserved genomic regions. The final diagram is saved as a PNG image with a high resolution (DPI=900). The filename will be of the form `"{Strain}_vs_{Reference}_mutations.png"` and it will be saved in the `"Figures/WGS/"` directory.
+
+![alt text](https://github.com/scaralbi/MV_Resistance/blob/main/Figures/WGS/wt_Howe_vs_NC000911_genomeview.png?raw=true)
+
+--- 
+
+
+# Text
+
+## Old texts and manuscripts
+
+* [Aristotle, *Historia Animalium* 9.36.20, translated by D'Arcy Wentworth Thompson, 1910](/OldTexts/Aristotle_ HistoryofAnimals_IX.html)
+
+* [Historical references on bioelectrochemistry](/OldTexts/Historical_Pills_Bioelectrochemistry.md)
+
+* [ISAAC NEWTON’S GENERAL SCHOLIUM TO THE PRINCIPIA (1713, 1726)](/OldTexts/brief-guide-to-the-general-scholium-a4.pdf)
+
+
+## Essays and lecture notes
+
+
+### Genetics, molecular, synthetic biology and biotechnology
+
+* [Molecular Biology](/pdfs/molecularbiology.pdf)
+* [GMO Papayas](/pdfs/papayaogm.pdf)
+* [Plant Biotechnology](/pdfs/plantbiotech.pdf)
+* [Bacterial Genetics](/pdfs/bacterialgenetics.pdf)
+* [Genes and Genomes](/pdfs/genesandgenomes.pdf)
+* [Genomic Manipulation](/pdfs/GenomicManipulation.pdf)
+* [Molecular Biology of The Chloroplast, Peter Nixon](/pdfs/Nixon1.pdf)
+* [Systems Biology](/pdfs/isb.pdf)
+* [Biophysics, Robert Endres](/pdfs/Lecture_biophysics.pdf)
+* [Biophysics, Robert Endres](/pdfs/Lecture_biophysics.pdf)
+* [Dynamics in Gene Regulation, Robert Endres](/pdfs/Lecture_dynamics.pdf)
+* [Mathematical Modelling in Biology](/pdfs/Lecture_modelling.pdf)
+* [Quantitative imaging of cell topology](/pdfs/quantitativeimaginf.pdf)
+* [Synthetic Biology](/pdfs/SynBio.pdf)
+* [Synthetic Genomics, Tom Ellis](/pdfs/Parts.pdf)
+* [Bacterial Logic Gates, Tom Ellis](/pdfs/SynBio.pdf)
+* [Part Libraries in SynBio, Tom Ellis](/pdfs/Parts.pdf)
+* [Optogenetics, Mark Isalan](/pdfs/Parts.pdf)
+* [Advanced Synthetic Biology Applications: Pattern Formation, Mark Isalan](/pdfs/Parts.pdf)
+* [Synthetic Biology IC Exam 15-16](/pdfs/SynbioExam2015-16.pdf)
+
+### Biochemistry
+
+* [Structure of the Nicotine Receptor](/pdfs/nAChR.pdf)
+* [Neurobiology](/pdfs/Neuro.pdf)
+* [Proteins and Enzymes](/pdfs/PROTEINS AND ENZYMES 1-7)
+* [Enzymology 1](/pdfs/ENZYMOLOGY)
+* [Enzymology 2](/pdfs/ENZYMOLOGY2)
+* [DNA Repair](/pdfs/DNArepair.pdf)
+* [Bacterial Genetics](/pdfs/bacterialgenetics.pdf)
+* [Tryptophan Operon in *B.subtilis*](/pdfs/genesandgenomes.pdf)
+* [Bioinformatics](/pdfs/Bioinformatics.pdf)
+* [Proteomics](/pdfs/Proteomics.pdf)
+* [Protein Folding](/pdfs/proteinfolding.pdf)
+* [Biological NMR Spectroscopy](/pdfs/NMR.pdf)
+* [Cryo-EM](/pdfs/CRYO-EM.pdf)
+
+### Albi’s essays
+
+* [Prospects for the Development of Cyanobacterial Biofilm Bioreactors](/pdfs/prospects-development-cyanobacterial.pdf)
+* [Human Practices in Synthetic Biology](/pdfs/humanpractices.pdf)
+* [Economics Thought in Italy Before WWII](/pdfs/economics-italy.pdf)
+* [Ricordi d'Africa: La Seconda Battaglia di El Alamein](/pdfs/ricordiafrica.pdf)
+
+# Posters
+
+## The Paradox of The Plankton
+<object data="/pdfs/paradox_poster.pdf" type="application/pdf" width="1000px" height="700px">
+    <embed src="/pdfs/paradox_poster.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## mini iGEM IC SB 2019- SynBio Field Programmable Gate Array (FPGA)
+<object data="pdfs/mini-iGEM-poster.pdf" type="application/pdf" width="1000px" height="700px">
+    <embed src="/pdfs/mini-iGEM-poster.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## iGEM PixCell 2018: Electronic Control of Gene Expression
+<object data="/pdfs/iGEMposter.pdf" type="application/pdf" width="1000px" height="700px">
+    <embed src="/pdfs/iGEMposter.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+# References lists
+
+
+## "Collective Dynamics of Microbial Biofilms Undergoing Signalling Waves"
+
+```
+@ARTICLE{Arnaouteli201913553,
 author={Arnaouteli, S. and Matoz-Fernandez, D.A. and Porter, M. and Kalamara, M. and Abbott, J. and MacPhee, C.E. and Davidson, F.A. and Stanley-Wall, N.R.},
 title={Pulcherrimin formation controls growth arrest of the Bacillus subtilis biofilm},
 journal={Proceedings of the National Academy of Sciences of the United States of America},
@@ -398,12 +489,12 @@ issn={1098-5336},
 
 
 @article{MANCINI2019,
-title = &#34;A General Workflow for Characterization of Nernstian Dyes and Their Effects on Bacterial Physiology&#34;,
-journal = &#34;Biophysical Journal&#34;,
-year = &#34;2019&#34;,
-issn = &#34;0006-3495&#34;,
-author = &#34;Leonardo Mancini and Guillaume Terradot and Tian Tian and YingYing Pu and Yingxing Li and Chien-Jung Lo and Fan Bai and Teuta Pilizota&#34;,
-abstract = &#34;The electrical membrane potential (Vm) is one of the components of the electrochemical potential of protons across the biological membrane (proton motive force), which powers many vital cellular processes. Because Vm also plays a role in signal transduction, measuring it is of great interest. Over the years, a variety of techniques have been developed for the purpose. In bacteria, given their small size, Nernstian membrane voltage probes are arguably the favorite strategy, and their cytoplasmic accumulation depends on Vm according to the Nernst equation. However, a careful calibration of Nernstian probes that takes into account the tradeoffs between the ease with which the signal from the dye is observed and the dyes’ interactions with cellular physiology is rarely performed. Here, we use a mathematical model to understand such tradeoffs and apply the results to assess the applicability of the Thioflavin T dye as a Vm sensor in Escherichia coli. We identify the conditions in which the dye turns from a Vm probe into an actuator and, based on the model and experimental results, propose a general workflow for the characterization of Nernstian dye candidates.&#34;
+title = "A General Workflow for Characterization of Nernstian Dyes and Their Effects on Bacterial Physiology",
+journal = "Biophysical Journal",
+year = "2019",
+issn = "0006-3495",
+author = "Leonardo Mancini and Guillaume Terradot and Tian Tian and YingYing Pu and Yingxing Li and Chien-Jung Lo and Fan Bai and Teuta Pilizota",
+abstract = "The electrical membrane potential (Vm) is one of the components of the electrochemical potential of protons across the biological membrane (proton motive force), which powers many vital cellular processes. Because Vm also plays a role in signal transduction, measuring it is of great interest. Over the years, a variety of techniques have been developed for the purpose. In bacteria, given their small size, Nernstian membrane voltage probes are arguably the favorite strategy, and their cytoplasmic accumulation depends on Vm according to the Nernst equation. However, a careful calibration of Nernstian probes that takes into account the tradeoffs between the ease with which the signal from the dye is observed and the dyes’ interactions with cellular physiology is rarely performed. Here, we use a mathematical model to understand such tradeoffs and apply the results to assess the applicability of the Thioflavin T dye as a Vm sensor in Escherichia coli. We identify the conditions in which the dye turns from a Vm probe into an actuator and, based on the model and experimental results, propose a general workflow for the characterization of Nernstian dye candidates."
 }
 
 
@@ -470,18 +561,18 @@ pages={589-600},
 
 
 @Article{Nikolaev2007,
-author=&#34;Nikolaev, Yu. A.
-and Plakunov, V. K.&#34;,
-title=&#34;Biofilm-``City of microbes&#39;&#39; or an analogue of multicellular organisms?&#34;,
-journal=&#34;Microbiology&#34;,
-year=&#34;2007&#34;,
-month=&#34;Apr&#34;,
-day=&#34;01&#34;,
-volume=&#34;76&#34;,
-number=&#34;2&#34;,
-pages=&#34;125--138&#34;,
-issn=&#34;1608-3237&#34;,
-doi=&#34;10.1134/S0026261707020014&#34;,
+author="Nikolaev, Yu. A.
+and Plakunov, V. K.",
+title="Biofilm-``City of microbes'' or an analogue of multicellular organisms?",
+journal="Microbiology",
+year="2007",
+month="Apr",
+day="01",
+volume="76",
+number="2",
+pages="125--138",
+issn="1608-3237",
+doi="10.1134/S0026261707020014",
 }
 
 @ARTICLE{Novak2008,
@@ -594,12 +685,12 @@ pages={9552-9557},
 }
 
 @Article{Thomen2020,
-author =&#34;Thomen, Philippe and Valentin, Jules D. P. and Bitbol, Anne-Florence and Henry, Nelly&#34;,
-title  =&#34;Spatiotemporal pattern formation in E. coli biofilms explained by a simple physical energy balance&#34;,
-journal  =&#34;Soft Matter&#34;,
-year  =&#34;2020&#34;,
-pages  =&#34;-&#34;,
-publisher  =&#34;The Royal Society of Chemistry&#34;,
+author ="Thomen, Philippe and Valentin, Jules D. P. and Bitbol, Anne-Florence and Henry, Nelly",
+title  ="Spatiotemporal pattern formation in E. coli biofilms explained by a simple physical energy balance",
+journal  ="Soft Matter",
+year  ="2020",
+pages  ="-",
+publisher  ="The Royal Society of Chemistry",
 }
 
 
@@ -618,14 +709,14 @@ publisher  =&#34;The Royal Society of Chemistry&#34;,
 
 
 @article{WEBB2003578,
-title = &#34;Bacterial biofilms: prokaryotic adventures in multicellularity&#34;,
-journal = &#34;Current Opinion in Microbiology&#34;,
-volume = &#34;6&#34;,
-number = &#34;6&#34;,
-pages = &#34;578 - 585&#34;,
-year = &#34;2003&#34;,
-issn = &#34;1369-5274&#34;,
-author = &#34;Webb, J. S. and Givskov, M. and Kjelleberg, S.&#34;,
+title = "Bacterial biofilms: prokaryotic adventures in multicellularity",
+journal = "Current Opinion in Microbiology",
+volume = "6",
+number = "6",
+pages = "578 - 585",
+year = "2003",
+issn = "1369-5274",
+author = "Webb, J. S. and Givskov, M. and Kjelleberg, S.",
 }
 
 @ARTICLE{Xavier2007876,
@@ -668,8 +759,14 @@ number={1},
 pages={111},
 issn={1475-2859},
 }
-</code></pre><h2 id="references-for-the-paradox-of-the-plankon-coexistence-of-structured-microbial-communities">References for &ldquo;The Paradox of The Plankon: Coexistence of Structured Microbial Communities&rdquo;</h2>
-<pre tabindex="0"><code>Scopus
+
+
+```
+
+## References for "The Paradox of The Plankon: Coexistence of Structured Microbial Communities"
+
+```
+Scopus
 EXPORT DATE: 6 May 2019
 
 
@@ -787,7 +884,7 @@ pages={242-246},
 	number = {2},
 	pages = {83},
 	author = {Christopher J. Conselice and Aaron Wilkinson and Kenneth Duncan and Alice Mortlock},
-	title = { The evolution of galaxy number density at $z &lt; 8$ and its impliations},
+	title = { The evolution of galaxy number density at $z < 8$ and its impliations},
 	journal = {The Astrophysical Journal},
 }
 
@@ -802,7 +899,7 @@ art_number={160043},
 }
 
 @article {Dolson2017,
-	author = {Dolson, Emily L. and P{\&#39;e}rez, Samuel G. and Olson, Randal S. and Ofria, Charles},
+	author = {Dolson, Emily L. and P{\'e}rez, Samuel G. and Olson, Randal S. and Ofria, Charles},
 	title = {Spatial resource heterogeneity increases diversity and evolutionary potential},
 	year = {2017},
 	publisher = {Cold Spring Harbor Laboratory},
@@ -812,7 +909,7 @@ art_number={160043},
 
 
 @article {Dufresne2003,
-	author = {Dufresne, Alexis and Salanoubat, Marcel and Partensky, Fr{\&#39;e}d{\&#39;e}ric and Artiguenave, Fran{\c c}ois and Axmann, Ilka M. and Barbe, Val{\&#39;e}rie and Duprat, Simone and Galperin, Michael Y. and Koonin, Eugene V. and Le Gall, Florence and Makarova, Kira S. and Ostrowski, Martin and Oztas, Sophie and Robert, Catherine and Rogozin, Igor B. and Scanlan, David J. and de Marsac, Nicole Tandeau and Weissenbach, Jean and Wincker, Patrick and Wolf, Yuri I. and Hess, Wolfgang R.},
+	author = {Dufresne, Alexis and Salanoubat, Marcel and Partensky, Fr{\'e}d{\'e}ric and Artiguenave, Fran{\c c}ois and Axmann, Ilka M. and Barbe, Val{\'e}rie and Duprat, Simone and Galperin, Michael Y. and Koonin, Eugene V. and Le Gall, Florence and Makarova, Kira S. and Ostrowski, Martin and Oztas, Sophie and Robert, Catherine and Rogozin, Igor B. and Scanlan, David J. and de Marsac, Nicole Tandeau and Weissenbach, Jean and Wincker, Patrick and Wolf, Yuri I. and Hess, Wolfgang R.},
 	title = {Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome},
 	volume = {100},
 	number = {17},
@@ -1110,7 +1207,7 @@ pages={79-85},
 
 @ARTICLE{Malviya2016,
 author={Malviya, S. and Scalco, E. and Audic, S. and Vincent, F. and Veluchamy, A. and Poulain, J. and Wincker, P. and Iudicone, D. and De Vargas, C. and Bittner, L. and Zingone, A. and Bowler, C.},
-title={Insights into global diatom distribution and diversity in the world&#39;s ocean},
+title={Insights into global diatom distribution and diversity in the world's ocean},
 journal={Proceedings of the National Academy of Sciences of the United States of America},
 year={2016},
 volume={113},
@@ -1185,15 +1282,15 @@ art_number={150023},
 
 
 @article{Perez2007,
-title = &#34;Phytoplankton absorption spectra along the water column in deep North Patagonian Andean lakes (Argentina)&#34;,
-journal = &#34;Limnologica&#34;,
-volume = &#34;37&#34;,
-number = &#34;1&#34;,
-pages = &#34;3 - 16&#34;,
-year = &#34;2007&#34;,
-note = &#34;Limnology of Temperate South America&#34;,
-issn = &#34;0075-9511&#34;,
-author = &#34;Gonzalo Pérez and Claudia Queimaliños and Esteban Balseiro and Beatriz Modenutti&#34;,
+title = "Phytoplankton absorption spectra along the water column in deep North Patagonian Andean lakes (Argentina)",
+journal = "Limnologica",
+volume = "37",
+number = "1",
+pages = "3 - 16",
+year = "2007",
+note = "Limnology of Temperate South America",
+issn = "0075-9511",
+author = "Gonzalo Pérez and Claudia Queimaliños and Esteban Balseiro and Beatriz Modenutti",
 }
 
 @ARTICLE{Posfai2017,
@@ -1214,7 +1311,7 @@ volume = {2},
 number = {1},
 pages = {121-145},
 keywords = {plankton distributions, plankton dynamics, turbulence, biomixing, interdisciplinary, coupling, technology},
-abstract = {Lay Abstract The study of plankton ecology is by nature interdisciplinary, since both biology and physics interact to shape plankton distributions and population dynamics. Small-scale turbulence affects how plankton feed and grow, while kilometer-scale physical features can form large plankton patches. Recent findings also show that, in addition to physics affecting plankton dynamics, plankton may be able to influence ocean physics as well. For example, the fluid motion produced from a copepod swimming in pursuit of food can be detected by nearby organisms and might make it more vulnerable to its predators. The field of plankton biophysics has advanced rapidly in the past several decades, due in large part to technological advances that allow the study of interactions between fluid flow and plankton in their natural environment at smaller scales than ever before. Biophysical interactions in plankton ecology can occur at a wide range of scales: from the scale of individual organisms up to the scale of the world&#39;s oceans. In this article, we review biophysical interactions in plankton across a wide range of scales, focusing on the most recent research in the field. In addition, we discuss how these processes are linked with other processes that occur at smaller and larger scales. For example, plankton patches formed by ocean eddies can provide feeding grounds for other organisms, thus influencing global ocean food web dynamics. Finally, we discuss some of the potential effects of long-term changes in global climate, which will affect ocean temperature and stratification, thus regulating the occurrence and intensity of biophysical plankton processes.},
+abstract = {Lay Abstract The study of plankton ecology is by nature interdisciplinary, since both biology and physics interact to shape plankton distributions and population dynamics. Small-scale turbulence affects how plankton feed and grow, while kilometer-scale physical features can form large plankton patches. Recent findings also show that, in addition to physics affecting plankton dynamics, plankton may be able to influence ocean physics as well. For example, the fluid motion produced from a copepod swimming in pursuit of food can be detected by nearby organisms and might make it more vulnerable to its predators. The field of plankton biophysics has advanced rapidly in the past several decades, due in large part to technological advances that allow the study of interactions between fluid flow and plankton in their natural environment at smaller scales than ever before. Biophysical interactions in plankton ecology can occur at a wide range of scales: from the scale of individual organisms up to the scale of the world's oceans. In this article, we review biophysical interactions in plankton across a wide range of scales, focusing on the most recent research in the field. In addition, we discuss how these processes are linked with other processes that occur at smaller and larger scales. For example, plankton patches formed by ocean eddies can provide feeding grounds for other organisms, thus influencing global ocean food web dynamics. Finally, we discuss some of the potential effects of long-term changes in global climate, which will affect ocean temperature and stratification, thus regulating the occurrence and intensity of biophysical plankton processes.},
 year = {2012},
 }
 
@@ -1307,18 +1404,18 @@ year={1995},
 
 
 @Article{Scheffer2003,
-author=&#34;Scheffer, Marten
+author="Scheffer, Marten
 and Rinaldi, Sergio
 and Huisman, Jef
-and Weissing, Franz J.&#34;,
-title=&#34;Why plankton communities have no equilibrium: solutions to the paradox&#34;,
-journal=&#34;Hydrobiologia&#34;,
-year=&#34;2003&#34;,
-month=&#34;Jan&#34;,
-day=&#34;01&#34;,
-volume=&#34;491&#34;,
-number=&#34;1&#34;,
-pages=&#34;9--18&#34;,
+and Weissing, Franz J.",
+title="Why plankton communities have no equilibrium: solutions to the paradox",
+journal="Hydrobiologia",
+year="2003",
+month="Jan",
+day="01",
+volume="491",
+number="1",
+pages="9--18",
 }
 
 
@@ -1349,7 +1446,7 @@ pages={555-558},
 
 @ARTICLE{Smith2005,
 author={Smith, V.H. and Foster, B.L. and Grover, J.P. and Holt, R.D. and Leibold, M.A. and DeNoyelles Jr., F.},
-title={Phytoplankton species richness scales consistently from laboratory microcosms to the world&#39;s oceans},
+title={Phytoplankton species richness scales consistently from laboratory microcosms to the world's oceans},
 journal={Proceedings of the National Academy of Sciences of the United States of America},
 year={2005},
 volume={102},
@@ -1447,7 +1544,7 @@ pages={506-519},
 
 @article{Volterra1928,
     author = {Volterra, Vito},
-    title = &#34;{Variations and Fluctuations of the Number of Individuals in Animal Species Living Together}&#34;,
+    title = "{Variations and Fluctuations of the Number of Individuals in Animal Species Living Together}",
     journal = {ICES Journal of Marine Science},
     volume = {3},
     number = {1},
@@ -1466,7 +1563,7 @@ volume = {73},
 number = {6},
 pages = {1984-2000},
 doi = {10.2307/1941449},
-abstract = {Two common features of biological communities are (a) complex interactions among species, which make community dynamics sensitive to initial conditions, and (b) spatial heterogeneity, which fragments large—scale ecological systems into a mosaic of patches, hereafter termed a \say{metacommunity}. This computer simulation study examines the effect of complex interaction on the global and local dynamics of metacommunities. Patches are physically identical and differ only in the initial proportion of species that colonize the patches. The random variation is then magnified by deterministic interactions that cause patches to follow different trajectories based on initial conditions. After a period of interaction, individuals from all patches join in global pool of dispersers that colonize a new &#39;generation&#39; of patches. Complex interactions can have at least two important effects on metacommunity dynamics. First the number of species coexisting in the metacommunity can greatly exceed the number of species coexisting in any single patch, despite the fact that the patches are physically identical, the species do not differ in colonization ability, and stochastic effects are absent after the colonization stage. Second, complex interactions provide a new source of variation upon which natural selection can operate at the patch level, providing a mechanism for the evolution of functionally organized communities.},
+abstract = {Two common features of biological communities are (a) complex interactions among species, which make community dynamics sensitive to initial conditions, and (b) spatial heterogeneity, which fragments large—scale ecological systems into a mosaic of patches, hereafter termed a \say{metacommunity}. This computer simulation study examines the effect of complex interaction on the global and local dynamics of metacommunities. Patches are physically identical and differ only in the initial proportion of species that colonize the patches. The random variation is then magnified by deterministic interactions that cause patches to follow different trajectories based on initial conditions. After a period of interaction, individuals from all patches join in global pool of dispersers that colonize a new 'generation' of patches. Complex interactions can have at least two important effects on metacommunity dynamics. First the number of species coexisting in the metacommunity can greatly exceed the number of species coexisting in any single patch, despite the fact that the patches are physically identical, the species do not differ in colonization ability, and stochastic effects are absent after the colonization stage. Second, complex interactions provide a new source of variation upon which natural selection can operate at the patch level, providing a mechanism for the evolution of functionally organized communities.},
 year = {1992},
 }
 
@@ -1503,9 +1600,6 @@ volume={10},
 number={1},
 art_number={517},
 }
-</code></pre>
-    <footer>
-        <p>©2024 A.S.</p>
-    </footer>
-</body>
-</html>
+
+```
+
