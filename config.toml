@@ -14,3 +14,6 @@ title = "scaralbi's pages"
     name = "About"
     url = "/about"
     weight = 20
+
+[permalinks]
+posts = "/posts/:year/:month/:day/:slug/"

@@ -1,6 +1,7 @@
 ---
 title: Immagini
-
+date: 2016-04-20
+draft: false
 ---
 Tutto vibrazione.  
 Anche il nulla ha anima.  
