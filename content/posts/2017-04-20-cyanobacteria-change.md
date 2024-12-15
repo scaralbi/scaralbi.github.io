@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Climate Change and Cyanobacteria
 
 ---

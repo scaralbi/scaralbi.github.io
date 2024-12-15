@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Spesso il male di vivere ho incontrato
 
 ---

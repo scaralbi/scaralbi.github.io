@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Il giorno più triste del mondo
+
 ---
 
 <audio controls>

@@ -1,6 +1,6 @@
 ---
-layout: post
 title: In and For San Francisco (city/saint)
+
 ---
 
 Inside a transatlantic plane,  

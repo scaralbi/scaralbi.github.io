@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Con te non succede
 
 ---

@@ -1,8 +1,8 @@
 ---
-layout: post
 title: La transizione del sonno
 
 ---
+
 Mi stendo nel letto  
 E la mente riflette  
 Sulle minuzie terrene  

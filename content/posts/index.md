@@ -5,6 +5,8 @@ title: Blog
 
 # Blog Index
 
-* [Posts](/content/posts/)
+* [Content/Posts](/content/posts/)
+* [Posts](/posts/)
+* [Index](/content/posts/index.html)
 
-Try now. 
+

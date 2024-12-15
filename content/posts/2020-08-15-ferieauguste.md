@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Feriae Augustae
+
 ---
 
 Amidst the turmoil of the world   

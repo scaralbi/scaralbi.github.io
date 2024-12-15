@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Thoughts about "Terra"
 
 ---

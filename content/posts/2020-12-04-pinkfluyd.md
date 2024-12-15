@@ -1,6 +1,6 @@
 ---
-layout: post
 title: G Major Pink Fluid
+
 ---
 
 

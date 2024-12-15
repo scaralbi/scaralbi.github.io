@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Sonnet to the Simulator
 
 ---

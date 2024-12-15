@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Da Albione
 
 ---
+
 Come in un diluvio  
 precipito tuonante  
 madido di vita.  

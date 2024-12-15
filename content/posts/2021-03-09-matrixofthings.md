@@ -1,8 +1,8 @@
 ---
-layout: post
 title: The New Beginning
 
 ---
+
 This is the new beginning  
 Where there is no end  
 The key is registering entities  

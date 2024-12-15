@@ -1,12 +1,6 @@
 ---
-layout: post
-title:      “Limoncello”
-#description: ""
-date:       2023-08-03
-author: “scaralbi”
-published: true #or draft
-tags: [“poesia”, “posts”]
-categories: [ “blog” ]
+title: “Limoncello”
+
 ---
 
 Non sempre posso stare a  

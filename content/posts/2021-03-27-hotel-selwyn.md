@@ -1,5 +1,4 @@
 ---
-layout: post
 title: All the things that we did
 
 ---

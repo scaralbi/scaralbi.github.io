@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Homophage
+
 ---
 
 A deadly foe of RNA  

@@ -1,12 +1,7 @@
 ---
-layout: post
-title:      “Grantchester Guitar”
-#description: ""
-date:       2020-06-14
-author: “scaralbi”
-published: true #or draft
-tags: [“musica”, “DJ”]
-categories: [ “blog” ]
+title: Grantchester Guitar
+date: 2020-06-14
+
 ---
  <audio controls>
   <source src="/assets/recs/grantchester-meadows.mp3

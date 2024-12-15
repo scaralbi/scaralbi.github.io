@@ -1,13 +1,6 @@
-
 ---
-layout: post
-title:      “Praetorius, Bransle de villages, Piffero”
-#description: ""
-date:       2024-05-17
-author: “scaralbi”
-published: true #or draft
-tags: [“recorder”, “Praetorius”]
-categories: [ “blog” ]
+title: Praetorius, Bransle de villages, Piffero
+
 ---
 
 # TMA 14 Praetorius M, BRANSLE de VILLAGES

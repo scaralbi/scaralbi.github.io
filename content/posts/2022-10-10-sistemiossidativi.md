@@ -1,12 +1,6 @@
 ---
-layout: post
-title:      “Scaletta Robinson”
-#description: ""
-date:       2022-10-10
-author: “scaralbi”
-published: true #or draft
-tags: [“musica”, “DJ”]
-categories: [ “blog” ]
+title: “Scaletta Robinson”
+
 ---
 
 - Il silenzio del rumore – Franco Battiato 

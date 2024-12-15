@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Peptide-Oligonucleotide Conjugates
 
 ---
+
 Peptide-Oligonucleotide Conjugates (POCs) are nanoscale molecules composed of a nucleic acid moiety covalently attached to a polypeptide moiety [(Williams and Chaput, 2010)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2947322/).  
 ## *How to make NanoPOCs:*  
 Apparently linking DNA and peptides molecules together with covalent bonds is quite easy.

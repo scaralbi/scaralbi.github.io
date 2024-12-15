@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A Mathematical Theory of Communication, Claude Shannon
 
 ---

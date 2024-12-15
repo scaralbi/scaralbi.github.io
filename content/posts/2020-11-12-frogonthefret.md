@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Frog on the Fret
 
 ---

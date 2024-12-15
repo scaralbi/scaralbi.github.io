@@ -1,18 +1,10 @@
 ---
-layout: post
-title:      “Branson gentil”
-#description: ""
-date:       2024-05-30
-author: “scaralbi”
-published: true #or draft
-tags: [“recorder”, “Praetorius”]
-categories: [ “blog” ]
+title: “Branson gentil”
+
 ---
 
 # Praetorius, Bransle Gentil
 Sempre in tema di “Pifferi Barocchi”...
-
-
 
  <audio controls>
   <source src="/assets/recs/PretoriusBransleGentil.mp3" type="audio/mpeg">

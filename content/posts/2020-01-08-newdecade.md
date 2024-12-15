@@ -1,6 +1,6 @@
 ---
-layout: post
 title: 2020
+
 ---
 
 The pleasant start of a new mission.  

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Inno alla Risonanza
 
 ---

@@ -1,6 +1,6 @@
 ---
-layout: post
 title: On the turning away...
+
 ---
 **Traduzione (un po' libera) di una delle mie canzoni preferite: On The Turning Away, Pink Floyd**
 

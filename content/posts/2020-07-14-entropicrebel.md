@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Entropic rebels
+
 ---
+
 We could sense life   
 through the meshwork of space  
 by associative thinking.  

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Abstract Expressionism Across the Membrane
 
 ---

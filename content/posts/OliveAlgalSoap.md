@@ -1,12 +1,6 @@
 ---
-layout: post
-title:      “Olive algal soap”
-#description: ""
-date:       2023-12-24
-author: “scaralbi”
-published: true #or draft
-tags: [“soap”, “posts”]
-categories: [ “blog” ]
+title: “Olive algal soap”
+
 ---
 
 # **BIO SOLAR SOAP**  
