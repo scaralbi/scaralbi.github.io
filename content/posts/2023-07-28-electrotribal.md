@@ -1,6 +1,12 @@
 ---
 layout: post
-title: Retro Synth Amapiano Weird Mix
+title:      “Retro Synth Amapiano Weird Mix”
+#description: ""
+date:       2023-07-28
+author: “scaralbi”
+published: true #or draft
+tags: [“musica”, “DJ”]
+categories: [ “blog” ]
 ---
 
 #  Retro Synth Amapiano Weird Mix

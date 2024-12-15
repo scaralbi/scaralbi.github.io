@@ -1,6 +1,12 @@
 ---
 layout: post
-title: Bamba Pavlova
+title:      “Bamba Pavlova”
+#description: ""
+date:       2022-10-01
+author: “scaralbi”
+published: true #or draft
+tags: [“music”, “recordings”]
+categories: [ “blog” ]
 ---
 
 # Podcast Cri Albi Darius Covid Crazy Bamba Loop (How to Make a Pavlova)

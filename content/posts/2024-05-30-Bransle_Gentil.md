@@ -1,6 +1,12 @@
 ---
 layout: post
-title: Bransle Gentil
+title:      “Branson gentil”
+#description: ""
+date:       2024-05-30
+author: “scaralbi”
+published: true #or draft
+tags: [“recorder”, “Praetorius”]
+categories: [ “blog” ]
 ---
 
 # Praetorius, Bransle Gentil

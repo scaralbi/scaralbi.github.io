@@ -1,6 +1,12 @@
 ---
 layout: post
-title: Die Zufriedenheit Recorder Piffero
+title:      “Zufriedenheit”
+#description: ""
+date:       2022-10-10
+author: “scaralbi”
+published: true #or draft
+tags: [“piffero”, “recorder”]
+categories: [ “blog” ]
 ---
 
 <audio controls>

@@ -1,9 +1,13 @@
 ---
 layout: post
-title: Grantchester PK Guitar
+title:      “Grantchester Guitar”
+#description: ""
+date:       2020-06-14
+author: “scaralbi”
+published: true #or draft
+tags: [“musica”, “DJ”]
+categories: [ “blog” ]
 ---
-
-
  <audio controls>
   <source src="/assets/recs/grantchester-meadows.mp3
 " type="audio/mpeg">

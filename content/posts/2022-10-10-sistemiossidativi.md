@@ -1,28 +1,34 @@
 ---
-title: Scaletta Robinson College
+layout: post
+title:      “Scaletta Robinson”
+#description: ""
+date:       2022-10-10
+author: “scaralbi”
+published: true #or draft
+tags: [“musica”, “DJ”]
+categories: [ “blog” ]
 ---
 
+- Il silenzio del rumore – Franco Battiato 
 
-- Il silenzio del rumore – Franco Battiato
+- Dolce Veleno – Tamburi Neri (o alghe) 
 
-- Dolce Veleno – Tamburi Neri (o alghe)
+- Terminal Clock – Caterina Barbieri   
 
-- Terminal Clock – Caterina Barbieri 
+- Agolo – Angelique Gudzo +Cavallina -Adiel, Donato Dozzi (o alghe)  
 
-- Agolo – Angelique Gudzo +Cavallina -Adiel, Donato Dozzi (o alghe)
+- Sun is Coming - Sajanksa   
 
-- Sun is Coming - Sajanksa 
+- The lost ring = Beenti  
 
-- The lost ring = Beenti
+- Watermelon man – Herbie Hancock  
 
-- Watermelon man – Herbie Hancock
+- Flauto magico – Tamburi Neri  
 
-- Flauto magico – Tamburi Neri
+- Tarocchi – Chancha Via Circuito  
 
-- Tarocchi – Chancha Via Circuito
+- Musica – Joe Kitikonti  
 
-- Musica – Joe Kitikonti
-
-- Coming in hot – Gallegos
+- Coming in hot – Gallegos  
 
 

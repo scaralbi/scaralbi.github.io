@@ -1,10 +1,15 @@
 ---
 layout: post
-title: Just Give Me a Reason (Pink) - Recorder Cover
+title:      “Just give me a recorder”
+#description: ""
+date:       2023-11-01
+author: “scaralbi”
+published: true #or draft
+tags: [“recorder”, “piffero”]
+categories: [ “blog” ]
 ---
 
 # Just Give Me a Reason (Pink) - Recorder Cover
-
 
 
  <audio controls>

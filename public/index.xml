@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>scaralbi&#39;s pages</title>
-    <link>http://localhost:1313/</link>
+    <link>https://scaralbi.github.io/</link>
     <description>Recent content on scaralbi&#39;s pages</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://scaralbi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2016-2020</title>
-      <link>http://localhost:1313/research/undergrad/</link>
+      <link>https://scaralbi.github.io/research/undergrad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/undergrad/</guid>
+      <guid>https://scaralbi.github.io/research/undergrad/</guid>
       <description>&lt;h1 id=&#34;biotechnology-synthetic-and-systems-biology-imperial&#34;&gt;Biotechnology, Synthetic and Systems Biology @Imperial&lt;/h1&gt;&#xA;&lt;p&gt;I developed a passion for &lt;a href=&#34;https://en.wikipedia.org/wiki/Synthetic_biology&#34;&gt;synthetic&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Systems_biology&#34;&gt;systems biology&lt;/a&gt;: two fields of research that aim to engineer and deconstruct living systems in order to understand their assembly logic.&#xA;I am now trying to apply those principles to study how and why certain bacteria are able to sense and generate electrical signals when living in &lt;a href=&#34;https://en.wikipedia.org/wiki/Biofilm&#34;&gt;biofilms&lt;/a&gt;.&#xA;In particular, I am curious about the molecular mechanisms and genetic components that allow &lt;a href=&#34;https://en.wikipedia.org/wiki/Cyanobacteria&#34;&gt;cyanobacteria&lt;/a&gt; to produce electricity from sunlight, air and water (in so-called &lt;a href=&#34;https://en.wikipedia.org/wiki/Biological_photovoltaics&#34;&gt;biophotovoltaic devices&lt;/a&gt;).&#xA;I am also keen about developing biophysical techniques to investigate how the evolution of electrical signalling in structured communities of &lt;a href=&#34;https://en.wikipedia.org/wiki/Exoelectrogen&#34;&gt;exoelectrogenic&lt;/a&gt; photosynthetic bacteria contributes to the emergence of collective properties.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://scaralbi.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://scaralbi.github.io/about/</guid>
       <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;&#xA;&lt;p&gt;Who am I ? What is life ? What is &amp;ldquo;morality&amp;rdquo; ?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/posts/</link>
+      <link>https://scaralbi.github.io/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/</guid>
-      <description>&lt;h1 id=&#34;blog-index&#34;&gt;Blog Index&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/content/posts/&#34;&gt;Posts&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Try now.&lt;/p&gt;</description>
+      <guid>https://scaralbi.github.io/posts/</guid>
+      <description>&lt;h1 id=&#34;blog-index&#34;&gt;Blog Index&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://scaralbi.github.io/content/posts/&#34;&gt;Posts&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Try now.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Coding</title>
-      <link>http://localhost:1313/resources/resources/</link>
+      <link>https://scaralbi.github.io/resources/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/resources/</guid>
+      <guid>https://scaralbi.github.io/resources/resources/</guid>
       <description>&lt;h2 id=&#34;this-is-an-archive-of-scripts-and-possibly-incomplete-documentation&#34;&gt;&lt;em&gt;This is an archive of scripts and possibly incomplete documentation&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;h1 id=&#34;code&#34;&gt;Code&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://cakelabdna.github.io/2768cd316e26196a473a415dc9bdb2c707f1dbd4/index.html&#34;&gt;GoldenGate Calculator&lt;/a&gt;&#xA;Online calculator for DNA Assembly.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/12G5TwARG7o5OzgPICj9YPiSczuWmx1yngZYTKdHQzaY/edit#gid=683324272&amp;amp;range=A1:J15&#34;&gt;Assembly Report&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;matlab-scripts&#34;&gt;MATLAB Scripts&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/scaralbi/plankton-simulator&#34;&gt;Plankton Simulator&lt;/a&gt;&#xA;The plankton-simulator is a collection of matlab scripts simulating the dynamics of structured microbial communities.&#xA;The simulator is based on a multiscale biophysical model that incorporates species traits, consumer-resource dynamics and stochastic ecosystem assembly.&#xA;The model hierarchically simulates features of ecosystem at different scales by defining three classes in the ecosystem using object-oriented programming in MATLAB: Species, Demes (spatially-isolated subcompartments) and Plankton (collection of Demes).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/scaralbi/plankton-simulator/blob/master/flowchart.png?raw=true&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resources</title>
-      <link>http://localhost:1313/resources/calculators/molbio-calculators/</link>
+      <link>https://scaralbi.github.io/resources/calculators/molbio-calculators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/calculators/molbio-calculators/</guid>
+      <guid>https://scaralbi.github.io/resources/calculators/molbio-calculators/</guid>
       <description>&lt;h1 id=&#34;molecular-biology-calculators&#34;&gt;Molecular Biology calculators&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://cakelabdna.github.io/2768cd316e26196a473a415dc9bdb2c707f1dbd4/index.html&#34;&gt;GoldenGate Calculator&lt;/a&gt;&#xA;Online calculator for DNA Assembly.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/12G5TwARG7o5OzgPICj9YPiSczuWmx1yngZYTKdHQzaY/edit#gid=683324272&amp;amp;range=A1:J15&#34;&gt;Assembly Report&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>

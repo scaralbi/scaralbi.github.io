@@ -1,9 +1,13 @@
 ---
 layout: post
-title: Microkorg + Electric Guitar 
- 
+title:      “MicroKorg + Electric Guitar”
+#description: ""
+date:       2021-01-06
+author: “scaralbi”
+published: true #or draft
+tags: [“musica”, “DJ”]
+categories: [ “blog” ]
 ---
-
 
 
 <audio controls>
