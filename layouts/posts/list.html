@@ -1,11 +1,11 @@
 {{ define "main" }}
-  <h1>Posts</h1>
-  <ul>
+  <h1>Blog Posts</h1>
+  <ul class="post-list">
   {{ range .Pages.ByDate.Reverse }}
-    <li>
+    <li class="post-item">
+      <span class="post-date">{{ .Date.Format "Jan 2, 2006" }}</span>
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      <br>
-      {{ .Summary }}
+      <div class="post-summary">{{ .Summary }}</div>
     </li>
   {{ end }}
   </ul>

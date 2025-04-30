@@ -1,19 +1,28 @@
 baseURL = "https://scaralbi.github.io/"
-languageCode = 'en-gb'
-title = "scaralbi's pages"
+languageCode = "en-us"
+title = "scaralbi"
+
+[permalinks]
+  posts = "/:year/:month/:title/"
 
 [menu]
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts"
-    weight = 10
-
+    name = "Home"
+    url = "/"
+    weight = 1
   [[menu.main]]
-    identifier = "about"
     name = "About"
-    url = "/about"
-    weight = 20
-
-[permalinks]
-posts = "/posts/:year/:month/:day/:slug/"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 4
+  [[menu.main]]
+    name = "Resources"
+    url = "/resources/"
+    weight = 5

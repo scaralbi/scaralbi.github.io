@@ -1,12 +1,7 @@
 ---
 title: Blog
-
 ---
 
-# Blog Index
+# Blog
 
-* [Content/Posts](/content/posts/)
-* [Posts](/posts/)
-* [Index](/content/posts/index.html)
-
-
+Welcome to my blog where I share random expressionisms of my membranes...music, poetry, and more.
