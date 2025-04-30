@@ -7,7 +7,6 @@ title: "scaralbi"
 * [Blog](/posts/)
 * [Research](/research/)  
 * [Resources](/resources/)
-
 ---
 
 # What is this ?
@@ -16,6 +15,7 @@ I use it to store and share information.
 
 ```
 Homo liber nulla de re minus quam de morte cogitat; et ejus sapientia non mortis sed vitae meditatio est.  
+[Spinoza]
 ```
 --
 ```
