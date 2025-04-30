@@ -2,16 +2,32 @@ baseURL = "https://scaralbi.github.io/"
 languageCode = "en-us"
 title = "scaralbi"
 
-[permalinks]
-  posts = "/:year/:month/:title/"
+# Enable GitHub Pages compatibility
+publishDir = "docs"  # GitHub Pages with custom domain needs "docs" folder
 
+# Make sure raw HTML works (to fix those warnings)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Create proper permalinks for your blog posts
+[permalinks]
+  posts = "/posts/:year/:month/:filename/"
+
+# Enable taxonomies for categorizing your music and poetry
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Add menu for navigation
 [menu]
   [[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "About"
+    name = "About" 
     url = "/about/"
     weight = 2
   [[menu.main]]

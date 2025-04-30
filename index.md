@@ -2,7 +2,6 @@
 title: "scaralbi"
 
 ---
-# Index
 * [About](/about/)
 * [Blog](/posts/)
 * [Research](/research/)  
@@ -30,5 +29,6 @@ What is life if not extracting electrons from something and use them to generate
 
 ## Disclaimer
 This website was created under the terms of the open-source [MIT license](https://opensource.org/licenses/MIT).  
-
-Follow me @scaralbi
+If there are any issues, please reach out 
+@scaralbi   
+https://www.youtube.com/@alscaful/
