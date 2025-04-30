@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scaralbi&#39;s pages</title>
+    <title>scaralbi</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on scaralbi&#39;s pages</description>
+    <description>Recent content on scaralbi</description>
     <generator>Hugo</generator>
-    <language>en-gb</language>
+    <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -19,7 +19,7 @@
       <link>http://localhost:1313/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/</guid>
-      <description>&lt;h1 id=&#34;blog-index&#34;&gt;Blog Index&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/content/posts/&#34;&gt;Content/Posts&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/&#34;&gt;Posts&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/content/posts/index.html&#34;&gt;Index&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h1 id=&#34;blog&#34;&gt;Blog&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my blog where I share random expressionisms of my membranes&amp;hellip;music, poetry, and more.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Coding</title>
@@ -33,7 +33,7 @@
       <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
-      <description>&lt;h1 id=&#34;research-index&#34;&gt;Research Index&lt;/h1&gt;&#xA;&lt;h2 id=&#34;undergradateresearchundergrad&#34;&gt;&lt;a href=&#34;http://localhost:1313/research/undergrad/&#34;&gt;Undergradate&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;postgraduatepostgrad&#34;&gt;&lt;a href=&#34;http://localhost:1313/postgrad/&#34;&gt;Postgraduate&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;postdocpostdoc&#34;&gt;&lt;a href=&#34;http://localhost:1313/postdoc/&#34;&gt;Postdoc&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/assets/algalsoap.png&#34; alt=&#34;cyanoworld&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;research-index&#34;&gt;Research Index&lt;/h1&gt;&#xA;&lt;h2 id=&#34;undergradate&#34;&gt;&lt;a href=&#34;http://localhost:1313/research/undergrad/&#34;&gt;Undergradate&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;postgraduate&#34;&gt;&lt;a href=&#34;http://localhost:1313/postgrad/&#34;&gt;Postgraduate&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;postdoc&#34;&gt;&lt;a href=&#34;http://localhost:1313/postdoc/&#34;&gt;Postdoc&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/assets/algalsoap.png&#34; alt=&#34;cyanoworld&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resources</title>
