@@ -2,12 +2,11 @@
 title: Praetorius, Bransle de villages, Piffero
 layout: post
 date: 2024-05-17
+tags: ["music", "piffero"]
 
 ---
 
-# TMA 14 Praetorius M, BRANSLE de VILLAGES
-
-
+**TMA 14 Praetorius M, BRANSLE de VILLAGES**
 Piffero + Clavicembalo    
 ---   
 
