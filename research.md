@@ -2,6 +2,7 @@
 title: Research
 layout: page
 ---
+
 # Biotechnology, Synthetic and Systems Biology @Imperial
 
 I developed a passion for [synthetic](https://en.wikipedia.org/wiki/Synthetic_biology) and [systems biology](https://en.wikipedia.org/wiki/Systems_biology): two fields of research that aim to engineer and deconstruct living systems in order to understand their assembly logic. 
