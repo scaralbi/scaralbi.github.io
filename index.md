@@ -2,7 +2,9 @@
 title: "scaralbi"
 
 ---
+
 # Website
+
 * [About](/content/about/)
 * [Blog](/content/posts/)
 * [Research](/content/research/)  
@@ -12,4 +14,5 @@ title: "scaralbi"
 
 ![Blue](assets/blue.png)
 
+--------------------------------------------------------
 A.S.™ 2025 
