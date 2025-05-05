@@ -1,5 +1,7 @@
 ---
 title: Fantasticherie Incoerenti
+layout: post
+date: 2017-08-19
 
 ---
 

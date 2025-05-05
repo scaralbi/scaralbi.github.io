@@ -1,6 +1,8 @@
 ---
 title: Loop in C Major
 layout: post
+date: 2020-10-10
+tags: ["music", "jamming"]
 
 ---
 

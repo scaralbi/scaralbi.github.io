@@ -1,6 +1,7 @@
 ---
 title: Summer 2019 Report
 layout: post
+date: 2019-07-19
 
 ---
 

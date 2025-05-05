@@ -1,6 +1,7 @@
 ---
 title: Electrogenetics
 layout: post
+date: 2018-11-14
 
 ---
 

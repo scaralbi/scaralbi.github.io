@@ -1,6 +1,7 @@
 ---
 title: Decadenza o Rinascimento ?
 layout: post
+date: 2018-07-25
 
 ---
 

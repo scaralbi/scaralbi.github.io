@@ -1,6 +1,8 @@
 ---
 title: Frog on the Fret
 layout: post
+date: 2020-11-12
+tags: ["music", "jamming"]
 
 ---
 

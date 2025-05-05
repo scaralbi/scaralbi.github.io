@@ -2,6 +2,8 @@
 title: Immagini
 date: 2016-04-20
 layout: post
+tags: [poesia, ita]
+
 ---
 Tutto vibrazione.  
 Anche il nulla ha anima.  

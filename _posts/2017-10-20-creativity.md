@@ -1,6 +1,7 @@
 ---
 title: About originality
 layout: post
+date: 2017-10-20
 
 ---
 

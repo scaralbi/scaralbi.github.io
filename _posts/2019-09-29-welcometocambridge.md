@@ -1,6 +1,7 @@
 ---
 title: My new room in Cambridge
 layout: post
+date: 2019-09-29
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Spesso il male di vivere ho incontrato
 layout: post
+date: 2018-11-19
 
 ---
 

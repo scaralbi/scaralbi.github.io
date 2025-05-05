@@ -1,6 +1,8 @@
 ---
 title: All the things that we did
 layout: post
+date: 2021-03-27
+tags: ["music", "jamming"]
 
 ---
 

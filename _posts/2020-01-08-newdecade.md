@@ -1,6 +1,7 @@
 ---
 title: 2020
 layout: post
+date: 2020-01-08
 
 ---
 

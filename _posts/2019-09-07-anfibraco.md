@@ -1,6 +1,7 @@
 ---
 title: Trimetro Anapestico
 layout: post
+date: 2019-09-07
 
 ---
 

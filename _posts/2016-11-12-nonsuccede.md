@@ -1,6 +1,8 @@
 ---
 title: Con te non succede
 layout: post
+date: 2016-11-12
+tags: ["poesia", "ita"]
 
 ---
 Sono le 5 di pomeriggio   

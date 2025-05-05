@@ -1,6 +1,7 @@
 ---
 title: Reiziano Ipercatalettico
 layout: post
+date: 2019-09-08
 
 ---
 

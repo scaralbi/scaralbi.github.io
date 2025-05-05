@@ -1,6 +1,7 @@
 ---
 title: Inno alla Risonanza
 layout: post
+date: 2020-04-28
 
 ---
 

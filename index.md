@@ -6,9 +6,9 @@ title: "scaralbi"
 # Website
 
 * [About](/about)
-* [Blog](/blog/)
-* [Research](/research.md)  
-* [Resources](/resources.html)
+* [Blog](/blog)
+* [Research](/research)  
+* [Resources](/resources)
 
 
 

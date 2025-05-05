@@ -1,11 +1,12 @@
 ---
 title: “Bamba Pavlova”
 layout: post
+date: 2022-10-01
+tags: ["music", "jamming"]
 
 ---
 
-# Podcast Cri Albi Darius Covid Crazy Bamba Loop (How to Make a Pavlova)
-
+Podcast Cri Albi Darius - Selwyn Gardens in Lockdown.... Crazy Bamba Loop (How to Make a Pavlova)
 
 
  <audio controls>

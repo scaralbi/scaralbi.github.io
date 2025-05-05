@@ -1,6 +1,7 @@
 ---
 title: Thoughts about "Terra"
 layout: post
+date: 2017-04-30
 
 ---
 I have just finished watching the documentary "Terra", narrated by the great Sir David Attenborough. Below is just what I think.

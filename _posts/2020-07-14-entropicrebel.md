@@ -1,6 +1,8 @@
 ---
 title: Entropic rebels
 layout: post
+date: 2020-07-14
+tags: ["poetry", "eng"]
 
 ---
 

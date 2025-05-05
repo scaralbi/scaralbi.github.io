@@ -1,6 +1,8 @@
 ---
 title: Gabbia dorata
 layout: post
+date: 2016-08-29
+tags: [poesia, ita]
 
 ---
 Siamo ali diverse  

@@ -1,6 +1,7 @@
 ---
 title: La Simulazione
 layout: post
+date: 2016-11-13
 
 ---
 Ci sono momenti   

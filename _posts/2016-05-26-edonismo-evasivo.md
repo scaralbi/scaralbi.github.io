@@ -1,6 +1,8 @@
 ---
 title: Edonismo Evasivo
 layout: post
+date: 2016-05-26
+tags: [poesia, ita]
 
 ---
 Il teatro che parla di me  

@@ -1,6 +1,8 @@
 ---
 title: On the turning away...
 layout: post
+date: 2020-05-17
+tags: ["poesia", "ita"]
 
 ---
 **Traduzione (un po' libera) di una delle mie canzoni preferite: On The Turning Away, Pink Floyd**

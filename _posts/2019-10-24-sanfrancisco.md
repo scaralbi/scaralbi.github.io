@@ -1,6 +1,7 @@
 ---
 title: In and For San Francisco (city/saint)
 layout: post
+date: 2019-10-24
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Climate Change and Cyanobacteria
 layout: post
+date: 2017-04-20
 
 ---
 When I think about the future, a feeling of fear and excitement arises. Yet I always live in the same moment. Life is a process of adding up, looking at the terminal values of a function and calculating the average. It is just an autopoietic network. We feel alive because of the properties emerging from the millions of reactions happening in every cell. However I still hope to escape the cold determinism that is dictated by this point of view. By thinking and connecting all the thought into a theory, by formalising the actions and bureaucratising the ways of thinkin, humans rationalised the world. We imposed to the world a new change, as did several forms of life before us. For example, cyanobacteria literally oxygenated the world. Before them, Earth had no oxygen. Through the new evolutionary tool of photosynthesis, they converted carbon dioxide and water into oxygen. Earth was soon surrounded by our favourite bimolecular drug.

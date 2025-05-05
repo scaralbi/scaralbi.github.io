@@ -1,6 +1,7 @@
 ---
 title: Sonnet to the Simulator
 layout: post
+date: 2019-08-28
 
 ---
 

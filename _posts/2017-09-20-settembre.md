@@ -1,6 +1,7 @@
 ---
 title: Non so stare fermo
 layout: post
+date: 2017-09-20
 
 ---
 

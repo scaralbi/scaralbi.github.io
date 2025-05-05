@@ -2,6 +2,7 @@
 title: Grantchester Guitar
 date: 2020-06-14
 layout: post
+tags: ["music", "jamming"]
 
 ---
  <audio controls>

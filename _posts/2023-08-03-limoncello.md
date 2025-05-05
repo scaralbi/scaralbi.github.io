@@ -1,7 +1,7 @@
 ---
 title: "Limoncello"
 date: 2023-08-03
-tags: ["poetry", "ita"]
+tags: ["poesia", "ita"]
 ---
 
 Non sempre posso stare a  

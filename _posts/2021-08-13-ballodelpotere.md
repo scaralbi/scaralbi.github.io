@@ -1,6 +1,8 @@
 ---
 title: Il Ballo del Potere
 layout: post
+date: 2021-08-13
+tags: ["music", "jamming"]
 
 ---
 

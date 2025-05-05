@@ -1,6 +1,8 @@
 ---
 title: G Major Pink Fluid
 layout: post
+date: 2020-12-04
+tags: ["music", "jamming"]
 
 ---
 

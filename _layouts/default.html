@@ -10,7 +10,11 @@
   <header>
     <nav>
       <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about' | relative_url }}">About</a>
       <a href="{{ '/blog' | relative_url }}">Blog</a>
+      <a href="{{ '/research' | relative_url }}">Research</a>
+      <a href="{{ '/resources' | relative_url }}">Resources</a>
+
       <!-- Add more navigation links as needed -->
     </nav>
   </header>
@@ -20,7 +24,7 @@
   </main>
 
   <footer>
-    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.©️</p>
   </footer>
 </body>
 </html>

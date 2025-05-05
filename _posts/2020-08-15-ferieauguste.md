@@ -1,6 +1,8 @@
 ---
 title: Feriae Augustae
 layout: post
+date: 2020-08-15
+tags: ["poesia", "ita"]
 
 ---
 

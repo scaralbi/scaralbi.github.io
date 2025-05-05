@@ -1,6 +1,7 @@
 ---
 title: A flow of Information
 layout: post
+date: 2017-12-24
 
 ---
 

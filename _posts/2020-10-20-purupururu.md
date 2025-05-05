@@ -1,6 +1,8 @@
 ---
 title: Indie della Domenica
 layout: post
+date: 2020-10-20
+tags: ["music", "jamming", "ita"]
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: A Mathematical Theory of Communication, Claude Shannon
 layout: post
+date: 2019-04-20
 
 ---
 

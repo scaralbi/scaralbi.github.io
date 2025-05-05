@@ -1,6 +1,7 @@
 ---
 title: Fine di un'era
 layout: post
+date: 2019-06-16
 
 ---
 

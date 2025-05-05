@@ -1,6 +1,7 @@
 ---
 title: Abstract Expressionism Across the Membrane
 layout: post
+date: 2018-06-04
 
 ---
 
