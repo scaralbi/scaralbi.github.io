@@ -5,10 +5,10 @@ title: "scaralbi"
 
 # Website
 
-* [About](/content/about/)
-* [Blog](/content/posts/)
-* [Research](/content/research/)  
-* [Resources](/content/resources/)
+* [About](/about)
+* [Blog](/blog/)
+* [Research](/research.md)  
+* [Resources](/resources.html)
 
 
 

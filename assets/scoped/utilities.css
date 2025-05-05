@@ -1,9 +1,0 @@
-/* A bunch of shit I need.
- */
-
-/* Fix overflow in grids by setting min-width to 0.
- * <https://datacadamia.com/web/css/overflow>
- */
-.grid-fix-overflow-min-width-0 {
-  min-width: 0;
-}

@@ -1,0 +1,35 @@
+title: Albi's Website
+description: Personal website and blog
+url: https://scaralbi.github.io
+baseurl: ""
+
+# Blog settings
+permalink: /blog/:year/:month/:day/:title/
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+# Default front matter for posts
+defaults:
+  - 
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Albi"
+
+# Building settings
+markdown: kramdown
+
+# Tag pages
+jekyll-archives:
+  enabled:
+    - tags
+  layouts:
+    tag: tag
+  permalinks:
+    tag: '/tags/:name/'
