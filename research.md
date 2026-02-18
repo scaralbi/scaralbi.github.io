@@ -41,17 +41,15 @@ layout: page
 
 ---
 
-# Research
 
 ## Postdoc: Microbial Community Assembly (2024–present)
 
-*University of Warwick, [Soyer Lab](https://www.soyer-lab.com/) · Gordon and Betty Moore Foundation "Symbiosis in Aquatic Systems"*
+*University of Warwick, [Soyer Lab](https://warwick.ac.uk/fac/sci/lifesci/research/osslab/) · Gordon and Betty Moore Foundation "Symbiosis in Aquatic Systems"*
 
 I am currently a Research Fellow at Warwick, working on understanding the interplay between microbial interactions and spatial organisation in photosynthetic communities. Using a combination of metagenomics, controlled laboratory enrichments, and computational analysis, I study how microbial communities assemble and whether their composition is predictable.
 
-A central finding from this work is that photosynthetic communities from distinct environmental sources converge to functionally similar states when cultured under defined conditions — suggesting that community assembly is **deterministic at the functional level**, even when taxonomic composition varies. The key drivers appear to be nitrogen availability, vitamins, and light regime. I have built reproducible Snakemake/anvi'o pipelines for metagenomic assembly, binning, and functional annotation on HPC clusters, and developed a contig-level metabolic profiling approach that enables robust cross-sample comparison independently of genome recovery.
+A central finding from this work ([preprint on bioRxiv](https://doi.org/10.64898/2026.02.11.705344)) is that photosynthetic communities from distinct environmental sources converge to functionally similar states when cultured under defined conditions, suggesting that community assembly is **deterministic at the functional level**, even when taxonomic composition varies. The key drivers appear to be nitrogen availability, vitamins, and light regime. I have built reproducible Snakemake/anvi'o pipelines for metagenomic assembly, binning, and functional annotation on HPC clusters, and developed a contig-level metabolic profiling approach that enables robust cross-sample comparison independently of genome recovery.
 
-This work has been submitted to *PNAS* ([preprint on bioRxiv](https://doi.org/10.64898/2026.02.11.705344)).
 
 ---
 
