@@ -111,11 +111,11 @@ The script generates a circular diagram of a genome with the given strain and re
 
 ## Old texts and manuscripts
 
-* [Aristotle, *Historia Animalium* 9.36.20, translated by D'Arcy Wentworth Thompson, 1910](/OldTexts/Aristotle_ HistoryofAnimals_IX.html)
+* [Aristotle, *Historia Animalium* 9.36.20, translated by D'Arcy Wentworth Thompson, 1910](/assets/OldTexts/Aristotle_ HistoryofAnimals_IX.html)
 
-* [Historical references on bioelectrochemistry](/OldTexts/Historical_Pills_Bioelectrochemistry.md)
+* [Historical references on bioelectrochemistry](/assets/OldTexts/Historical_Pills_Bioelectrochemistry.md)
 
-* [ISAAC NEWTON’S GENERAL SCHOLIUM TO THE PRINCIPIA (1713, 1726)](/OldTexts/brief-guide-to-the-general-scholium-a4.pdf)
+* [ISAAC NEWTON’S GENERAL SCHOLIUM TO THE PRINCIPIA (1713, 1726)](/assets/OldTexts/brief-guide-to-the-general-scholium-a4.pdf)
 
 
 ## Essays and lecture notes
@@ -123,49 +123,49 @@ The script generates a circular diagram of a genome with the given strain and re
 
 ### Genetics, molecular, synthetic biology and biotechnology
 
-* [Molecular Biology](/pdfs/molecularbiology.pdf)
-* [GMO Papayas](/pdfs/papayaogm.pdf)
-* [Plant Biotechnology](/pdfs/plantbiotech.pdf)
-* [Bacterial Genetics](/pdfs/bacterialgenetics.pdf)
-* [Genes and Genomes](/pdfs/genesandgenomes.pdf)
-* [Genomic Manipulation](/pdfs/GenomicManipulation.pdf)
-* [Molecular Biology of The Chloroplast, Peter Nixon](/pdfs/Nixon1.pdf)
-* [Systems Biology](/pdfs/isb.pdf)
-* [Biophysics, Robert Endres](/pdfs/Lecture_biophysics.pdf)
-* [Biophysics, Robert Endres](/pdfs/Lecture_biophysics.pdf)
-* [Dynamics in Gene Regulation, Robert Endres](/pdfs/Lecture_dynamics.pdf)
-* [Mathematical Modelling in Biology](/pdfs/Lecture_modelling.pdf)
-* [Quantitative imaging of cell topology](/pdfs/quantitativeimaginf.pdf)
-* [Synthetic Biology](/pdfs/SynBio.pdf)
-* [Synthetic Genomics, Tom Ellis](/pdfs/Parts.pdf)
-* [Bacterial Logic Gates, Tom Ellis](/pdfs/SynBio.pdf)
-* [Part Libraries in SynBio, Tom Ellis](/pdfs/Parts.pdf)
-* [Optogenetics, Mark Isalan](/pdfs/Parts.pdf)
-* [Advanced Synthetic Biology Applications: Pattern Formation, Mark Isalan](/pdfs/Parts.pdf)
-* [Synthetic Biology IC Exam 15-16](/pdfs/SynbioExam2015-16.pdf)
+* [Molecular Biology](/assets/pdfs/molecularbiology.pdf)
+* [GMO Papayas](/assets/pdfs/papayaogm.pdf)
+* [Plant Biotechnology](/assets/pdfs/plantbiotech.pdf)
+* [Bacterial Genetics](/assets/pdfs/bacterialgenetics.pdf)
+* [Genes and Genomes](/assets/pdfs/genesandgenomes.pdf)
+* [Genomic Manipulation](/assets/pdfs/GenomicManipulation.pdf)
+* [Molecular Biology of The Chloroplast, Peter Nixon](/assets/pdfs/Nixon1.pdf)
+* [Systems Biology](/assets/pdfs/isb.pdf)
+* [Biophysics, Robert Endres](/assets/pdfs/Lecture_biophysics.pdf)
+* [Biophysics, Robert Endres](/assets/pdfs/Lecture_biophysics.pdf)
+* [Dynamics in Gene Regulation, Robert Endres](/assets/pdfs/Lecture_dynamics.pdf)
+* [Mathematical Modelling in Biology](/assets/pdfs/Lecture_modelling.pdf)
+* [Quantitative imaging of cell topology](/assets/pdfs/quantitativeimaginf.pdf)
+* [Synthetic Biology](/assets/pdfs/SynBio.pdf)
+* [Synthetic Genomics, Tom Ellis](/assets/pdfs/Parts.pdf)
+* [Bacterial Logic Gates, Tom Ellis](/assets/pdfs/SynBio.pdf)
+* [Part Libraries in SynBio, Tom Ellis](/assets/pdfs/Parts.pdf)
+* [Optogenetics, Mark Isalan](/assets/pdfs/Parts.pdf)
+* [Advanced Synthetic Biology Applications: Pattern Formation, Mark Isalan](/assets/pdfs/Parts.pdf)
+* [Synthetic Biology IC Exam 15-16](/assets/pdfs/SynbioExam2015-16.pdf)
 
 ### Biochemistry
 
-* [Structure of the Nicotine Receptor](/pdfs/nAChR.pdf)
-* [Neurobiology](/pdfs/Neuro.pdf)
-* [Proteins and Enzymes](/pdfs/PROTEINS AND ENZYMES 1-7)
-* [Enzymology 1](/pdfs/ENZYMOLOGY)
-* [Enzymology 2](/pdfs/ENZYMOLOGY2)
-* [DNA Repair](/pdfs/DNArepair.pdf)
-* [Bacterial Genetics](/pdfs/bacterialgenetics.pdf)
-* [Tryptophan Operon in *B.subtilis*](/pdfs/genesandgenomes.pdf)
-* [Bioinformatics](/pdfs/Bioinformatics.pdf)
-* [Proteomics](/pdfs/Proteomics.pdf)
-* [Protein Folding](/pdfs/proteinfolding.pdf)
-* [Biological NMR Spectroscopy](/pdfs/NMR.pdf)
-* [Cryo-EM](/pdfs/CRYO-EM.pdf)
+* [Structure of the Nicotine Receptor](/assets/pdfs/nAChR.pdf)
+* [Neurobiology](/assets/pdfs/Neuro.pdf)
+* [Proteins and Enzymes](/assets/pdfs/PROTEINS AND ENZYMES 1-7)
+* [Enzymology 1](/assets/pdfs/ENZYMOLOGY)
+* [Enzymology 2](/assets/pdfs/ENZYMOLOGY2)
+* [DNA Repair](/assets/pdfs/DNArepair.pdf)
+* [Bacterial Genetics](/assets/pdfs/bacterialgenetics.pdf)
+* [Tryptophan Operon in *B.subtilis*](/assets/pdfs/genesandgenomes.pdf)
+* [Bioinformatics](/assets/pdfs/Bioinformatics.pdf)
+* [Proteomics](/assets/pdfs/Proteomics.pdf)
+* [Protein Folding](/assets/pdfs/proteinfolding.pdf)
+* [Biological NMR Spectroscopy](/assets/pdfs/NMR.pdf)
+* [Cryo-EM](/assets/pdfs/CRYO-EM.pdf)
 
 ### Albi’s essays
 
-* [Prospects for the Development of Cyanobacterial Biofilm Bioreactors](/pdfs/prospects-development-cyanobacterial.pdf)
-* [Human Practices in Synthetic Biology](/pdfs/humanpractices.pdf)
-* [Economics Thought in Italy Before WWII](/pdfs/economics-italy.pdf)
-* [Ricordi d'Africa: La Seconda Battaglia di El Alamein](/pdfs/ricordiafrica.pdf)
+* [Prospects for the Development of Cyanobacterial Biofilm Bioreactors](/assets/pdfs/prospects-development-cyanobacterial.pdf)
+* [Human Practices in Synthetic Biology](/assets/pdfs/humanpractices.pdf)
+* [Economics Thought in Italy Before WWII](/assets/pdfs/economics-italy.pdf)
+* [Ricordi d'Africa: La Seconda Battaglia di El Alamein](/assets/pdfs/ricordiafrica.pdf)
 
 # Posters
 

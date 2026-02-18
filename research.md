@@ -3,15 +3,94 @@ title: Research
 layout: page
 ---
 
-# Biotechnology, Synthetic and Systems Biology @Imperial
+# Publications
 
+*[Google Scholar](https://scholar.google.com/citations?user=C8ldqvkAAAAJ&hl=en) · 150+ citations*
+
+### Peer-reviewed
+
+- **Scarampi, A.**, Lawrence, J.M., Bombelli, P., Kosmützky, D., Zhang, J.Z., Howe, C.J. (2025). Polyploid cyanobacterial genomes provide a reservoir of mutations, allowing rapid evolution of herbicide resistance. *Current Biology*, 35(7), 1549–1561.e3. [DOI](https://doi.org/10.1016/j.cub.2025.02.044)
+
+- Lawrence, J.M., Albertini, E., **Scarampi, A.**, Bombelli, P., Giron, L.B., Kuzmich, L., Howe, C.J. (2024). Algal biomusic generation. *Applied Phycology*, 5(1). [DOI](https://doi.org/10.1080/26388081.2024.2434476)
+
+- Lawrence, J.M., Egan, R.M., Hoefer, T., **Scarampi, A.**, Shang, L., Howe, C.J., Zhang, J.Z. (2023). Rewiring photosynthetic electron transport chains for solar energy conversion. *Nature Reviews Bioengineering*, 1, 887–905. [DOI](https://doi.org/10.1038/s44222-023-00093-x)
+
+- **\*Scarampi, A.**, Bombelli, P., Savanth, A., Rowden, S.J.L., Green, D.H., Erbe, A., Årstøl, E., Jevremovic, I., Hohmann-Marriott, M.F., Trasatti, S.P., Ozer, E., Howe, C.J. (2022). Powering a microprocessor by photosynthesis. *Energy & Environmental Science*, 15(6), 2529–2536. [DOI](https://doi.org/10.1039/d2ee00233g)
+
+- Lawrence, J.M., Yin, Y., Bombelli, P., **Scarampi, A.**, Storch, M., Wey, L.T., Climent-Catala, A., Baldwin, G.S., O'Hare, D., Howe, C.J., Zhang, J.Z., Ouldridge, T.E., Ledesma-Amaro, R. (2022). Synthetic biology and bioelectrochemical tools for electrogenetic system engineering. *Science Advances*, 8(18). [DOI](https://doi.org/10.1126/sciadv.abm5091)
+
+### Pre-prints & other
+
+- **Scarampi, A.**, Duxbury, S.J.N., Coates, M., Eren, A.M., Soyer, O.S. (2026). Enrichment of convergent metabolic functions in microbial communities through imposed and emergent environmental niches. *bioRxiv*. [DOI](https://doi.org/10.64898/2026.02.11.705344)
+
+- Kosmuetzky, D., Wey, L.T., Nikkanen, L., Ferenczi, A., Lawrence, J.M., **Scarampi, A.** *et al.* (2026). A conserved photosynthetic cytochrome enhances growth in fluctuating light. *bioRxiv*. [DOI](https://doi.org/10.64898/2026.02.13.705717)
+
+- Marquiegui-Alvaro, A., Kottara, A., Thomas, M.J.N., **Scarampi, A.**, Chacon, M., Brockhurst, M.A., Dixon, N. (2026). Using auxotrophic donor strains to explore pQBR57 plasmid host range among environmental soil bacterial isolates. *bioRxiv*. [DOI](https://doi.org/10.64898/2026.02.11.702040)
+
+- Duxbury, S., **Scarampi, A.**, Coates, M., Soyer, O.S. (2025). Culturing and Long-term Preservation of Cyanobacterial Communities from Environmental Samples.
+
+- Coates, M., **Scarampi, A.**, Soyer, O. (2025). Environmental Sampling of Freshwater Microbial Communities.
+
+- **Scarampi Del Cairo Di Prunetto, A.** (2024). Electrogenetic pathways in cyanobacteria. *PhD Thesis, University of Cambridge*. [DOI](https://doi.org/10.17863/CAM.113017)
+
+- Nimmo, I.C., Geisler, K., Barbrook, A.C., Kleiner, F.H., **Scarampi, A.**, Kosmützky, D., Nisbet, R.E.R., Howe, C.J. (2022). Establishment of a novel set of vectors for transformation of the dinoflagellate *Amphidinium carterae*. *bioRxiv*. [DOI](https://doi.org/10.1101/2022.12.15.520308)
+
+- **Scarampi, A.** (2021). The Paradox of the Plankton: Coexistence of Structured Microbial Communities. *bioRxiv*. [DOI](https://doi.org/10.1101/2021.09.13.460068)
+
+*\*Co-first author*
+
+---
+
+# Research
+
+## Postdoc: Microbial Community Assembly (2024–present)
+
+*University of Warwick, [Soyer Lab](https://www.soyer-lab.com/) · Gordon and Betty Moore Foundation "Symbiosis in Aquatic Systems"*
+
+I am currently a Research Fellow at Warwick, working on understanding the interplay between microbial interactions and spatial organisation in photosynthetic communities. Using a combination of metagenomics, controlled laboratory enrichments, and computational analysis, I study how microbial communities assemble and whether their composition is predictable.
+
+A central finding from this work is that photosynthetic communities from distinct environmental sources converge to functionally similar states when cultured under defined conditions — suggesting that community assembly is **deterministic at the functional level**, even when taxonomic composition varies. The key drivers appear to be nitrogen availability, vitamins, and light regime. I have built reproducible Snakemake/anvi'o pipelines for metagenomic assembly, binning, and functional annotation on HPC clusters, and developed a contig-level metabolic profiling approach that enables robust cross-sample comparison independently of genome recovery.
+
+This work has been submitted to *PNAS* ([preprint on bioRxiv](https://doi.org/10.64898/2026.02.11.705344)).
+
+---
+
+## PhD: Electrogenetic Pathways in Cyanobacteria (2020–2024)
+
+*University of Cambridge, Department of Biochemistry, [Howe Lab](https://www.bioc.cam.ac.uk/research/howe) · BBSRC-DTP scholarship*
+
+My PhD investigated how cyanobacteria, photosynthetic bacteria that generate oxygen from sunlight and water, sense and respond to electrical and chemical signals in their environment. I called these pathways "electrogenetic," reflecting the coupling between electrochemistry and gene regulation.
+
+Cyanobacteria are among the oldest life forms on Earth and are responsible for oxygenating our atmosphere billions of years ago. Today, they are also promising candidates for sustainable biotechnology, from biofuel production to solar-powered electronics. However, precisely controlling what cyanobacteria do, turning genes on and off at will, remains a major challenge. My work explored whether electrical signals could be used as a new way to control gene expression in these organisms.
+
+Key findings from my PhD include:
+
+**Comparative genomics of electrogenetic pathways.** I mapped the distribution of redox-sensing transcription factors, electron-transfer systems, and reactive oxygen species (ROS)-generating enzymes across thousands of cyanobacterial genomes, revealing both universally conserved and environment-specific components.
+
+**Electrogenetic control of gene expression.** I characterised the PrqRA system in *Synechocystis* sp. PCC 6803 and showed that the transcription factor PrqR can act as a biomolecular voltage detector — enabling electrical signals applied via electrodes to control gene expression inside cyanobacterial cells.
+
+**Rapid adaptive evolution in polyploid cyanobacteria.** Through laboratory evolution experiments, I discovered that cyanobacteria can evolve herbicide resistance remarkably quickly because their polyploid genomes (with many copies of each chromosome) harbour standing genetic variation — rare mutations already present in the population that can be rapidly selected for under stress. This was published in [*Current Biology* (2025)](https://doi.org/10.1016/j.cub.2025.02.044).
+
+**A photosynthetic microprocessor.** In collaboration with lab mates and colleagues at ARM, I helped develop and characterise a device that uses living cyanobacteria to power a commercial microprocessor using only ambient light and water, demonstrating a working bio-solar power source. Published in [*Energy & Environmental Science* (2022)](https://doi.org/10.1039/d2ee00233g).
+
+**Cyanobacterial NADPH oxidases.** I investigated the unexpected presence of ROS-generating NADPH oxidase (NOX) genes in cyanobacteria. Experimental characterisation showed these enzymes are functional and may play a role in iron acquisition, arranged in a toxin-antitoxin-like operon with superoxide dismutase.
+
+The full thesis is available on the [Cambridge Apollo Repository](https://doi.org/10.17863/CAM.113017).
+
+---
+
+## Undergraduate: Biotechnology, Synthetic Biology & Biophysics (2016–2019)
+
+*Imperial College London, BSc Biotechnology
+
+My interest in research began at Imperial, where I was part of two international student competitions that shaped my research trajectory.
 I developed a passion for [synthetic](https://en.wikipedia.org/wiki/Synthetic_biology) and [systems biology](https://en.wikipedia.org/wiki/Systems_biology): two fields of research that aim to engineer and deconstruct living systems in order to understand their assembly logic. 
 I am now trying to apply those principles to study how and why certain bacteria are able to sense and generate electrical signals when living in [biofilms](https://en.wikipedia.org/wiki/Biofilm). 
 In particular, I am curious about the molecular mechanisms and genetic components that allow [cyanobacteria](https://en.wikipedia.org/wiki/Cyanobacteria) to produce electricity from sunlight, air and water (in so-called [biophotovoltaic devices](https://en.wikipedia.org/wiki/Biological_photovoltaics)). 
 I am also keen about developing biophysical techniques to investigate how the evolution of electrical signalling in structured communities of [exoelectrogenic](https://en.wikipedia.org/wiki/Exoelectrogen) photosynthetic bacteria contributes to the emergence of collective properties.
 
 
-## Green Biotechnology
+### Green Biotechnology
 I am fascinated by the reactions of [photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis), which enables photosynthetic organisms to perform the complex chemistry of transforming solar into chemical energy, in ambient conditions and in a self-repairing way. This complex network of reactions can be exploited to catalyse the transition towards a greener future, where biomanufacturing of therapeutics, commodity chemicals and biofuels will take place in photosynthetic organelles.
 
 ![alt text](/assets/cyanoproduction.jpg)
@@ -20,7 +99,7 @@ In particular, cyanobacteria hold great promises as sustainable bioproduction pl
 There is a lot of interest in expanding synthetic biology toolkits to engineer cyanobacteria for photobiomanufacturing and energy generation.
 However, exploiting cyanobacteria as reliable microfactories requires precise control of gene expression. Current biological control systems fail to provide the reversible and programmable spatiotemporal control of electrical systems used in industry. Electrogenetics is an emerging field of synthetic biology investigating electronic control of gene expression. Whereas electrogenetic control has been demonstrated to enable precise spatial patterning in *E. coli*, currently photosynthetic cells lack an analogous induction system.
 
-## Bio-Photo-Electrochemistry
+### Bio-Photo-Electrochemistry
 
 It is now a widely accepted fact that net decarbonisation of human activities in the soonest future is required to avoid the collapse of our planet into irreversible climate calamities. To this aim, efficient and sustainable ways need to be developed for energy production, which is currently responsible for almost a third of global carbon emissions,
 Harnessing the almost limitless supply of solar radiation with photosynthetic organisms using biophotovoltaic  (BPV) devices is a promising strategy in the pursuit of these goals.
@@ -34,14 +113,14 @@ However, to date, these devices are not commercially viable and examples of thei
 We need to encourage discussions about potential applications of biophotovoltaic devices and brainstorm ideas needed to catalyse the scaling-up of solar electricity bioconversion.
 Hopefully, in the near future, BPVs will be useful to power for low power demanding, off-grid applications.
 
-## Synthetic Biology
+### Synthetic Biology
 My interest in synthetic biology derives from its potential to design biological processes from the bottom-up.
 I am excited by the possibility to combine electronics and synthetic biology to engineer electrogenetic control in synthetic ecosystems and biofactories.
 
 ![alt text](/assets/synbiolac.png)
 
 
-### What is synthetic biology ?
+#### What is synthetic biology ?
 The [Royal Society](https://royalsociety.org/topics-policy/projects/synthetic-biology/) defines Synthetic Biology as "an emerging area of research that can broadly be described as the design and construction of novel artificial biological pathways, organisms or devices, or the redesign of existing natural biological systems."
 It is very interdisciplinary: biochemistry, biology, physics, computing, art and many other disciplines are included in synthetic biology.
 The idea is that every organism is defined by its DNA, which is like the software of a programme. All the information needed for an organism to operate is written in DNA code (which uses just four symbols: A, C, G, T). Like computer scientists can write various different programs that perform all sort of functions with a programming language, synthetic biologists aim to engineer the organisms by writing in genetic code.
@@ -61,7 +140,7 @@ The problem is that biological systems are incredibly  complex, and therefore di
 The traditional view of scientists is that they need to be pure and out of the context of social and political debate, with the only responsibility of scientific integrity. 
 It should not come as a surprise then if the public perception on matters such as vaccination, OGM, homeopathy and evolution seems to follow emotional beliefs rather than scientific evidence. Tax benefits for the producers of homeopathic and “organic” products, creationism trends and the bad acceptance of OGM products are just some examples of this failure in translating scientific progress into public engagement. If scientists focused on elucidating the complexity of life are not involved in translating it in a more user-friendly manner, then the rise of irrational trends manifested by the general public could be a result of the failure of the scientific community to interact with the rest of the world.
 
-### Synthetica, a new branch in the kingdom of Life ? Image from [Alexandra Daisy Ginsberg](https://www.daisyginsberg.com/), The Synthetic Kingdom: A Natural History of the Synthetic Future. 2009.
+#### Synthetica, a new branch in the kingdom of Life ? Image from [Alexandra Daisy Ginsberg](https://www.daisyginsberg.com/), The Synthetic Kingdom: A Natural History of the Synthetic Future. 2009.
 
 ![Syntha](/assets/synthetica.jpeg)
 
@@ -69,13 +148,13 @@ Hopefully, Synthetic Biology is characterised by a spirit of social responsibili
 The iGEM competition, the biggest and most respected synthetic biology completion around the globe, brings together thousands of passionate biorebels every year in Boston, with the aim to promote synthetic biology advancement, with regards with both the science and the discussion behind it.
 Science communication and outreaching activities can contribute to build a science culture, necessary to bridge the gap between scientists and the general public on matters of societal importance, such as bioethics.
 
-## About iGEM
+### About iGEM
 The international Genetically Engineered Machine ([iGEM](https://igem.org/Main_Page)) competition is the world’s largest Synthetic Biology competition. Student teams are given a kit of biological parts from the [Registry of Standard Biological Parts](http://parts.igem.org/Main_Page) (a sort of standardised DNA bank). Working at their own schools over the summer, they use these parts and new parts of their own design to build synthetic biological systems and operate them in living cells.
 These student teams come from all over the world and spend the six months preceding the competition developing novel technologies in a wide range of areas from healthcare to energy and food. Every year iGEM unites more than 3,000 high school, undergrad, and postgrad students in Boston for a 4-day “jamboree” celebrating their achievements in and enthusiasm for Synthetic Biology.
 [Imperial iGEM](https://www.imperial.ac.uk/synthetic-biology/centre/students/research-opportunities/igem-and-biomod/) teams have consistently proven themselves on the world stage. Over the past 12 years, the teams have won with 3 Grand Prizes, 10 Gold Medals and 17 other awards.
 This project design and competition format is an exceptionally motivating and effective teaching method. Most of the students that take part in the competition end up pursuing PhDs in top universities across the world. The Imperial iGEM projects have significantly contributed to published scientific knowledge in the fields of optogenetics, biosensors, biomaterials, synthetic cultures and electrogenetics. In addition, the competition is a great proving ground for startup ideas. iGEM alumni, of which there are 30,000+, include many entrepreneurs running high-growth companies. Notably, the startups [Ginkgo Bioworks](https://www.ginkgobioworks.com/), [CustoMEM/Puraffinity](https://www.puraffinity.com/), [LabGenius](https://www.labgeni.us/), [Bolt Threads](https://boltthreads.com/) and many more.
 
-## iGEM 2018, Imperial College Team
+### iGEM 2018, Imperial College Team
 
 ![PixCell](/assets/igem.jpg)
 
@@ -90,7 +169,7 @@ Participating in iGEM gave me the opportunity to experience the life of a resear
 I wrote a journal during iGEM .
 * [PixCell Journal, July-October 2018](http://2018.igem.org/Team:Imperial_College/Journal)
 
-# About BIOMOD
+## About BIOMOD
 
 [BIOMOD](http://biomod.net/) is an annual biomolecular design competition for students.
 Undergraduate teams compete to build the coolest stuff using the molecules of life. Previous winners have used DNA, RNA, and proteins as building blocks to create autonomous robots, molecular computers, and prototypes for nanoscale therapeutics. Students lead projects each summer and then travel to San Francisco in late October to present their work and win awards.
