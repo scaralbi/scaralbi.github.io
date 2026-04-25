@@ -32,7 +32,7 @@ layout: page
 
 - [MV Resistance: circular genome plots with pyCirclize](https://github.com/scaralbi/MV_Resistance) — WGS analysis and visualisation, circular genome diagrams; scripts runnable via terminal after cloning
 
-  ![WGS example](https://github.com/scaralbi/MV_Resistance/blob/main/Figures/WGS/wt_Howe_vs_NC000911_genomeview.png?raw=true)
+  ![WGS example](https://raw.githubusercontent.com/scaralbi/MV_Resistance/main/Figures/WGS/wt_Howe_vs_NC000911_genomeview.png)
 
 ---
 
