@@ -38,18 +38,18 @@ category: quick-protein
 
 ## Method
 
-1. Toast sourdough generously — proper colour, slight crunch
-2. Smash avocado straight onto the toast with a fork — salt + pepper + lemon
+1. Toast sourdough generously, proper colour, slight crunch
+2. Smash avocado straight onto the toast with a fork, salt + pepper + lemon
 3. Top with cottage cheese in irregular dollops
 4. Drizzle EVOO generously
 5. Pul biber, crack of pepper, eat
 
 ## Key Details
 
-- **Cottage cheese over the avocado, not under** — keeps the avocado from sweating and going brown
-- **Drizzle EVOO last** — it's structural, not garnish: carries the fat-soluble nutrients
+- **Cottage cheese over the avocado, not under**, keeps the avocado from sweating and going brown
+- **Drizzle EVOO last**, it's structural, not garnish: carries the fat-soluble nutrients
 - **Pul biber** elevates this from snack to meal
-- **Eat immediately** — sourdough goes soggy fast under wet toppings
+- **Eat immediately**, sourdough goes soggy fast under wet toppings
 
 ## Why this works (stack synergy)
 

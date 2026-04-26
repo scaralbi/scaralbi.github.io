@@ -1,6 +1,6 @@
 # scaralbi.github.io
 
-Personal website + blog — Jekyll on GitHub Pages.
+Personal website + blog, Jekyll on GitHub Pages.
 
 **Live:** https://scaralbi.github.io
 
@@ -44,9 +44,9 @@ bundle exec jekyll serve   # http://127.0.0.1:4000
 
 ## Critical config notes
 
-- The Jekyll config file MUST be `_config.yml` (with underscore). A plain `config.yml` is silently ignored — the site will fall back to defaults and any custom collections/permalinks won't work.
+- The Jekyll config file MUST be `_config.yml` (with underscore). A plain `config.yml` is silently ignored, the site will fall back to defaults and any custom collections/permalinks won't work.
 - Don't commit `Gemfile.lock` (it's gitignored). The github-pages gem updates frequently and stale lockfiles cause build failures.
-- Don't put two YAML fields on the same line in any frontmatter — Jekyll's parser fails silently.
+- Don't put two YAML fields on the same line in any frontmatter, Jekyll's parser fails silently.
 
 ## Deploy
 

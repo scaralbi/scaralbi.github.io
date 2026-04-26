@@ -1,5 +1,5 @@
 ---
-title: Eggs on Sourdough — Mediterranean Style
+title: Eggs on Sourdough, Mediterranean Style
 source: The breakfast that powers most gym mornings
 tags: [breakfast, fast, high-protein, vegetarian, mediterranean, post-workout]
 serves: 1
@@ -34,11 +34,11 @@ category: quick-protein
 
 ## Method
 
-1. **Toast sourdough** — proper colour, slight crunch
+1. **Toast sourdough**, proper colour, slight crunch
 2. **Heat EVOO** in a small non-stick pan on medium-high
-3. **Eggs in** — fry until whites are set, yolks still runny (~3 min)
+3. **Eggs in**, fry until whites are set, yolks still runny (~3 min)
 4. **Smash avocado** on the toast with fork + salt + pepper + lemon
-5. **Eggs on top** — slide them onto the avocado
+5. **Eggs on top**, slide them onto the avocado
 6. **Finish**: drizzle EVOO, pul biber, crack of pepper
 7. Optional: drape anchovies, scatter feta, fresh herbs
 
@@ -46,9 +46,9 @@ category: quick-protein
 
 - **Two slices, two eggs** = ~28 g protein. Below this isn't a meal.
 - **Runny yolks** = the dressing. Don't overcook.
-- **EVOO twice**: once to fry (medium heat — EVOO is fine here), once to finish (the structural drizzle)
+- **EVOO twice**: once to fry (medium heat, EVOO is fine here), once to finish (the structural drizzle)
 - **Anchovies** add umami + omega-3 + sodium balance (good post-sweat, post-sauna)
-- **Eat immediately** — the toast goes soggy under the yolk after 5 min
+- **Eat immediately**, the toast goes soggy under the yolk after 5 min
 
 ## Variations
 

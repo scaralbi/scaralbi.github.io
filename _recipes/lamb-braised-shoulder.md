@@ -1,6 +1,6 @@
 ---
 title: Slow-Braised Lamb Shoulder
-source: Ottolenghi / Sami Tamimi — Jerusalem and Plenty style, personal adaptation
+source: Ottolenghi / Sami Tamimi, Jerusalem and Plenty style, personal adaptation
 tags: [lamb, slow-cook, dinner-party, middle-eastern, ottolenghi, weekend, advanced, le-creuset]
 serves: 4-6
 time: 4 hours
@@ -37,7 +37,7 @@ category: meat
 1. Pat lamb completely dry with kitchen paper. Cut 20 deep slits all over (~3 cm deep). Push a thin garlic slice + rosemary sprig into each slit. Preheat oven to 160°C fan.
 2. Mix harissa, EVOO, cumin, coriander, paprika, cinnamon, salt, pepper, lemon zest and pomegranate molasses into a paste. Massage all over the lamb into every crevice.
 3. Heat Le Creuset on high hob, add EVOO, wait until smoking. Sear lamb fat side down without touching for 4–5 mins until deeply crusted. Flip and sear all sides 2 mins each. Remove and set aside.
-4. Same pot (don't clean — the brown bits are flavour): add garlic halved horizontally, onions, rosemary, thyme, preserved lemons, tinned tomatoes. Pour in wine and deglaze, scraping up all brown bits. Reduce by half (3–4 mins). Add stock. Stir. Nestle lamb on top fat side up — half submerged.
+4. Same pot (don't clean, the brown bits are flavour): add garlic halved horizontally, onions, rosemary, thyme, preserved lemons, tinned tomatoes. Pour in wine and deglaze, scraping up all brown bits. Reduce by half (3–4 mins). Add stock. Stir. Nestle lamb on top fat side up, half submerged.
 5. Lid on, into oven at 160°C. Do NOT open for first 2 hours. At 2 hours: open, baste, lid back on for 1.5 hours. Last 30 mins: lid OFF to caramelise the top.
 6. Done when meat falls away from bone with zero resistance.
 7. Lift lamb onto board, cover loosely with foil. Rest minimum 30 mins.
@@ -45,15 +45,15 @@ category: meat
 
 ## Key Details
 
-- The slits stuffed with garlic and rosemary perfume the meat from inside — don't skip this
+- The slits stuffed with garlic and rosemary perfume the meat from inside, don't skip this
 - Searing in the same pot that does the braise = no lost fond
-- Do NOT open for the first 2 hours — temperature stability is everything for collagen conversion
+- Do NOT open for the first 2 hours, temperature stability is everything for collagen conversion
 - Lid OFF for last 30 mins = caramelised top = restaurant presentation
 - 30 min rest is non-negotiable but also buffers perfectly for guests running late
 
 ## Variations
 
-- If guests are late: turn oven to 120°C — it only gets better
+- If guests are late: turn oven to 120°C, it only gets better
 - Swap preserved lemons for regular lemon zest if unavailable
 - Add a cinnamon stick + star anise to the braise for a more North African profile
 - Baharat instead of the individual spices works well and is faster
@@ -61,7 +61,7 @@ category: meat
 
 ## Pairs well with
 
-- Mint yogurt sauce (essential — place meat on top of a pool of it)
+- Mint yogurt sauce (essential, place meat on top of a pool of it)
 - Za'atar / baharat roasted potatoes
 - Roasted cauliflower with tahini
 - Caramelised onion bulgur

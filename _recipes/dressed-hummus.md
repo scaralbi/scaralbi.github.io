@@ -22,23 +22,23 @@ category: pantry-sauces
 
 ## Method
 
-1. Spread hummus in a shallow bowl — use back of spoon to make a swirl with a well in the centre
+1. Spread hummus in a shallow bowl, use back of spoon to make a swirl with a well in the centre
 2. Into the well: generous glug of EVOO
 3. Scatter: sumac, pul biber, whole chickpeas
 4. Finish with fresh parsley
 
 ## Key Details
 
-- The swirl with a well is the Israeli/Ottolenghi presentation — looks stunning, takes 10 seconds
+- The swirl with a well is the Israeli/Ottolenghi presentation, looks stunning, takes 10 seconds
 - Sumac + pul biber + olive oil is exactly what you'd get in Tel Aviv
-- Buy hummus from the Turkish or Lebanese shops on Green Lanes — the supermarket version is not the same product
+- Buy hummus from the Turkish or Lebanese shops on Green Lanes, the supermarket version is not the same product
 
 ## Variations
 
 - Add a soft-boiled egg halved on top for a more substantial starter
 - Pine nuts toasted in butter + cumin on top (Turkish-style)
 - Harissa swirled through for a spicy version
-- Serve warm (microwave briefly, stir) — warm hummus hits differently
+- Serve warm (microwave briefly, stir), warm hummus hits differently
 
 ## Pairs well with
 

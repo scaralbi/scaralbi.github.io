@@ -20,9 +20,7 @@ la materia della vita
 ma sublimano più in fretta  
 che la brina di mattina.  
 Eppure qui da Albione  
-si vede il meridione,  
-si vive ogni stagione  
+si vede il meridione, si vive ogni stagione  
 sempre oltre  
 come sempre  
-oltre al mai,  
-verso il mondo  
+oltre al mai, verso il mondo  

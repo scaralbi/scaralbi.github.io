@@ -1,6 +1,6 @@
 ---
 title: Mint Yogurt Sauce
-source: Personal method — Ottolenghi inspired
+source: Personal method, Ottolenghi inspired
 tags: [vegetarian, sauce, middle-eastern, beginner, make-ahead]
 serves: 4 (as sauce)
 time: 5 min
@@ -18,7 +18,7 @@ category: pantry-sauces
 - Small handful flat-leaf parsley
 - 1 small garlic clove
 - Juice of ½ lemon
-- Splash of cider vinegar (~½ tsp) — the secret tang
+- Splash of cider vinegar (~½ tsp), the secret tang
 - Pinch of salt
 - Drizzle of EVOO
 - Pinch of sumac to finish
@@ -32,9 +32,9 @@ category: pantry-sauces
 
 ## Key Details
 
-- The cider vinegar instead of just lemon gives a rounder, deeper tang — this is the key difference from a basic yogurt sauce
+- The cider vinegar instead of just lemon gives a rounder, deeper tang, this is the key difference from a basic yogurt sauce
 - Serve Ottolenghi style: dollop on plate first, place meat on top
-- Improves over 1–2 hours as the mint infuses — make ahead is better
+- Improves over 1–2 hours as the mint infuses, make ahead is better
 
 ## Variations
 

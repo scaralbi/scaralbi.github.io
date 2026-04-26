@@ -19,22 +19,19 @@ to fly to the Sardinian shores
 
 An airbus full of British lads  
 brought me safe to the motherland  
-Then Ale reached me with a car,    
-we drove to Alghero around midnight.  
+Then Ale reached me with a car, we drove to Alghero around midnight.  
 
 The town was filled with lively youth   
 We ate and drank and read a book  
 and slept outside a police yard.  
-At dawn we parted for the south,  
-where we reached the rest of the crew.  
+At dawn we parted for the south, where we reached the rest of the crew.  
 
 From there more friends joined in the trip  
 we formed a convoy of four cars  
 and without plans nor reckonings    
 we toured gaily around the isle.    
 
-We did not touch a single bed,   
-but every night on virgin sands  
+We did not touch a single bed, but every night on virgin sands  
 we wildly camped and felt at home.   
 
 I wished I always lived liked this:  

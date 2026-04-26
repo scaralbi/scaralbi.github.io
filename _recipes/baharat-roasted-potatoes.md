@@ -1,6 +1,6 @@
 ---
 title: Baharat / Za'atar Roasted Potatoes
-source: Personal method — Middle Eastern spicing
+source: Personal method, Middle Eastern spicing
 tags: [vegan, sides, middle-eastern, beginner, meal-prep]
 serves: 3-4
 time: 45 min
@@ -25,7 +25,7 @@ category: vegetable
 ## Method
 
 1. Soak potatoes in cold water until ready (prevents browning, adds crispiness)
-2. Drain and dry thoroughly with kitchen paper — critical
+2. Drain and dry thoroughly with kitchen paper, critical
 3. Spread on tray, don't crowd
 4. Season and toss only when ready to roast
 5. 200°C for 40–45 mins, turning once halfway
@@ -33,9 +33,9 @@ category: vegetable
 
 ## Key Details
 
-- Season right before roasting — wet seasoning causes steaming, not roasting
-- Don't crowd the tray — potatoes need space or they steam each other
-- Don't touch for first 20 mins — let the crust form undisturbed
+- Season right before roasting, wet seasoning causes steaming, not roasting
+- Don't crowd the tray, potatoes need space or they steam each other
+- Don't touch for first 20 mins, let the crust form undisturbed
 
 ## Variations
 
@@ -46,7 +46,7 @@ category: vegetable
 
 ## Pairs well with
 
-- All lamb dishes — especially braised shoulder and steak-style chops
+- All lamb dishes, especially braised shoulder and steak-style chops
 - Spatchcock chicken
 - Mint yogurt sauce on the side for dipping
 

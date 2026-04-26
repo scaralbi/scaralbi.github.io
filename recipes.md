@@ -7,7 +7,7 @@ permalink: /recipes/
 <section class="recipes-index">
   <h1>Recipes</h1>
   <p class="recipes-intro">
-    Mediterranean cooking — Italian, Levantine, Ottolenghi-influenced.
+    Mediterranean cooking, Italian, Levantine, Ottolenghi-influenced.
     Every recipe with macros, biochemistry notes, and stack synergy.
     Tap a tag to filter. Built for the kitchen and for grocery shopping on the bus.
   </p>

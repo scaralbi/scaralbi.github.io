@@ -1,6 +1,6 @@
 ---
-title: Tonno e Fagioli — Tuna & Cannellini
-source: Italian classic — the original 5-minute high-protein lunch
+title: Tonno e Fagioli, Tuna & Cannellini
+source: Italian classic, the original 5-minute high-protein lunch
 tags: [italian, fast, no-cook, high-protein, lunch, pantry, mediterranean, gut-friendly]
 serves: 1 generous portion
 serving_size_g: 320
@@ -39,28 +39,28 @@ category: quick-protein
 2. **Drain cannellini**, rinse briefly to remove tin liquid
 3. **Build** in a bowl: cannellini + drained tonno (broken into chunks, not flakes) + drained onion + parsley
 4. **Dress**: EVOO + vinegar + salt + pepper + chilli flakes
-5. **Stir gently once** — don't mash the beans
+5. **Stir gently once**, don't mash the beans
 
 ## Key Details
 
 - **Onion soaking trick** = the difference between rustic and raw. Cold water + acid removes harshness in 5 min.
-- **Tonno in olive oil > brine** — the oil is part of the dressing
-- **Don't mash the beans** — texture is the point
-- **Eat at room temperature**, not fridge cold — flavour comes alive
+- **Tonno in olive oil > brine**, the oil is part of the dressing
+- **Don't mash the beans**, texture is the point
+- **Eat at room temperature**, not fridge cold, flavour comes alive
 
 ## Variations
 
 - Add halved cherry tomatoes (peak summer) for sweetness
 - Swap cannellini for borlotti or chickpeas
 - Add a soft-boiled egg on top → +6 g protein
-- Stuff into a halved baguette → "panino al tonno e fagioli" — peak Italian beach lunch
+- Stuff into a halved baguette → "panino al tonno e fagioli", peak Italian beach lunch
 - Add cucumber + parsley → Mediterranean style
 
 ## When to eat
 
 - Lunch from the pantry when you haven't shopped
 - Post-workout (38 g protein, 9 g fibre, all from shelf staples)
-- Beach / picnic / desk lunch — travels well
+- Beach / picnic / desk lunch, travels well
 - After-gym at home when you don't want to cook
 
 ## Stack synergy

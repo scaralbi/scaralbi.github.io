@@ -1,6 +1,6 @@
 ---
 title: Roasted Cauliflower with Tahini
-source: Ottolenghi — Jerusalem style
+source: Ottolenghi, Jerusalem style
 tags: [vegan, sides, ottolenghi-inspired, beginner, dinner-party]
 serves: 3-4
 time: 40 min
@@ -33,9 +33,9 @@ category: vegetable
 
 ## Key Details
 
-- Keep florets large — they caramelise better and hold their shape
-- Tahini goes on cold at the very end — heat makes it seize up and go strange
-- The slightly charred edges are the best bits — don't be afraid of colour
+- Keep florets large, they caramelise better and hold their shape
+- Tahini goes on cold at the very end, heat makes it seize up and go strange
+- The slightly charred edges are the best bits, don't be afraid of colour
 - This is the Ottolenghi formula at its purest: roasted vegetable + tahini + pomegranate + nuts
 
 ## Variations
@@ -47,8 +47,8 @@ category: vegetable
 
 ## Pairs well with
 
-- Any lamb dish — especially braised shoulder (this is the classic accompaniment)
+- Any lamb dish, especially braised shoulder (this is the classic accompaniment)
 - As a standalone with bulgur and mint yogurt
-- Works at room temperature — good for dinner parties
+- Works at room temperature, good for dinner parties
 
 ## Notes & learnings

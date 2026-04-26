@@ -1,6 +1,6 @@
 ---
-title: Pesto Parmesan Chicken — One Tray
-source: Personal method — Italian-Middle Eastern fusion
+title: Pesto Parmesan Chicken, One Tray
+source: Personal method, Italian-Middle Eastern fusion
 tags: [chicken, italian-fusion, fast, weeknight, post-gym, beginner, high-protein, one-tray]
 serves: 2-3
 time: 35 min
@@ -29,7 +29,7 @@ category: meat
 ## Method
 
 1. Preheat oven 200°C fan. Toss potato cubes in EVOO, salt, pepper, pinch of pul biber. Into Pyrex tray. Roast 15 mins while prepping everything else.
-2. Pat breasts dry. Mix pesto with half the Parmigiano. Spread generously over top of each breast. Press remaining Parmigiano firmly on top — this is your crust.
+2. Pat breasts dry. Mix pesto with half the Parmigiano. Spread generously over top of each breast. Press remaining Parmigiano firmly on top, this is your crust.
 3. After 15 mins, pull tray out. Scatter onion, celery, garlic, spinach around the potatoes. Drizzle with EVOO, season.
 4. Place pesto-crusted breasts on top of the vegetables in the tray.
 5. Back in at 200°C for 20–22 mins until crust is golden and bubbling. Chicken internal temp 74°C.
@@ -37,24 +37,24 @@ category: meat
 
 ## Key Details
 
-- Potatoes go in 15 mins early — they need longer than the chicken. This timing is precise
-- Do not overcook — chicken breasts dry out fast. Check at 18 mins with a thermometer
-- Tahini + pesto sounds wrong but is genuinely incredible — nutty, herby, rich
-- The tahini goes on the vegetables only — not the crust, which would make it soggy
+- Potatoes go in 15 mins early, they need longer than the chicken. This timing is precise
+- Do not overcook, chicken breasts dry out fast. Check at 18 mins with a thermometer
+- Tahini + pesto sounds wrong but is genuinely incredible, nutty, herby, rich
+- The tahini goes on the vegetables only, not the crust, which would make it soggy
 - Thin chicken breasts with a rolling pin before coating for more even cooking and more crust surface
 
 ## Variations
 
 - No pesto: use acı biber salçası + lemon zest + EVOO for a Turkish version
 - Add a fried egg on top for extra protein (post-gym)
-- Swap potatoes for cubed sweet potato — pairs even better with the Middle Eastern finish
+- Swap potatoes for cubed sweet potato, pairs even better with the Middle Eastern finish
 - Add artichoke hearts to the vegetable base for an Italian direction
 
 ## Pairs well with
 
 - A simple green salad with lemon and EVOO
 - Extra roasted vegetables on the side
-- Works as a complete meal already — post-gym friendly
+- Works as a complete meal already, post-gym friendly
 
 ## Notes & learnings
 

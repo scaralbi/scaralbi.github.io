@@ -1,5 +1,5 @@
 ---
-title: Ragù alla Albi — Big Sunday Batch
+title: Ragù alla Albi, Big Sunday Batch
 source: Italian tradition, Albi's method (Torino → Harringay)
 tags: [beef, pork, italian, slow-cook, batch, freezer-friendly, high-protein, le-creuset, anabolic]
 serves: 13 portions × 200 g
@@ -23,14 +23,14 @@ category: meat
 
 ## Ingredients
 
-- 1 kg minced lean beef (5%) — or 1.5 kg of the cheaper mixed beef + pork
-- (alternative: 1 kg beef + 500 g pork minced — classic Bolognese base)
+- 1 kg minced lean beef (5%), or 1.5 kg of the cheaper mixed beef + pork
+- (alternative: 1 kg beef + 500 g pork minced, classic Bolognese base)
 - 3 large onions, finely diced
 - 3 celery stalks, finely diced
 - 3 large carrots, finely diced
 - 4 garlic cloves, sliced thin
 - 1.1 L Mutti tomato passata
-- 300–400 ml good red wine (don't be shy — Montepulciano, Barbera, Chianti)
+- 300–400 ml good red wine (don't be shy, Montepulciano, Barbera, Chianti)
 - 1 stock cube (or 200 ml broth if you have it)
 - 2 bay leaves
 - Fresh basil + thyme + oregano (small handful each, or 1 tsp dried each)
@@ -43,35 +43,35 @@ category: meat
 
 ## Method
 
-**Step 1 — Render the meat fat (the foundation)**
-Pat meat dry. Salt and season with pepper. Le Creuset on **high** heat. Add meat in batches — don't crowd. Push down and let it cook on high until fat dissolves and meat is deeply browned. Maillard is non-negotiable. Remove meat with slotted spoon, leave the fat in the pot.
+**Step 1, Render the meat fat (the foundation)**
+Pat meat dry. Salt and season with pepper. Le Creuset on **high** heat. Add meat in batches, don't crowd. Push down and let it cook on high until fat dissolves and meat is deeply browned. Maillard is non-negotiable. Remove meat with slotted spoon, leave the fat in the pot.
 
-**Step 2 — Soffritto in the rendered fat (the Italian secret)**
+**Step 2, Soffritto in the rendered fat (the Italian secret)**
 In that beautiful meat fat: onions FIRST, alone, on medium heat for 8–10 mins until softened and starting to colour. Then add celery + carrots. Continue 12–15 mins until everything is golden and sweet. Add garlic last 3 mins.
 
-**Step 3 — Spice layer**
+**Step 3, Spice layer**
 Add pul biber + pimentón de la Vera + (optional chilli flakes). Stir 30 seconds to bloom in the fat.
 
-**Step 4 — Deglaze with red wine (a lot)**
-Pour in the wine — should sizzle aggressively. Scrape up all the fond from the bottom. Let it bubble and reduce by half (5–7 mins). The kitchen should smell like Sunday in Torino.
+**Step 4, Deglaze with red wine (a lot)**
+Pour in the wine, should sizzle aggressively. Scrape up all the fond from the bottom. Let it bubble and reduce by half (5–7 mins). The kitchen should smell like Sunday in Torino.
 
-**Step 5 — Build the sauce**
+**Step 5, Build the sauce**
 Add the meat back in. Pour over the passata. Add the stock cube (crumbled) or broth. Bay leaves, basil, thyme, oregano, cinnamon. Stir everything together. Taste, adjust salt + pepper.
 
-**Step 6 — Low and slow with lid ON**
+**Step 6, Low and slow with lid ON**
 Bring to a very gentle simmer. Lid ON. Lowest heat possible (or oven at 140–150°C). **3 hours minimum.** Stir every 30–40 min so nothing catches. The sauce should deepen, thicken, smell incredible.
 
-**Step 7 — Reduce with lid OFF**
+**Step 7, Reduce with lid OFF**
 Last 30 mins: lid OFF to reduce and concentrate. The sauce should coat a spoon and the fat should be glossy on the surface.
 
-**Step 8 — Cool and portion fast (histamine management)**
+**Step 8, Cool and portion fast (histamine management)**
 Within 2 hours of cooking: portion into 200 g containers. Fridge 2 days max. Freeze the rest immediately. Freezes for 3 months.
 
 ## Key Details
 
 - **Render the fat first, soffritto in it.** This is the difference between a good ragù and a great one. Fresh oil tastes flat in comparison.
 - **Onions first, alone.** The onion needs to break down sweet before the harder veg goes in. Skipping this = grassy soffritto.
-- **Cinnamon ½ tsp** is the nonna touch — barely perceptible, but you'd miss it if it weren't there.
+- **Cinnamon ½ tsp** is the nonna touch, barely perceptible, but you'd miss it if it weren't there.
 - **Wine generously.** The alcohol cooks off in 5 mins; the acidity and depth stay.
 - **3 hours is the histamine sweet spot.** Longer = more histamine, marginal flavour gain.
 - **Day 2 it's better.** The flavours meld overnight. Make Sunday, eat Monday.
@@ -87,8 +87,8 @@ Within 2 hours of cooking: portion into 200 g containers. Fridge 2 days max. Fre
 
 ## Variations
 
-- **All beef** if no pork available — use slightly higher fat (10%) for flavour
-- **Mixed beef + pork (50/50)** — cheaper, classic, deeper flavour
+- **All beef** if no pork available, use slightly higher fat (10%) for flavour
+- **Mixed beef + pork (50/50)**, cheaper, classic, deeper flavour
 - **Add chicken livers** (100 g, blended smooth) → traditional Bolognese depth
 - **Splash of milk** last 30 mins → softer, classic Bologna character
 - **Add Parmigiano rind** in the simmer → bonus umami, no extra calories

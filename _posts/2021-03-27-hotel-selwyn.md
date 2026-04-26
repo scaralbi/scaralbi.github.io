@@ -51,8 +51,7 @@ C#m                    E
    All the things you didn’t say  
 
 C#m                     E  
-   All the things you thought you would do,   
- D         A  
+   All the things you thought you would do, D         A  
    but you didn’t   
 C#m B    E E     
 But it’s fine…     
@@ -92,8 +91,7 @@ C#m                       E
 D           A  
    Became reality  
 C#m                        E  
-    All the things that we actually did do,   
-D               A  
+    All the things that we actually did do, D               A  
 They factually happened   
 C#m B    E E     
 But it’s fine…     
@@ -124,8 +122,7 @@ C#m                        E
   D           A  
     Became reality  
 C#m                        E  
-    All the things that we actually did do,   
-D                   A  
+    All the things that we actually did do, D                   A  
     They factually happened   
 
 C#m B    E E     
@@ -165,8 +162,7 @@ C#m                           E
 D                   A  
     We’ll see what happens  
 C#m                          E  
-    All the things that we actually did do,   
- D                  A  
+    All the things that we actually did do, D                  A  
     They factually happened   
 
 

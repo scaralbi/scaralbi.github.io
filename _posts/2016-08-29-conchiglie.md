@@ -6,12 +6,9 @@ tags: [poesia, ita]
 
 ---
 Siamo ali diverse  
-di uno stesso falcone,  
-parole inventate  
-in poesie improvvisate,  
-sogni sfocati  
-di luoghi remoti,  
-castelli sbiaditi  
+di uno stesso falcone, parole inventate  
+in poesie improvvisate, sogni sfocati  
+di luoghi remoti, castelli sbiaditi  
 sotto soli invecchiati.  
 
 Viviamo rinchiusi  

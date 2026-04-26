@@ -65,9 +65,9 @@ Key findings from my PhD include:
 
 **Comparative genomics of electrogenetic pathways.** I mapped the distribution of redox-sensing transcription factors, electron-transfer systems, and reactive oxygen species (ROS)-generating enzymes across thousands of cyanobacterial genomes, revealing both universally conserved and environment-specific components.
 
-**Electrogenetic control of gene expression.** I characterised the PrqRA system in *Synechocystis* sp. PCC 6803 and showed that the transcription factor PrqR can act as a biomolecular voltage detector — enabling electrical signals applied via electrodes to control gene expression inside cyanobacterial cells.
+**Electrogenetic control of gene expression.** I characterised the PrqRA system in *Synechocystis* sp. PCC 6803 and showed that the transcription factor PrqR can act as a biomolecular voltage detector, enabling electrical signals applied via electrodes to control gene expression inside cyanobacterial cells.
 
-**Rapid adaptive evolution in polyploid cyanobacteria.** Through laboratory evolution experiments, I discovered that cyanobacteria can evolve herbicide resistance remarkably quickly because their polyploid genomes (with many copies of each chromosome) harbour standing genetic variation — rare mutations already present in the population that can be rapidly selected for under stress. This was published in [*Current Biology* (2025)](https://doi.org/10.1016/j.cub.2025.02.044).
+**Rapid adaptive evolution in polyploid cyanobacteria.** Through laboratory evolution experiments, I discovered that cyanobacteria can evolve herbicide resistance remarkably quickly because their polyploid genomes (with many copies of each chromosome) harbour standing genetic variation, rare mutations already present in the population that can be rapidly selected for under stress. This was published in [*Current Biology* (2025)](https://doi.org/10.1016/j.cub.2025.02.044).
 
 **A photosynthetic microprocessor.** In collaboration with lab mates and colleagues at ARM, I helped develop and characterise a device that uses living cyanobacteria to power a commercial microprocessor using only ambient light and water, demonstrating a working bio-solar power source. Published in [*Energy & Environmental Science* (2022)](https://doi.org/10.1039/d2ee00233g).
 

@@ -21,15 +21,15 @@ category: pantry-sauces
 
 ## Method
 
-1. Whisk all together — it will look like it's splitting, then suddenly goes silky and creamy
+1. Whisk all together, it will look like it's splitting, then suddenly goes silky and creamy
 2. Consistency should be thick double cream
 3. If too thick, add a little more cold water
 
 ## Key Details
 
-- **Never heat tahini** — always use cold, drizzle raw. Heat makes it seize and go strange
-- The splitting-then-coming-together moment is normal — keep whisking
-- Always use cold water, not warm — warm water makes it harder to emulsify
+- **Never heat tahini**, always use cold, drizzle raw. Heat makes it seize and go strange
+- The splitting-then-coming-together moment is normal, keep whisking
+- Always use cold water, not warm, warm water makes it harder to emulsify
 
 ## Variations
 

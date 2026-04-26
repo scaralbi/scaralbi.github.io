@@ -9,14 +9,12 @@ tags: ["music", "jamming", "ita"]
 E  A      
 Ci sono tante domeniche   
 E  B       
-in un anno solare,  
-E A   
+in un anno solare, E A   
 molte storie inventate   
 E B  
 che vorrei essere vere  
 E A   
-Ma quando arriva la notte,   
-E B  
+Ma quando arriva la notte, E B  
 dimmi vuoi rimanere?  
 E A   
 Vuoi restare a parlare   

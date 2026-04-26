@@ -1,5 +1,5 @@
 ---
-title: Lamb Chops — Steak Style
+title: Lamb Chops, Steak Style
 source: Personal method
 tags: [lamb, fast, weeknight, mediterranean, beginner, high-protein, le-creuset]
 serves: 2
@@ -34,10 +34,10 @@ category: meat
 
 ## Key Details
 
-- The fat side rendering step is what makes restaurant lamb taste like restaurant lamb — do not skip it
-- Le Creuset retains heat brilliantly and doesn't cool down when meat goes in — critical for this technique
-- Butter baste in last 90 seconds only — butter burns on a screaming hot pan if started too early
-- Season right before cooking, not hours in advance — salt draws moisture out if left exposed
+- The fat side rendering step is what makes restaurant lamb taste like restaurant lamb, do not skip it
+- Le Creuset retains heat brilliantly and doesn't cool down when meat goes in, critical for this technique
+- Butter baste in last 90 seconds only, butter burns on a screaming hot pan if started too early
+- Season right before cooking, not hours in advance, salt draws moisture out if left exposed
 
 ## Variations
 
@@ -47,7 +47,7 @@ category: meat
 
 ## Pairs well with
 
-- Mint yogurt sauce — served as a pool under the chops, Ottolenghi style
+- Mint yogurt sauce, served as a pool under the chops, Ottolenghi style
 - Baharat or za'atar roasted potatoes
 - Caramelised onion bulgur
 - Simple green salad with sumac vinaigrette

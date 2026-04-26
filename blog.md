@@ -30,9 +30,7 @@ title: Writing
 <script>
 (function () {
   var CATEGORIES = {
-    poetry:  ['poesia', 'poetry', 'narrata', 'ita', 'eng'],
-    music:   ['music', 'jamming', 'piffero', 'dj', 'dj sets'],
-    science: ['science', 'cyanobacteria', 'energy']
+    poetry:  ['poesia', 'poetry', 'narrata', 'ita', 'eng'], music:   ['music', 'jamming', 'piffero', 'dj', 'dj sets'], science: ['science', 'cyanobacteria', 'energy']
   };
 
   var buttons = document.querySelectorAll('.filter-btn');

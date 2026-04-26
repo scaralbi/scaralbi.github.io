@@ -1,6 +1,6 @@
 ---
-title: Insalatona Mediterranea — Beetroot, Feta, Pomegranate
-source: Albi's summer staple — Italian salad logic with Levantine accents
+title: Insalatona Mediterranea, Beetroot, Feta, Pomegranate
+source: Albi's summer staple, Italian salad logic with Levantine accents
 tags: [salad, italian, summer, vegetarian, no-cook, fast, high-fibre, anti-inflammatory, gut-friendly]
 serves: 1 large meal portion
 serving_size_g: 450
@@ -23,32 +23,32 @@ category: salads
 
 ## Ingredients
 
-- 80 g rocket (rucola) or baby spinach — or a mix
-- 200 g pre-cooked beetroot (vacuum-packed) — *or* 250 g raw, air-fried at 200°C 25 min
+- 80 g rocket (rucola) or baby spinach, or a mix
+- 200 g pre-cooked beetroot (vacuum-packed), *or* 250 g raw, air-fried at 200°C 25 min
 - 100 g feta, crumbled (Greek, full fat)
 - 30 g spring onions, finely chopped
 - 1 small garlic clove, finely grated or minced
 - 30 g pomegranate seeds (1/3 of a small pomegranate)
 - Small handful fresh mint, torn
-- 1 lime — juice + zest
+- 1 lime, juice + zest
 - 1.5 tbsp EVOO
 - Salt + black pepper
 - Optional: pinch of pul biber, a few toasted walnuts or pine nuts
 
 ## Method
 
-1. **Beetroot prep** — Cube pre-cooked beetroot (~1.5 cm). If air-frying from raw: peel, cube, toss with EVOO + salt, air fry 200°C × 25 min until edges caramelise.
-2. **Dressing** — Whisk grated garlic + lime juice + lime zest + EVOO + salt + pepper in the salad bowl itself.
-3. **Build** — Rocket into the bowl, toss in the dressing first. Then beetroot, crumbled feta, spring onions, mint, pomegranate seeds. Toss gently — don't bruise the leaves.
-4. **Finish** — Crack of pepper, optional pul biber, optional toasted nuts.
+1. **Beetroot prep**, Cube pre-cooked beetroot (~1.5 cm). If air-frying from raw: peel, cube, toss with EVOO + salt, air fry 200°C × 25 min until edges caramelise.
+2. **Dressing**, Whisk grated garlic + lime juice + lime zest + EVOO + salt + pepper in the salad bowl itself.
+3. **Build**, Rocket into the bowl, toss in the dressing first. Then beetroot, crumbled feta, spring onions, mint, pomegranate seeds. Toss gently, don't bruise the leaves.
+4. **Finish**, Crack of pepper, optional pul biber, optional toasted nuts.
 
 ## Key Details
 
-- **Dress the leaves first** — wet leaves don't carry dressing as well; dressed leaves coat the heavier stuff evenly
-- **Garlic raw and grated** is the Italian touch — pungent without overpowering
-- **Pomegranate seeds last** — they're the jewel; tossing too hard buries them
-- **Feta is salty** — taste before adding salt to dressing
-- **Air-fried fresh beetroot** beats vacuum-packed when you have the time — caramelised edges add depth
+- **Dress the leaves first**, wet leaves don't carry dressing as well; dressed leaves coat the heavier stuff evenly
+- **Garlic raw and grated** is the Italian touch, pungent without overpowering
+- **Pomegranate seeds last**, they're the jewel; tossing too hard buries them
+- **Feta is salty**, taste before adding salt to dressing
+- **Air-fried fresh beetroot** beats vacuum-packed when you have the time, caramelised edges add depth
 
 ## Variations
 

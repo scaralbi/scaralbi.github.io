@@ -24,18 +24,18 @@ category: pantry-sauces
 1. Melt butter or EVOO with pul biber + cumin + salt
 2. Brush over flatbread generously
 3. Under grill or in dry pan for 2–3 mins until bubbling and slightly charred at edges
-4. Cut into strips — serve immediately
+4. Cut into strips, serve immediately
 
 ## Key Details
 
-- Serve immediately — it loses its magic after a few minutes
-- The Turkish answer to garlic bread — and it's better
-- The pul biber in fat blooms and becomes fragrant — don't skip
+- Serve immediately, it loses its magic after a few minutes
+- The Turkish answer to garlic bread, and it's better
+- The pul biber in fat blooms and becomes fragrant, don't skip
 
 ## Variations
 
 - Add a smashed garlic clove to the melting butter for a garlic version
-- Za'atar brushed on instead of the spice butter — simpler, equally good
+- Za'atar brushed on instead of the spice butter, simpler, equally good
 - Finish with a pinch of sumac after grilling for brightness
 
 ## Pairs well with

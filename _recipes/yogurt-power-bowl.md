@@ -40,10 +40,10 @@ category: quick-protein
 
 ## Key Details
 
-- **Full-fat Greek yogurt** > 0% — fat carries the fat-soluble nutrients in the toppings, slows glucose absorption from the honey, and tastes infinitely better
+- **Full-fat Greek yogurt** > 0%, fat carries the fat-soluble nutrients in the toppings, slows glucose absorption from the honey, and tastes infinitely better
 - **Frozen blueberries** thaw on contact with yogurt → become like compote
-- **Chia seeds need 5 min** to start gelling — eat as it sets, or wait if you like the texture
-- **Tahini drizzle** is the Levantine touch — adds calcium + sesame depth
+- **Chia seeds need 5 min** to start gelling, eat as it sets, or wait if you like the texture
+- **Tahini drizzle** is the Levantine touch, adds calcium + sesame depth
 
 ## Variations
 
@@ -55,7 +55,7 @@ category: quick-protein
 
 ## Stack synergy
 
-- **Greek yogurt** = casein-dominant (slow) + whey (fast) — ideal protein blend
+- **Greek yogurt** = casein-dominant (slow) + whey (fast), ideal protein blend
 - **Banana** = potassium, B6, fast carbs (good pre-workout, good post)
 - **Walnuts + almonds** = magnesium, vitamin E, omega-3 (ALA from walnuts)
 - **Honey** = small glucose hit + antibacterial polyphenols
