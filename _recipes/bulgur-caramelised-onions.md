@@ -3,7 +3,8 @@ title: Ottolenghi Bulgur with Caramelised Onions
 source: Ottolenghi — Plenty style, personal adaptation
 tags: [vegetarian, sides, ottolenghi-inspired, intermediate, meal-prep]
 serves: 3-4
-time: 40 min  active: 30 min
+time: 40 min
+active: 30 min
 last_made:
 rating:
 layout: recipe

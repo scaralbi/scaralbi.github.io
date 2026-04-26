@@ -3,7 +3,8 @@ title: Roasted Cauliflower with Tahini
 source: Ottolenghi — Jerusalem style
 tags: [vegan, sides, ottolenghi-inspired, beginner, dinner-party]
 serves: 3-4
-time: 40 min  active: 5 min
+time: 40 min
+active: 5 min
 last_made:
 rating:
 layout: recipe

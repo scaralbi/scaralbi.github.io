@@ -3,7 +3,8 @@ title: Spiced Butter Flatbread
 source: Turkish-inspired
 tags: [vegetarian, starter, turkish, beginner, fast, mezze]
 serves: 4
-time: 5 min  active: 5 min
+time: 5 min
+active: 5 min
 last_made:
 rating:
 layout: recipe

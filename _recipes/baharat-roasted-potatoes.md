@@ -3,7 +3,8 @@ title: Baharat / Za'atar Roasted Potatoes
 source: Personal method — Middle Eastern spicing
 tags: [vegan, sides, middle-eastern, beginner, meal-prep]
 serves: 3-4
-time: 45 min  active: 5 min
+time: 45 min
+active: 5 min
 last_made:
 rating:
 layout: recipe

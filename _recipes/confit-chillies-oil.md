@@ -3,7 +3,8 @@ title: Confit Chillies in Oil
 source: Personal method
 tags: [vegan, starter, middle-eastern, beginner, dinner-party, hands-off, mezze]
 serves: 4-6
-time: 60 min  active: 3 min
+time: 60 min
+active: 3 min
 last_made:
 rating:
 layout: recipe

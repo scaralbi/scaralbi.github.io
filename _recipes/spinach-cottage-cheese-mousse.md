@@ -3,7 +3,8 @@ title: Spinach & Cottage Cheese Mousse
 source: Personal method — deconstructed pesto logic
 tags: [high-protein, vegetarian, healthy, post-gym, beginner, fast]
 serves: 1-2
-time: 15 min  active: 15 min
+time: 15 min
+active: 15 min
 last_made:
 rating:
 layout: recipe

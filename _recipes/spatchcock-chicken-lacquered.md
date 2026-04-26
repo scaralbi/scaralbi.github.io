@@ -3,7 +3,8 @@ title: Spatchcock Chicken — Lacquered Crispy Skin
 source: Personal method — Peking Duck technique applied to Middle Eastern flavours
 tags: [chicken, intermediate, weekend, dinner-party, ottolenghi-inspired, meal-prep, overnight]
 serves: 3-4
-time: 55 min  active: 20 min  (+ overnight)
+time: 55 min
+active: 20 min  (+ overnight)
 last_made:
 rating:
 layout: recipe

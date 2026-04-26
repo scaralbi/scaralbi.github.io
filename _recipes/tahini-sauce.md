@@ -3,7 +3,8 @@ title: Tahini Sauce
 source: Classic Middle Eastern
 tags: [vegan, sauce, middle-eastern, beginner, make-ahead]
 serves: 4 (as sauce)
-time: 3 min  active: 3 min
+time: 3 min
+active: 3 min
 last_made:
 rating:
 layout: recipe

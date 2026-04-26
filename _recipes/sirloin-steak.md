@@ -3,7 +3,8 @@ title: Perfect Sirloin Steak
 source: Personal method — French butter baste technique
 tags: [beef, fast, weeknight, beginner, high-protein]
 serves: 1
-time: 10 min  active: 10 min
+time: 10 min
+active: 10 min
 last_made:
 rating:
 layout: recipe

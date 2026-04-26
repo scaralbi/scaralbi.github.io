@@ -3,7 +3,8 @@ title: Pesto Parmesan Chicken — One Tray
 source: Personal method — Italian-Middle Eastern fusion
 tags: [chicken, italian-fusion, fast, weeknight, post-gym, beginner, high-protein, one-tray]
 serves: 2-3
-time: 35 min  active: 15 min
+time: 35 min
+active: 15 min
 last_made:
 rating:
 layout: recipe

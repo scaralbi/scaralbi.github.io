@@ -15,7 +15,7 @@ macros_per_serving:
   fat_g: 14
   carbs_g: 9
   fiber_g: 2
-last_made: 2026-04
+last_made: "2026-04"
 rating:
 layout: recipe
 category: meat

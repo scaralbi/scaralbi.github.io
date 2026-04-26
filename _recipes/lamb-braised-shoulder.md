@@ -3,7 +3,8 @@ title: Slow-Braised Lamb Shoulder
 source: Ottolenghi / Sami Tamimi — Jerusalem and Plenty style, personal adaptation
 tags: [lamb, slow-cook, dinner-party, middle-eastern, ottolenghi, weekend, advanced, le-creuset]
 serves: 4-6
-time: 4 hours  active: 30 min
+time: 4 hours
+active: 30 min
 last_made:
 rating:
 layout: recipe

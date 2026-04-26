@@ -3,7 +3,8 @@ title: Malbec Pan Gravy
 source: Personal method — from braised lamb or chops
 tags: [sauce, italian-fusion, intermediate]
 serves: 4
-time: 15 min  active: 15 min
+time: 15 min
+active: 15 min
 last_made:
 rating:
 layout: recipe

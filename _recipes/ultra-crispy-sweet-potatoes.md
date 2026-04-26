@@ -3,7 +3,8 @@ title: Ultra Crispy Sweet Potatoes
 source: Personal method — overnight technique
 tags: [vegan, sides, middle-eastern, intermediate, sunday-roast, overnight]
 serves: 3-4
-time: 40 min  active: 20 min  (+ overnight)
+time: 40 min
+active: 20 min  (+ overnight)
 last_made:
 rating:
 layout: recipe

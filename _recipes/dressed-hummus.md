@@ -3,7 +3,8 @@ title: Dressed Hummus
 source: Ottolenghi / Israeli style
 tags: [vegan, starter, middle-eastern, beginner, dinner-party, mezze]
 serves: 4-6
-time: 3 min  active: 3 min
+time: 3 min
+active: 3 min
 last_made:
 rating:
 layout: recipe

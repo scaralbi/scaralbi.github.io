@@ -3,7 +3,8 @@ title: Braised Lamb Chops in Malbec
 source: Personal method — Italian-fusion
 tags: [lamb, slow-cook, italian-fusion, weekend, intermediate, le-creuset, high-protein]
 serves: 2
-time: 2 hours  active: 20 min
+time: 2 hours
+active: 20 min
 last_made:
 rating:
 layout: recipe

@@ -3,7 +3,8 @@ title: Lamb Chops — Steak Style
 source: Personal method
 tags: [lamb, fast, weeknight, mediterranean, beginner, high-protein, le-creuset]
 serves: 2
-time: 15 min  active: 15 min  (+ 2–12 hours salting)
+time: 15 min
+active: 15 min  (+ 2–12 hours salting)
 last_made:
 rating:
 layout: recipe

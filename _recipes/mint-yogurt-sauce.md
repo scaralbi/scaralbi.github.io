@@ -3,7 +3,8 @@ title: Mint Yogurt Sauce
 source: Personal method — Ottolenghi inspired
 tags: [vegetarian, sauce, middle-eastern, beginner, make-ahead]
 serves: 4 (as sauce)
-time: 5 min  active: 5 min
+time: 5 min
+active: 5 min
 last_made:
 rating:
 layout: recipe
