@@ -164,3 +164,278 @@
   border-color: #333;
   color: #fff;
 }
+
+/* === RECIPES INDEX === */
+.recipes-index h1 {
+  margin-bottom: 0.5rem;
+}
+
+.recipes-intro {
+  color: #555;
+  font-size: 0.95rem;
+  margin-bottom: 1.5rem;
+}
+
+.recipe-filters {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: #fafafa;
+  border: 1px solid #eee;
+  border-radius: 4px;
+}
+
+#recipe-search {
+  width: 100%;
+  padding: 0.55rem 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 1rem;
+  font-family: inherit;
+  margin-bottom: 0.85rem;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.filter-row {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 0.6rem;
+}
+
+.filter-row:last-child { margin-bottom: 0; }
+
+.filter-label {
+  font-size: 0.8rem;
+  color: #777;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-right: 0.25rem;
+}
+
+.filter-btn.reset {
+  border-color: #ddd;
+  color: #999;
+  margin-left: auto;
+}
+
+.tag-chip {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  padding: 0.2rem 0.65rem;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  color: #666;
+  font-family: inherit;
+  transition: all 0.12s;
+}
+
+.tag-chip:hover {
+  border-color: #888;
+  color: #333;
+}
+
+.tag-chip.active {
+  background: #4a7c59;
+  border-color: #4a7c59;
+  color: #fff;
+}
+
+.recipe-count {
+  color: #666;
+  font-size: 0.85rem;
+  margin: 0.5rem 0 1.5rem;
+}
+
+.recipe-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.recipe-card {
+  display: block;
+  padding: 1rem 1.1rem;
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+  text-decoration: none;
+  color: inherit;
+  background: #fff;
+  transition: border-color 0.12s, transform 0.12s;
+}
+
+.recipe-card:hover {
+  border-color: #4a7c59;
+  transform: translateY(-1px);
+}
+
+.recipe-card h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.05rem;
+  line-height: 1.25;
+}
+
+.recipe-card-macros {
+  font-size: 0.85rem;
+  color: #555;
+  margin: 0.35rem 0;
+}
+
+.recipe-card-macros strong {
+  color: #333;
+}
+
+.recipe-card-tags {
+  margin: 0.5rem 0 0;
+}
+
+.recipe-card-tags .tag {
+  font-size: 0.7rem;
+  padding: 0.12rem 0.4rem;
+  margin-right: 0.25rem;
+  background: #f5f5f5;
+  color: #777;
+  border-radius: 2px;
+}
+
+/* === SINGLE RECIPE PAGE === */
+.recipe {
+  max-width: 740px;
+}
+
+.recipe-header h1 {
+  margin: 0.5rem 0;
+}
+
+.recipe-stats {
+  display: flex;
+  gap: 1.1rem;
+  flex-wrap: wrap;
+  margin: 0.75rem 0;
+  font-size: 0.88rem;
+  color: #666;
+}
+
+.recipe-source {
+  color: #888;
+  font-size: 0.88rem;
+  margin: 0.5rem 0 1.25rem;
+}
+
+.recipe-macros {
+  background: #f7faf7;
+  border: 1px solid #d8e8dc;
+  border-radius: 4px;
+  padding: 0.85rem 1rem;
+  margin: 1.5rem 0;
+}
+
+.recipe-macros h2 {
+  margin: 0 0 0.6rem;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #4a7c59;
+}
+
+.recipe-macros table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.recipe-macros th {
+  text-align: left;
+  font-weight: 500;
+  font-size: 0.78rem;
+  color: #777;
+  text-transform: uppercase;
+  padding: 0.2rem 0.5rem 0.2rem 0;
+  letter-spacing: 0.04em;
+}
+
+.recipe-macros td {
+  padding: 0.25rem 0.5rem 0.25rem 0;
+  font-weight: 500;
+  color: #333;
+}
+
+.recipe-content h2 {
+  margin-top: 2rem;
+  font-size: 1.2rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.3rem;
+}
+
+.recipe-content h3 {
+  margin-top: 1.5rem;
+  font-size: 1.05rem;
+}
+
+.recipe-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0 1.5rem;
+  font-size: 0.92rem;
+}
+
+.recipe-content th,
+.recipe-content td {
+  text-align: left;
+  padding: 0.4rem 0.6rem;
+  border-bottom: 1px solid #eee;
+}
+
+.recipe-content th {
+  background: #fafafa;
+  font-weight: 600;
+  font-size: 0.82rem;
+}
+
+.recipe-content ol li,
+.recipe-content ul li {
+  margin-bottom: 0.4rem;
+}
+
+.recipe .tags {
+  margin: 0.5rem 0 0;
+}
+
+.back-link {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
+  font-size: 0.9rem;
+}
+
+.back-link a {
+  color: #4a7c59;
+  text-decoration: none;
+}
+
+.back-link a:hover {
+  text-decoration: underline;
+}
+
+/* Mobile tweaks */
+@media (max-width: 600px) {
+  .recipe-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .recipe-stats {
+    gap: 0.75rem;
+    font-size: 0.85rem;
+  }
+
+  .recipe-macros table {
+    font-size: 0.88rem;
+  }
+
+  .filter-btn.reset {
+    margin-left: 0;
+  }
+}

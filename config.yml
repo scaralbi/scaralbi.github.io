@@ -11,16 +11,25 @@ collections:
   posts:
     output: true
     permalink: /blog/:year/:month/:day/:title/
+  recipes:
+    output: true
+    permalink: /recipes/:name/
 
-# Default front matter for posts
+# Default front matter for posts and recipes
 defaults:
-  - 
+  -
     scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
       author: "Albi"
+  -
+    scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: "recipe"
 
 # Building settings
 markdown: kramdown

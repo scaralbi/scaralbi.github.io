@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<article class="recipe"
+  data-tags="{{ page.tags | join: ',' }}"
+  data-diet="{{ page.diet }}"
+  data-category="{{ page.category }}"
+  data-protein="{{ page.macros_per_serving.protein_g | default: 0 }}"
+  data-kcal="{{ page.macros_per_serving.kcal | default: 0 }}"
+  data-time-active="{{ page.active }}">
+
+  <header class="recipe-header">
+    <h1>{{ page.title }}</h1>
+
+    {% if page.tags %}
+    <div class="tags">
+      {% for tag in page.tags %}
+        <span class="tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <div class="recipe-stats">
+      {% if page.time %}<span>⏱ {{ page.time }}</span>{% endif %}
+      {% if page.active %}<span>✋ {{ page.active }} active</span>{% endif %}
+      {% if page.serves %}<span>🍽 {{ page.serves }}</span>{% endif %}
+      {% if page.diet %}<span>🥗 {{ page.diet }}</span>{% endif %}
+      {% if page.season %}<span>🌱 {{ page.season }}</span>{% endif %}
+    </div>
+
+    {% if page.source %}
+    <p class="recipe-source"><em>{{ page.source }}</em></p>
+    {% endif %}
+  </header>
+
+  {% if page.macros_per_serving %}
+  <section class="recipe-macros">
+    <h2>Macros per serving{% if page.serving_size_g %} ({{ page.serving_size_g }} g){% endif %}</h2>
+    <table>
+      <tr>
+        <th>Kcal</th>
+        <th>Protein</th>
+        <th>Fat</th>
+        <th>Carbs</th>
+        <th>Fibre</th>
+      </tr>
+      <tr>
+        <td>{{ page.macros_per_serving.kcal }}</td>
+        <td>{{ page.macros_per_serving.protein_g }} g</td>
+        <td>{{ page.macros_per_serving.fat_g }} g</td>
+        <td>{{ page.macros_per_serving.carbs_g }} g</td>
+        <td>{{ page.macros_per_serving.fiber_g }} g</td>
+      </tr>
+    </table>
+  </section>
+  {% endif %}
+
+  <div class="recipe-content">
+    {{ content }}
+  </div>
+
+  <p class="back-link"><a href="{{ '/recipes' | relative_url }}">← All recipes</a></p>
+</article>
