@@ -7,9 +7,7 @@ permalink: /recipes/
 <section class="recipes-index">
   <h1>Recipes</h1>
   <p class="recipes-intro">
-    Mediterranean cooking, Italian, Levantine, Ottolenghi-influenced.
-    Every recipe with macros, biochemistry notes, and stack synergy.
-    Tap a tag to filter. Built for the kitchen and for grocery shopping on the bus.
+    Cooking is the other kind of chemistry. Mediterranean by instinct, London by circumstance. Olive oil first, always. These are the things I make.
   </p>
 
   <div class="recipe-filters" id="recipe-filters">

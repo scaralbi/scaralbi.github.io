@@ -6,6 +6,14 @@ redirect_from:
   - /research
 ---
 
+I am a biochemist and microbiologist working at the intersection of bioenergetics, bioinformatics, and community and evolutionary biology. Currently a Research Fellow at the University of Warwick (Soyer Lab, Gordon and Betty Moore Foundation), I am broadly interested in how living systems manage energy, and what that tells us about how they evolve, assemble into communities, and respond to their environment.
+
+My PhD at Cambridge (Department of Biochemistry, Howe Lab) investigated the biochemical mechanisms for extracellular electrical transduction in cyanobacteria, the ancient photosynthetic bacteria that first oxygenated our atmosphere. That work spanned electrochemistry, genomics, and laboratory evolution, and included showing that a commercial microprocessor can be powered by living cyanobacteria using only light and water, and that polyploidy allows cyanobacteria to evolve antibiotic resistance far faster than expected.
+
+My current work at Warwick asks a different but connected question. As primary producers, cyanobacteria release organic carbon into the environment, recruiting diverse heterotrophic communities that are coupled to them through shared redox chemistry. How predictable is the composition and function of these communities? Using functional metagenomics, controlled enrichments, and a redox-based theoretical framework, I study how community metabolism is shaped by available energy sources, and whether functional composition converges even when the starting assemblage varies.
+
+---
+
 # Publications
 
 *[Google Scholar](https://scholar.google.com/citations?user=C8ldqvkAAAAJ&hl=en) · 180+ citations*
