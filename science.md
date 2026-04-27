@@ -1,11 +1,14 @@
 ---
-title: Research
+title: Science
 layout: page
+redirect_from:
+  - /research/
+  - /research
 ---
 
 # Publications
 
-*[Google Scholar](https://scholar.google.com/citations?user=C8ldqvkAAAAJ&hl=en) · 150+ citations*
+*[Google Scholar](https://scholar.google.com/citations?user=C8ldqvkAAAAJ&hl=en) · 180+ citations*
 
 ### Peer-reviewed
 

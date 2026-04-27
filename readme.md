@@ -12,7 +12,7 @@ _layouts/           ← page templates (default, post, recipe, page, tag)
 _posts/             ← blog posts
 _recipes/           ← recipe pages (mirrored from private/cooking/recipes/)
 assets/             ← CSS, images, fonts
-*.md                ← top-level pages (about, blog, research, recipes, resources)
+*.md                ← top-level pages (about, blog, science, recipes, resources)
 ```
 
 ## Pages / Collections
@@ -22,7 +22,7 @@ assets/             ← CSS, images, fonts
 | `/` | `index.md` | Homepage |
 | `/about` | `about.md` | Bio |
 | `/blog` | `blog.md` + `_posts/` | Filterable blog list |
-| `/research` | `research.md` | Publications + PhD |
+| `/science` | `science.md` | Publications + PhD (renamed from /research, 2026-04-27, redirect kept) |
 | `/recipes` | `recipes.md` + `_recipes/` | Filterable recipe library (since Apr 2026) |
 | `/resources` | `resources.md` | Code + essays |
 | `/tags/:name/` | `_layouts/tag.html` | Tag archive (jekyll-archives) |
