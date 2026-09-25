@@ -65,7 +65,7 @@ category: meat
 - Za'atar / baharat roasted potatoes
 - Roasted cauliflower with tahini
 - Caramelised onion bulgur
-- A Malbec, Côtes du Rhône, or Shiraz in the glass
+- A good full-bodied red in the glass (Côtes du Rhône, Shiraz, Rioja)
 
 ## Notes & learnings
 

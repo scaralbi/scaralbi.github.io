@@ -50,6 +50,6 @@ category: meat
 - Baharat / za'atar roasted potatoes
 - Wilted spinach with garlic and EVOO
 - Simple green salad
-- A glass of Malbec
+- A glass of red wine
 
 ## Notes & learnings

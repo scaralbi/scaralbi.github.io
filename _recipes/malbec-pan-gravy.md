@@ -1,5 +1,5 @@
 ---
-title: Malbec Pan Gravy
+title: Red Wine Pan Gravy
 source: Personal method, from braised lamb or chops
 tags: [sauce, italian-fusion, intermediate]
 serves: 4
@@ -35,7 +35,7 @@ category: pantry-sauces
 ## Variations
 
 - For a lamb shoulder gravy: strain the full braising liquid (tomatoes + wine + preserved lemon)
-- For a chops version: the Malbec reduction is cleaner and less tomato-forward
+- For a chops version: the wine reduction is cleaner and less tomato-forward
 - Add a splash of cream for a richer version (loses the Mediterranean character)
 
 ## Pairs well with
