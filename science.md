@@ -6,11 +6,13 @@ redirect_from:
   - /research
 ---
 
-I am a biochemist and microbiologist working at the intersection of bioenergetics, bioinformatics, and community and evolutionary biology. Currently a Research Fellow at the University of Warwick (Soyer Lab, Gordon and Betty Moore Foundation), I am broadly interested in how living systems manage energy, and what that tells us about how they evolve, assemble into communities, and respond to their environment.
+I am a biochemist and microbiologist, and what I really study is energy: how electrons move through a cell, and then through a whole community of cells, and what that movement forces the biology to become. Life as an electron looking for a place to rest.
 
-My PhD at Cambridge (Department of Biochemistry, Howe Lab) investigated the biochemical mechanisms for extracellular electrical transduction in cyanobacteria, the ancient photosynthetic bacteria that first oxygenated our atmosphere. That work spanned electrochemistry, genomics, and laboratory evolution, and included showing that a commercial microprocessor can be powered by living cyanobacteria using only light and water, and that polyploidy allows cyanobacteria to evolve antibiotic resistance far faster than expected.
+At the University of Warwick (Soyer Lab, Gordon and Betty Moore Foundation) I work on the functional metagenomics of freshwater microbial communities, and the question I cannot leave alone is whether what a community *does* is predictable from the energy available to it. So I read these communities by function rather than by name, partly on principle and partly because the interesting organisms are usually ones no reference database has ever seen, which means building the pipelines that make that kind of reading possible. The framework underneath is the redox tower: metabolism as a ladder of electron donors and acceptors, and a community as the set of hands passing electrons down it.
 
-My current work at Warwick asks a different but connected question. As primary producers, cyanobacteria release organic carbon into the environment, recruiting diverse heterotrophic communities that are coupled to them through shared redox chemistry. How predictable is the composition and function of these communities? Using functional metagenomics, controlled enrichments, and a redox-based theoretical framework, I study how community metabolism is shaped by available energy sources, and whether functional composition converges even when the starting assemblage varies.
+My PhD at Cambridge (Department of Biochemistry, Howe Lab) was about electricity and cyanobacteria, the ancient photosynthetic bacteria that put the oxygen in our air. How they sense and carry electrical signals, and whether light and water alone are enough to run electronics. That work went from electrochemistry through comparative genomics into laboratory evolution, and along the way we powered a commercial microprocessor with living cells and found that polyploid cyanobacterial genomes let them evolve herbicide resistance considerably faster than anyone had expected.
+
+It started at Imperial, in synthetic biology and iGEM, taking living systems apart to see how they were wired. I have been pulling on the same thread since: energy, redox, and whatever it is that holds a community together.
 
 ---
 
@@ -19,6 +21,8 @@ My current work at Warwick asks a different but connected question. As primary p
 *[Google Scholar](https://scholar.google.com/citations?user=C8ldqvkAAAAJ&hl=en) · 180+ citations*
 
 ### Peer-reviewed
+
+- **Scarampi, A.**, Cremer, J., Soyer, O.S. (2026). Community metabolism in dynamic redox landscapes. *Current Opinion in Microbiology*. [DOI](https://doi.org/10.1016/j.mib.2026.102804)
 
 - **Scarampi, A.**, Lawrence, J.M., Bombelli, P., Kosmützky, D., Zhang, J.Z., Howe, C.J. (2025). Polyploid cyanobacterial genomes provide a reservoir of mutations, allowing rapid evolution of herbicide resistance. *Current Biology*, 35(7), 1549–1561.e3. [DOI](https://doi.org/10.1016/j.cub.2025.02.044)
 
@@ -31,6 +35,8 @@ My current work at Warwick asks a different but connected question. As primary p
 - Lawrence, J.M., Yin, Y., Bombelli, P., **Scarampi, A.**, Storch, M., Wey, L.T., Climent-Catala, A., Baldwin, G.S., O'Hare, D., Howe, C.J., Zhang, J.Z., Ouldridge, T.E., Ledesma-Amaro, R. (2022). Synthetic biology and bioelectrochemical tools for electrogenetic system engineering. *Science Advances*, 8(18). [DOI](https://doi.org/10.1126/sciadv.abm5091)
 
 ### Pre-prints & other
+
+- Poon, R.N., Cremin, K., **Scarampi, A.**, Coates, M., Théry, A., Soyer, O.S. (2026). Emergent particle collection by cyanobacteria through gliding motility and filament buckling. *eLife* (reviewed preprint). [DOI](https://doi.org/10.7554/eLife.112517.1)
 
 - **Scarampi, A.**, Duxbury, S.J.N., Coates, M., Eren, A.M., Soyer, O.S. (2026). Enrichment of convergent metabolic functions in microbial communities through imposed and emergent environmental niches. *bioRxiv*. [DOI](https://doi.org/10.64898/2026.02.11.705344)
 

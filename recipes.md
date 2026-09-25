@@ -7,7 +7,7 @@ permalink: /recipes/
 <section class="recipes-index">
   <h1>Recipes</h1>
   <p class="recipes-intro">
-    Cooking is the other kind of chemistry. Mediterranean by instinct, London by circumstance. Olive oil first, always. These are the things I make.
+    Everything I know about cooking I learned by getting the order wrong: onions too fast, acid too early, salt too late. These are the versions that worked, written down while I still remember why.
   </p>
 
   <div class="recipe-filters" id="recipe-filters">
